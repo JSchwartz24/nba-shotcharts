@@ -1,0 +1,1169 @@
+game_id,game_date,shot_number,game_shot_number,period,minutes_remaining,seconds_remaining,action_type,shot_type,shot_distance_ft,shot_zone_basic,shot_zone_area,shot_zone_range,loc_x,loc_y,shot_made,event_type,streak,rolling_3_fg_pct,rolling_5_fg_pct,rolling_10_fg_pct
+0022500002,2025-10-21,1,1,1,11,39,Fadeaway Jump Shot,2PT Field Goal,13,In The Paint (Non-RA),Center(C),8-16 ft.,-60,125,1,Made Shot,0,,,
+0022500002,2025-10-21,2,2,1,10,18,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Center(C),24+ ft.,18,259,0,Missed Shot,1,1.0,1.0,1.0
+0022500002,2025-10-21,3,3,1,9,7,Jump Shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-88,248,1,Made Shot,-1,0.5,0.5,0.5
+0022500002,2025-10-21,4,4,1,7,36,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-167,217,0,Missed Shot,1,0.6666666666666666,0.6666666666666666,0.6666666666666666
+0022500002,2025-10-21,5,5,1,5,23,Running Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,2,28,0,Missed Shot,-1,0.3333333333333333,0.5,0.5
+0022500002,2025-10-21,6,6,1,5,14,Step Back Jump shot,3PT Field Goal,28,Above the Break 3,Left Side Center(LC),24+ ft.,-167,228,0,Missed Shot,-2,0.3333333333333333,0.4,0.4
+0022500002,2025-10-21,7,7,1,4,7,Pullup Jump shot,2PT Field Goal,12,In The Paint (Non-RA),Center(C),8-16 ft.,-61,110,1,Made Shot,-3,0.0,0.2,0.3333333333333333
+0022500002,2025-10-21,8,8,1,3,12,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Center(C),24+ ft.,-82,260,0,Missed Shot,1,0.3333333333333333,0.4,0.42857142857142855
+0022500002,2025-10-21,9,9,2,7,49,Turnaround Jump Shot,2PT Field Goal,15,Mid-Range,Center(C),8-16 ft.,-51,144,1,Made Shot,-1,0.3333333333333333,0.2,0.375
+0022500002,2025-10-21,10,10,2,5,5,Pullup Jump shot,2PT Field Goal,8,Mid-Range,Right Side(R),8-16 ft.,82,34,0,Missed Shot,1,0.6666666666666666,0.4,0.4444444444444444
+0022500002,2025-10-21,11,11,2,3,44,Fadeaway Jump Shot,2PT Field Goal,11,In The Paint (Non-RA),Center(C),8-16 ft.,-54,105,1,Made Shot,-1,0.3333333333333333,0.4,0.4
+0022500002,2025-10-21,12,12,2,1,52,Driving Floating Jump Shot,2PT Field Goal,5,In The Paint (Non-RA),Center(C),Less Than 8 ft.,11,54,1,Made Shot,1,0.6666666666666666,0.6,0.4
+0022500002,2025-10-21,13,13,2,0,19,Step Back Jump shot,3PT Field Goal,29,Above the Break 3,Center(C),24+ ft.,64,290,1,Made Shot,2,0.6666666666666666,0.6,0.5
+0022500002,2025-10-21,14,14,3,11,31,Driving Floating Jump Shot,2PT Field Goal,13,In The Paint (Non-RA),Center(C),8-16 ft.,36,125,1,Made Shot,3,1.0,0.8,0.5
+0022500002,2025-10-21,15,15,3,10,47,Driving Floating Bank Jump Shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,9,36,1,Made Shot,4,1.0,0.8,0.6
+0022500002,2025-10-21,16,16,3,8,28,Jump Shot,3PT Field Goal,25,Right Corner 3,Right Side(R),24+ ft.,240,72,0,Missed Shot,5,1.0,1.0,0.7
+0022500002,2025-10-21,17,17,3,6,57,Fadeaway Jump Shot,2PT Field Goal,14,In The Paint (Non-RA),Center(C),8-16 ft.,-64,134,1,Made Shot,-1,0.6666666666666666,0.8,0.7
+0022500002,2025-10-21,18,18,3,5,48,Driving Layup Shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,1,32,1,Made Shot,1,0.6666666666666666,0.8,0.7
+0022500002,2025-10-21,19,19,3,5,29,Pullup Jump shot,3PT Field Goal,27,Above the Break 3,Center(C),24+ ft.,-65,267,0,Missed Shot,2,0.6666666666666666,0.8,0.8
+0022500002,2025-10-21,20,20,3,3,33,Fadeaway Jump Shot,2PT Field Goal,9,Mid-Range,Left Side(L),8-16 ft.,-89,37,1,Made Shot,-1,0.6666666666666666,0.6,0.7
+0022500002,2025-10-21,21,21,3,1,40,Driving Floating Bank Jump Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,2,27,1,Made Shot,1,0.6666666666666666,0.6,0.8
+0022500002,2025-10-21,22,22,3,0,28,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,130,234,0,Missed Shot,2,0.6666666666666666,0.8,0.8
+0022500002,2025-10-21,23,23,4,7,16,Fadeaway Bank shot,2PT Field Goal,5,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-23,50,1,Made Shot,-1,0.6666666666666666,0.6,0.7
+0022500002,2025-10-21,24,24,4,5,56,Driving Floating Jump Shot,2PT Field Goal,4,In The Paint (Non-RA),Center(C),Less Than 8 ft.,13,42,1,Made Shot,1,0.6666666666666666,0.6,0.7
+0022500002,2025-10-21,25,25,4,4,50,Pullup Jump shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,27,16,1,Made Shot,2,0.6666666666666666,0.8,0.7
+0022500002,2025-10-21,26,26,4,1,22,Driving Floating Jump Shot,2PT Field Goal,5,In The Paint (Non-RA),Center(C),Less Than 8 ft.,28,46,1,Made Shot,3,1.0,0.8,0.7
+0022500002,2025-10-21,27,27,4,0,35,Fadeaway Jump Shot,3PT Field Goal,22,Left Corner 3,Left Side(L),24+ ft.,-227,22,0,Missed Shot,4,1.0,0.8,0.8
+0022500019,2025-10-24,28,1,1,11,7,Pullup Jump shot,3PT Field Goal,26,Above the Break 3,Center(C),24+ ft.,-71,256,0,Missed Shot,-1,0.6666666666666666,0.8,0.7
+0022500019,2025-10-24,29,2,1,9,35,Fadeaway Jump Shot,2PT Field Goal,14,In The Paint (Non-RA),Center(C),8-16 ft.,71,127,1,Made Shot,-2,0.3333333333333333,0.6,0.6
+0022500019,2025-10-24,30,3,1,9,18,Pullup Jump shot,3PT Field Goal,27,Above the Break 3,Right Side Center(RC),24+ ft.,145,231,1,Made Shot,1,0.3333333333333333,0.6,0.7
+0022500019,2025-10-24,31,4,1,8,57,Jump Shot,3PT Field Goal,28,Above the Break 3,Left Side Center(LC),24+ ft.,-173,226,0,Missed Shot,2,0.6666666666666666,0.6,0.7
+0022500019,2025-10-24,32,5,1,7,10,Driving Floating Bank Jump Shot,2PT Field Goal,8,In The Paint (Non-RA),Center(C),8-16 ft.,-32,78,1,Made Shot,-1,0.6666666666666666,0.4,0.6
+0022500019,2025-10-24,33,6,1,5,44,Driving Floating Bank Jump Shot,2PT Field Goal,4,In The Paint (Non-RA),Center(C),Less Than 8 ft.,32,31,0,Missed Shot,1,0.6666666666666666,0.6,0.7
+0022500019,2025-10-24,34,7,1,4,0,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-107,241,1,Made Shot,-1,0.3333333333333333,0.6,0.6
+0022500019,2025-10-24,35,8,1,3,32,Driving Floating Jump Shot,2PT Field Goal,15,Mid-Range,Center(C),8-16 ft.,23,158,1,Made Shot,1,0.6666666666666666,0.6,0.6
+0022500019,2025-10-24,36,9,1,3,0,Step Back Jump shot,3PT Field Goal,28,Above the Break 3,Left Side Center(LC),24+ ft.,-150,237,1,Made Shot,2,0.6666666666666666,0.6,0.6
+0022500019,2025-10-24,37,10,1,1,47,Pullup Jump shot,3PT Field Goal,29,Above the Break 3,Center(C),24+ ft.,-17,296,1,Made Shot,3,1.0,0.8,0.6
+0022500019,2025-10-24,38,11,1,1,7,Driving Layup Shot,2PT Field Goal,1,Restricted Area,Center(C),Less Than 8 ft.,-10,-1,1,Made Shot,4,1.0,0.8,0.7
+0022500019,2025-10-24,39,12,1,0,39,Jump Shot,3PT Field Goal,27,Above the Break 3,Right Side Center(RC),24+ ft.,130,238,0,Missed Shot,5,1.0,1.0,0.8
+0022500019,2025-10-24,40,13,2,3,0,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Center(C),24+ ft.,48,267,0,Missed Shot,-1,0.6666666666666666,0.8,0.7
+0022500019,2025-10-24,41,14,2,1,8,Step Back Jump shot,2PT Field Goal,15,Mid-Range,Center(C),8-16 ft.,32,151,1,Made Shot,-2,0.3333333333333333,0.6,0.6
+0022500019,2025-10-24,42,15,3,11,29,Driving Floating Jump Shot,2PT Field Goal,8,In The Paint (Non-RA),Center(C),8-16 ft.,-17,87,1,Made Shot,1,0.3333333333333333,0.6,0.7
+0022500019,2025-10-24,43,16,3,8,9,Step Back Jump shot,3PT Field Goal,28,Above the Break 3,Center(C),24+ ft.,-21,284,0,Missed Shot,2,0.6666666666666666,0.6,0.7
+0022500019,2025-10-24,44,17,4,11,22,Turnaround Fadeaway shot,2PT Field Goal,11,Mid-Range,Left Side(L),8-16 ft.,-83,82,1,Made Shot,-1,0.6666666666666666,0.4,0.7
+0022500019,2025-10-24,45,18,4,9,15,Driving Floating Jump Shot,2PT Field Goal,10,In The Paint (Non-RA),Right Side(R),8-16 ft.,55,89,1,Made Shot,1,0.6666666666666666,0.6,0.7
+0022500019,2025-10-24,46,19,4,8,7,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-210,166,1,Made Shot,2,0.6666666666666666,0.8,0.7
+0022500019,2025-10-24,47,20,4,6,27,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Center(C),24+ ft.,-53,262,0,Missed Shot,3,1.0,0.8,0.7
+0022500019,2025-10-24,48,21,4,5,24,Running Dunk Shot,2PT Field Goal,1,Restricted Area,Center(C),Less Than 8 ft.,7,8,1,Made Shot,-1,0.6666666666666666,0.6,0.6
+0022500019,2025-10-24,49,22,4,4,36,Pullup Jump shot,3PT Field Goal,34,Above the Break 3,Center(C),24+ ft.,91,334,0,Missed Shot,1,0.6666666666666666,0.8,0.6
+0022500019,2025-10-24,50,23,4,3,29,Driving Floating Jump Shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,-25,25,0,Missed Shot,-1,0.3333333333333333,0.6,0.6
+0022500024,2025-10-31,51,1,1,11,45,Jump Shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,83,251,0,Missed Shot,-2,0.3333333333333333,0.4,0.6
+0022500024,2025-10-31,52,2,1,8,44,Step Back Jump shot,2PT Field Goal,14,In The Paint (Non-RA),Right Side(R),8-16 ft.,77,121,0,Missed Shot,-3,0.0,0.2,0.5
+0022500024,2025-10-31,53,3,1,8,42,Putback Layup Shot,2PT Field Goal,0,Restricted Area,Center(C),Less Than 8 ft.,5,8,1,Made Shot,-4,0.0,0.2,0.4
+0022500024,2025-10-31,54,4,1,7,44,Running Reverse Layup Shot,2PT Field Goal,0,Restricted Area,Center(C),Less Than 8 ft.,2,8,1,Made Shot,1,0.3333333333333333,0.2,0.5
+0022500024,2025-10-31,55,5,1,6,58,Step Back Jump shot,3PT Field Goal,24,Above the Break 3,Left Side Center(LC),24+ ft.,-224,89,1,Made Shot,2,0.6666666666666666,0.4,0.5
+0022500024,2025-10-31,56,6,1,2,36,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-127,228,1,Made Shot,3,1.0,0.6,0.5
+0022500024,2025-10-31,57,7,1,2,5,Jump Shot,3PT Field Goal,24,Above the Break 3,Left Side Center(LC),24+ ft.,-131,211,0,Missed Shot,4,1.0,0.8,0.5
+0022500024,2025-10-31,58,8,2,6,17,Driving Floating Jump Shot,2PT Field Goal,10,In The Paint (Non-RA),Center(C),8-16 ft.,50,92,1,Made Shot,-1,0.6666666666666666,0.8,0.5
+0022500024,2025-10-31,59,9,2,5,51,Driving Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,15,17,1,Made Shot,1,0.6666666666666666,0.8,0.5
+0022500024,2025-10-31,60,10,2,3,51,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-150,230,0,Missed Shot,2,0.6666666666666666,0.8,0.6
+0022500024,2025-10-31,61,11,2,2,46,Fadeaway Jump Shot,2PT Field Goal,13,In The Paint (Non-RA),Right Side(R),8-16 ft.,70,115,0,Missed Shot,-1,0.6666666666666666,0.6,0.6
+0022500024,2025-10-31,62,12,2,1,1,Pullup Jump shot,2PT Field Goal,11,In The Paint (Non-RA),Right Side(R),8-16 ft.,75,84,1,Made Shot,-2,0.3333333333333333,0.4,0.6
+0022500024,2025-10-31,63,13,3,11,7,Jump Shot,3PT Field Goal,24,Above the Break 3,Center(C),24+ ft.,58,243,1,Made Shot,1,0.3333333333333333,0.6,0.7
+0022500024,2025-10-31,64,14,3,7,6,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Right Side Center(RC),24+ ft.,102,235,1,Made Shot,2,0.6666666666666666,0.6,0.7
+0022500024,2025-10-31,65,15,3,6,19,Driving Floating Jump Shot,2PT Field Goal,10,In The Paint (Non-RA),Center(C),8-16 ft.,10,106,0,Missed Shot,3,1.0,0.6,0.7
+0022500024,2025-10-31,66,16,3,5,57,Jump Shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,82,250,1,Made Shot,-1,0.6666666666666666,0.6,0.6
+0022500024,2025-10-31,67,17,3,5,37,Running Jump Shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,135,226,0,Missed Shot,1,0.6666666666666666,0.8,0.6
+0022500024,2025-10-31,68,18,3,3,57,Step Back Jump shot,3PT Field Goal,24,Above the Break 3,Left Side Center(LC),24+ ft.,-134,210,0,Missed Shot,-1,0.3333333333333333,0.6,0.6
+0022500024,2025-10-31,69,19,3,3,29,Fadeaway Jump Shot,2PT Field Goal,12,In The Paint (Non-RA),Center(C),8-16 ft.,60,114,1,Made Shot,-2,0.3333333333333333,0.4,0.5
+0022500024,2025-10-31,70,20,3,1,1,Step Back Jump shot,3PT Field Goal,24,Above the Break 3,Center(C),24+ ft.,22,247,0,Missed Shot,1,0.3333333333333333,0.4,0.5
+0022500024,2025-10-31,71,21,4,7,48,Turnaround Fadeaway shot,2PT Field Goal,15,In The Paint (Non-RA),Center(C),8-16 ft.,75,131,0,Missed Shot,-1,0.3333333333333333,0.4,0.5
+0022500024,2025-10-31,72,22,4,7,18,Driving Finger Roll Layup Shot,2PT Field Goal,0,Restricted Area,Center(C),Less Than 8 ft.,6,5,1,Made Shot,-2,0.3333333333333333,0.2,0.5
+0022500024,2025-10-31,73,23,4,6,7,Jump Shot,3PT Field Goal,28,Above the Break 3,Right Side Center(RC),24+ ft.,94,271,1,Made Shot,1,0.3333333333333333,0.4,0.5
+0022500024,2025-10-31,74,24,4,5,41,Pullup Jump shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-158,225,0,Missed Shot,2,0.6666666666666666,0.6,0.5
+0022500024,2025-10-31,75,25,4,5,11,Step Back Jump shot,3PT Field Goal,23,Right Corner 3,Right Side(R),24+ ft.,232,-8,0,Missed Shot,-1,0.6666666666666666,0.4,0.4
+0022500024,2025-10-31,76,26,4,3,52,Turnaround Jump Shot,2PT Field Goal,8,In The Paint (Non-RA),Center(C),8-16 ft.,-21,87,1,Made Shot,-2,0.3333333333333333,0.4,0.4
+0022500024,2025-10-31,77,27,4,0,25,Jump Shot,3PT Field Goal,22,Left Corner 3,Left Side(L),24+ ft.,-222,0,0,Missed Shot,1,0.3333333333333333,0.6,0.4
+0022500155,2025-11-02,78,1,1,11,4,Pullup Jump shot,2PT Field Goal,20,Mid-Range,Left Side Center(LC),16-24 ft.,-78,190,1,Made Shot,-1,0.3333333333333333,0.4,0.4
+0022500155,2025-11-02,79,2,1,10,19,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-163,210,0,Missed Shot,1,0.6666666666666666,0.4,0.5
+0022500155,2025-11-02,80,3,1,7,3,Step Back Jump shot,3PT Field Goal,28,Above the Break 3,Center(C),24+ ft.,-58,277,0,Missed Shot,-1,0.3333333333333333,0.4,0.4
+0022500155,2025-11-02,81,4,1,4,17,Jump Shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-157,203,0,Missed Shot,-2,0.3333333333333333,0.4,0.4
+0022500155,2025-11-02,82,5,1,3,17,Jump Shot,3PT Field Goal,27,Above the Break 3,Center(C),24+ ft.,-15,272,0,Missed Shot,-3,0.0,0.2,0.4
+0022500155,2025-11-02,83,6,2,7,40,Step Back Jump shot,2PT Field Goal,18,Mid-Range,Left Side Center(LC),16-24 ft.,-109,148,0,Missed Shot,-4,0.0,0.2,0.3
+0022500155,2025-11-02,84,7,2,7,11,Driving Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,-13,26,1,Made Shot,-5,0.0,0.0,0.2
+0022500155,2025-11-02,85,8,2,5,17,Driving Floating Bank Jump Shot,2PT Field Goal,4,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-34,32,1,Made Shot,1,0.3333333333333333,0.2,0.3
+0022500155,2025-11-02,86,9,2,4,38,Running Pull-Up Jump Shot,3PT Field Goal,27,Above the Break 3,Right Side Center(RC),24+ ft.,94,256,1,Made Shot,2,0.6666666666666666,0.4,0.4
+0022500155,2025-11-02,87,10,2,4,25,Running Layup Shot,2PT Field Goal,4,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,40,1,Made Shot,3,1.0,0.6,0.4
+0022500155,2025-11-02,88,11,2,0,33,Pullup Jump shot,2PT Field Goal,19,Mid-Range,Left Side Center(LC),16-24 ft.,-132,146,0,Missed Shot,4,1.0,0.8,0.5
+0022500155,2025-11-02,89,12,2,0,2,Pullup Jump shot,3PT Field Goal,29,Above the Break 3,Left Side Center(LC),24+ ft.,-112,278,0,Missed Shot,-1,0.6666666666666666,0.8,0.4
+0022500155,2025-11-02,90,13,3,11,0,Step Back Jump shot,2PT Field Goal,20,Mid-Range,Left Side Center(LC),16-24 ft.,-107,170,0,Missed Shot,-2,0.3333333333333333,0.6,0.4
+0022500155,2025-11-02,91,14,3,6,10,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Center(C),24+ ft.,64,251,0,Missed Shot,-3,0.0,0.4,0.4
+0022500155,2025-11-02,92,15,3,4,59,Jump Shot,3PT Field Goal,28,Above the Break 3,Left Side Center(LC),24+ ft.,-163,228,0,Missed Shot,-4,0.0,0.2,0.4
+0022500155,2025-11-02,93,16,3,4,13,Driving Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,-1,22,1,Made Shot,-5,0.0,0.0,0.4
+0022500155,2025-11-02,94,17,4,8,12,Driving Floating Jump Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,1,25,1,Made Shot,1,0.3333333333333333,0.2,0.5
+0022500155,2025-11-02,95,18,4,5,42,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Right Side Center(RC),24+ ft.,108,252,0,Missed Shot,2,0.6666666666666666,0.4,0.5
+0022500155,2025-11-02,96,19,4,4,32,Floating Jump shot,2PT Field Goal,4,In The Paint (Non-RA),Center(C),Less Than 8 ft.,21,36,1,Made Shot,-1,0.6666666666666666,0.4,0.4
+0022500155,2025-11-02,97,20,4,2,45,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Right Side Center(RC),24+ ft.,141,236,0,Missed Shot,1,0.6666666666666666,0.6,0.4
+0022500155,2025-11-02,98,21,4,0,56,Jump Shot,3PT Field Goal,25,Right Corner 3,Right Side(R),24+ ft.,239,76,0,Missed Shot,-1,0.3333333333333333,0.6,0.3
+0022500155,2025-11-02,99,22,4,0,52,Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,-28,10,1,Made Shot,-2,0.3333333333333333,0.4,0.3
+0022500179,2025-11-05,100,1,1,11,26,Step Back Jump shot,2PT Field Goal,12,In The Paint (Non-RA),Center(C),8-16 ft.,-45,113,0,Missed Shot,1,0.3333333333333333,0.4,0.4
+0022500179,2025-11-05,101,2,1,10,23,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-158,231,0,Missed Shot,-1,0.3333333333333333,0.4,0.4
+0022500179,2025-11-05,102,3,1,10,15,Jump Shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-152,213,1,Made Shot,-2,0.3333333333333333,0.2,0.4
+0022500179,2025-11-05,103,4,1,9,5,Jump Shot,3PT Field Goal,27,Above the Break 3,Right Side Center(RC),24+ ft.,176,206,0,Missed Shot,1,0.3333333333333333,0.4,0.5
+0022500179,2025-11-05,104,5,1,7,13,Pullup Jump shot,2PT Field Goal,19,Mid-Range,Center(C),16-24 ft.,25,189,1,Made Shot,-1,0.3333333333333333,0.4,0.4
+0022500179,2025-11-05,105,6,1,6,16,Jump Shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-137,222,0,Missed Shot,1,0.6666666666666666,0.4,0.4
+0022500179,2025-11-05,106,7,1,5,40,Pullup Jump shot,2PT Field Goal,4,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-21,42,0,Missed Shot,-1,0.3333333333333333,0.4,0.4
+0022500179,2025-11-05,107,8,1,2,44,Step Back Jump shot,2PT Field Goal,22,Mid-Range,Left Side Center(LC),16-24 ft.,-109,194,0,Missed Shot,-2,0.3333333333333333,0.4,0.3
+0022500179,2025-11-05,108,9,1,1,49,Driving Floating Jump Shot,2PT Field Goal,14,Mid-Range,Left Side(L),8-16 ft.,-116,87,1,Made Shot,-3,0.0,0.2,0.3
+0022500179,2025-11-05,109,10,1,1,29,Driving Floating Jump Shot,2PT Field Goal,16,Mid-Range,Center(C),16-24 ft.,1,164,0,Missed Shot,1,0.3333333333333333,0.4,0.4
+0022500179,2025-11-05,110,11,1,1,25,Floating Jump shot,2PT Field Goal,8,In The Paint (Non-RA),Right Side(R),8-16 ft.,66,50,1,Made Shot,-1,0.3333333333333333,0.2,0.3
+0022500179,2025-11-05,111,12,2,8,2,Fadeaway Jump Shot,2PT Field Goal,11,In The Paint (Non-RA),Right Side(R),8-16 ft.,66,90,0,Missed Shot,1,0.6666666666666666,0.4,0.4
+0022500179,2025-11-05,112,13,2,6,33,Driving Layup Shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,-17,32,1,Made Shot,-1,0.3333333333333333,0.4,0.4
+0022500179,2025-11-05,113,14,2,3,7,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-181,208,1,Made Shot,1,0.6666666666666666,0.6,0.4
+0022500179,2025-11-05,114,15,3,11,46,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Right Side Center(RC),24+ ft.,116,225,0,Missed Shot,2,0.6666666666666666,0.6,0.5
+0022500179,2025-11-05,115,16,3,10,43,Driving Floating Bank Jump Shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,21,23,0,Missed Shot,-1,0.6666666666666666,0.6,0.4
+0022500179,2025-11-05,116,17,3,8,36,Driving Floating Jump Shot,2PT Field Goal,10,In The Paint (Non-RA),Center(C),8-16 ft.,33,100,0,Missed Shot,-2,0.3333333333333333,0.4,0.4
+0022500179,2025-11-05,117,18,3,8,11,Driving Floating Jump Shot,2PT Field Goal,12,In The Paint (Non-RA),Right Side(R),8-16 ft.,64,110,0,Missed Shot,-3,0.0,0.4,0.4
+0022500179,2025-11-05,118,19,3,7,40,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-86,252,1,Made Shot,-4,0.0,0.2,0.4
+0022500179,2025-11-05,119,20,3,4,49,Turnaround Fadeaway shot,2PT Field Goal,20,Mid-Range,Right Side Center(RC),16-24 ft.,129,154,0,Missed Shot,1,0.3333333333333333,0.2,0.4
+0022500179,2025-11-05,120,21,3,2,38,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Center(C),24+ ft.,-59,262,0,Missed Shot,-1,0.3333333333333333,0.2,0.4
+0022500179,2025-11-05,121,22,3,2,28,Driving Floating Jump Shot,2PT Field Goal,13,In The Paint (Non-RA),Center(C),8-16 ft.,62,123,0,Missed Shot,-2,0.3333333333333333,0.2,0.3
+0022500179,2025-11-05,122,23,3,1,31,Fadeaway Jump Shot,2PT Field Goal,9,Mid-Range,Left Side(L),8-16 ft.,-97,12,0,Missed Shot,-3,0.0,0.2,0.3
+0022500179,2025-11-05,123,24,4,6,50,Running Finger Roll Layup Shot,2PT Field Goal,1,Restricted Area,Center(C),Less Than 8 ft.,-5,18,1,Made Shot,-4,0.0,0.2,0.2
+0022500179,2025-11-05,124,25,4,3,27,Step Back Jump shot,3PT Field Goal,24,Left Corner 3,Left Side(L),24+ ft.,-237,57,0,Missed Shot,1,0.3333333333333333,0.2,0.2
+0022500179,2025-11-05,125,26,4,2,31,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Center(C),24+ ft.,48,247,1,Made Shot,-1,0.3333333333333333,0.2,0.2
+0022500179,2025-11-05,126,27,4,0,49,Step Back Jump shot,3PT Field Goal,28,Above the Break 3,Center(C),24+ ft.,-27,279,0,Missed Shot,1,0.6666666666666666,0.4,0.3
+0022500185,2025-11-08,127,1,1,9,30,Pullup Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-165,209,0,Missed Shot,-1,0.3333333333333333,0.4,0.3
+0022500185,2025-11-08,128,2,1,8,34,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-138,221,1,Made Shot,-2,0.3333333333333333,0.4,0.3
+0022500185,2025-11-08,129,3,1,7,57,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Center(C),24+ ft.,-74,253,0,Missed Shot,1,0.3333333333333333,0.4,0.3
+0022500185,2025-11-08,130,4,1,5,43,Driving Floating Jump Shot,2PT Field Goal,12,In The Paint (Non-RA),Center(C),8-16 ft.,15,121,0,Missed Shot,-1,0.3333333333333333,0.4,0.3
+0022500185,2025-11-08,131,5,1,3,17,Jump Shot,3PT Field Goal,22,Left Corner 3,Left Side(L),24+ ft.,-221,21,0,Missed Shot,-2,0.3333333333333333,0.2,0.3
+0022500185,2025-11-08,132,6,1,1,36,Pullup Jump shot,2PT Field Goal,11,In The Paint (Non-RA),Center(C),8-16 ft.,2,114,1,Made Shot,-3,0.0,0.2,0.3
+0022500185,2025-11-08,133,7,1,0,40,Jump Shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-140,231,1,Made Shot,1,0.3333333333333333,0.4,0.4
+0022500185,2025-11-08,134,8,2,8,16,Driving Floating Jump Shot,2PT Field Goal,12,In The Paint (Non-RA),Center(C),8-16 ft.,25,122,0,Missed Shot,2,0.6666666666666666,0.4,0.4
+0022500185,2025-11-08,135,9,2,6,3,Fadeaway Jump Shot,2PT Field Goal,16,Mid-Range,Center(C),16-24 ft.,0,163,1,Made Shot,-1,0.6666666666666666,0.4,0.4
+0022500185,2025-11-08,136,10,2,5,1,Turnaround Jump Shot,2PT Field Goal,11,In The Paint (Non-RA),Center(C),8-16 ft.,40,113,0,Missed Shot,1,0.6666666666666666,0.6,0.4
+0022500185,2025-11-08,137,11,2,4,29,Jump Shot,3PT Field Goal,27,Above the Break 3,Right Side Center(RC),24+ ft.,157,224,1,Made Shot,-1,0.3333333333333333,0.6,0.4
+0022500185,2025-11-08,138,12,2,1,8,Running Pull-Up Jump Shot,3PT Field Goal,35,Above the Break 3,Center(C),24+ ft.,33,357,1,Made Shot,1,0.6666666666666666,0.6,0.5
+0022500185,2025-11-08,139,13,2,0,32,Driving Floating Bank Jump Shot,2PT Field Goal,7,In The Paint (Non-RA),Center(C),Less Than 8 ft.,49,62,1,Made Shot,2,0.6666666666666666,0.6,0.5
+0022500185,2025-11-08,140,14,3,11,24,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-156,207,0,Missed Shot,3,1.0,0.8,0.6
+0022500185,2025-11-08,141,15,3,10,42,Jump Shot,3PT Field Goal,24,Above the Break 3,Center(C),24+ ft.,-36,247,0,Missed Shot,-1,0.6666666666666666,0.6,0.6
+0022500185,2025-11-08,142,16,3,9,26,Pullup Jump shot,2PT Field Goal,16,Mid-Range,Center(C),16-24 ft.,-2,163,0,Missed Shot,-2,0.3333333333333333,0.6,0.6
+0022500185,2025-11-08,143,17,3,7,59,Jump Shot,3PT Field Goal,25,Above the Break 3,Right Side Center(RC),24+ ft.,86,235,0,Missed Shot,-3,0.0,0.4,0.5
+0022500198,2025-11-10,144,1,1,10,34,Pullup Jump shot,2PT Field Goal,12,In The Paint (Non-RA),Center(C),8-16 ft.,53,113,0,Missed Shot,-4,0.0,0.2,0.4
+0022500198,2025-11-10,145,2,1,9,1,Driving Floating Jump Shot,2PT Field Goal,14,Mid-Range,Center(C),8-16 ft.,29,147,0,Missed Shot,-5,0.0,0.0,0.4
+0022500198,2025-11-10,146,3,1,9,0,Putback Layup Shot,2PT Field Goal,1,Restricted Area,Center(C),Less Than 8 ft.,7,16,1,Made Shot,-6,0.0,0.0,0.3
+0022500198,2025-11-10,147,4,1,8,24,Driving Floating Jump Shot,2PT Field Goal,10,In The Paint (Non-RA),Left Side(L),8-16 ft.,-71,77,1,Made Shot,1,0.3333333333333333,0.2,0.4
+0022500198,2025-11-10,148,5,1,7,54,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Center(C),24+ ft.,-2,251,1,Made Shot,2,0.6666666666666666,0.4,0.4
+0022500198,2025-11-10,149,6,1,7,9,Driving Layup Shot,2PT Field Goal,1,Restricted Area,Center(C),Less Than 8 ft.,-12,14,1,Made Shot,3,1.0,0.6,0.4
+0022500198,2025-11-10,150,7,1,6,27,Fadeaway Jump Shot,2PT Field Goal,14,Mid-Range,Left Side(L),8-16 ft.,-102,101,1,Made Shot,4,1.0,0.8,0.4
+0022500198,2025-11-10,151,8,1,5,7,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Center(C),24+ ft.,64,261,0,Missed Shot,5,1.0,1.0,0.5
+0022500198,2025-11-10,152,9,2,4,35,Pullup Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-104,239,1,Made Shot,-1,0.6666666666666666,0.8,0.5
+0022500198,2025-11-10,153,10,2,4,7,Pullup Jump shot,3PT Field Goal,28,Above the Break 3,Left Side Center(LC),24+ ft.,-135,255,0,Missed Shot,1,0.6666666666666666,0.8,0.6
+0022500198,2025-11-10,154,11,2,2,55,Driving Floating Bank Jump Shot,2PT Field Goal,14,Mid-Range,Left Side(L),8-16 ft.,-135,57,1,Made Shot,-1,0.3333333333333333,0.6,0.6
+0022500198,2025-11-10,155,12,2,1,5,Turnaround Jump Shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-169,188,0,Missed Shot,1,0.6666666666666666,0.6,0.7
+0022500198,2025-11-10,156,13,2,0,26,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-151,208,1,Made Shot,-1,0.3333333333333333,0.4,0.7
+0022500198,2025-11-10,157,14,3,10,51,Pullup Jump shot,3PT Field Goal,33,Above the Break 3,Center(C),24+ ft.,-56,333,0,Missed Shot,1,0.6666666666666666,0.6,0.7
+0022500198,2025-11-10,158,15,3,9,12,Turnaround Fadeaway shot,2PT Field Goal,14,Mid-Range,Left Side(L),8-16 ft.,-137,50,1,Made Shot,-1,0.3333333333333333,0.4,0.6
+0022500198,2025-11-10,159,16,3,7,34,Fadeaway Jump Shot,2PT Field Goal,7,In The Paint (Non-RA),Center(C),Less Than 8 ft.,26,74,0,Missed Shot,1,0.6666666666666666,0.6,0.6
+0022500198,2025-11-10,160,17,3,7,27,Jump Shot,3PT Field Goal,28,Above the Break 3,Center(C),24+ ft.,38,278,0,Missed Shot,-1,0.3333333333333333,0.4,0.5
+0022500198,2025-11-10,161,18,3,6,12,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,105,248,1,Made Shot,-2,0.3333333333333333,0.4,0.4
+0022500198,2025-11-10,162,19,3,3,41,Driving Dunk Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,2,23,1,Made Shot,1,0.3333333333333333,0.4,0.5
+0022500198,2025-11-10,163,20,3,3,30,Running Pull-Up Jump Shot,3PT Field Goal,28,Above the Break 3,Right Side Center(RC),24+ ft.,183,215,0,Missed Shot,2,0.6666666666666666,0.6,0.5
+0022500198,2025-11-10,164,21,3,2,0,Pullup Jump shot,3PT Field Goal,26,Above the Break 3,Center(C),24+ ft.,7,263,0,Missed Shot,-1,0.6666666666666666,0.4,0.5
+0022500198,2025-11-10,165,22,3,0,28,Jump Shot,3PT Field Goal,26,Above the Break 3,Center(C),24+ ft.,25,264,1,Made Shot,-2,0.3333333333333333,0.4,0.4
+0022500198,2025-11-10,166,23,4,8,24,Running Pull-Up Jump Shot,3PT Field Goal,25,Above the Break 3,Right Side Center(RC),24+ ft.,108,236,0,Missed Shot,1,0.3333333333333333,0.6,0.5
+0022500198,2025-11-10,167,24,4,5,40,Running Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,17,23,1,Made Shot,-1,0.3333333333333333,0.4,0.4
+0022500198,2025-11-10,168,25,4,4,17,Pullup Jump shot,2PT Field Goal,13,Mid-Range,Right Side(R),8-16 ft.,87,102,1,Made Shot,1,0.6666666666666666,0.4,0.5
+0022500198,2025-11-10,169,26,4,3,56,Running Jump Shot,3PT Field Goal,30,Above the Break 3,Left Side Center(LC),24+ ft.,-173,256,0,Missed Shot,2,0.6666666666666666,0.6,0.5
+0022500198,2025-11-10,170,27,4,3,4,Driving Floating Jump Shot,2PT Field Goal,6,In The Paint (Non-RA),Center(C),Less Than 8 ft.,61,16,0,Missed Shot,-1,0.6666666666666666,0.6,0.5
+0022500198,2025-11-10,171,28,4,0,16,Jump Shot,3PT Field Goal,30,Above the Break 3,Right Side Center(RC),24+ ft.,109,285,0,Missed Shot,-2,0.3333333333333333,0.4,0.5
+0022500222,2025-11-12,172,1,1,11,24,Driving Layup Shot,2PT Field Goal,1,Restricted Area,Center(C),Less Than 8 ft.,12,13,1,Made Shot,-3,0.0,0.4,0.4
+0022500222,2025-11-12,173,2,1,9,0,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Center(C),24+ ft.,83,263,1,Made Shot,1,0.3333333333333333,0.4,0.4
+0022500222,2025-11-12,174,3,1,7,39,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-165,225,0,Missed Shot,2,0.6666666666666666,0.4,0.5
+0022500222,2025-11-12,175,4,1,7,8,Driving Floating Jump Shot,2PT Field Goal,13,In The Paint (Non-RA),Left Side(L),8-16 ft.,-74,110,0,Missed Shot,-1,0.6666666666666666,0.4,0.5
+0022500222,2025-11-12,176,5,1,5,1,Step Back Jump shot,2PT Field Goal,20,Mid-Range,Center(C),16-24 ft.,4,204,0,Missed Shot,-2,0.3333333333333333,0.4,0.4
+0022500222,2025-11-12,177,6,1,2,41,Driving Floating Bank Jump Shot,2PT Field Goal,8,Mid-Range,Right Side(R),8-16 ft.,81,38,1,Made Shot,-3,0.0,0.4,0.4
+0022500222,2025-11-12,178,7,1,1,45,Step Back Jump shot,3PT Field Goal,28,Above the Break 3,Left Side Center(LC),24+ ft.,-129,249,0,Missed Shot,1,0.3333333333333333,0.4,0.4
+0022500222,2025-11-12,179,8,1,0,39,Driving Floating Jump Shot,2PT Field Goal,12,Mid-Range,Left Side(L),8-16 ft.,-116,33,0,Missed Shot,-1,0.3333333333333333,0.2,0.3
+0022500222,2025-11-12,180,9,2,7,39,Driving Floating Jump Shot,2PT Field Goal,9,In The Paint (Non-RA),Center(C),8-16 ft.,7,90,0,Missed Shot,-2,0.3333333333333333,0.2,0.3
+0022500222,2025-11-12,181,10,2,5,41,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Center(C),24+ ft.,66,269,0,Missed Shot,-3,0.0,0.2,0.3
+0022500222,2025-11-12,182,11,2,4,15,Driving Layup Shot,2PT Field Goal,5,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-58,6,0,Missed Shot,-4,0.0,0.2,0.3
+0022500222,2025-11-12,183,12,2,1,17,Driving Floating Jump Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,0,29,1,Made Shot,-5,0.0,0.0,0.2
+0022500222,2025-11-12,184,13,2,0,12,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-159,223,0,Missed Shot,1,0.3333333333333333,0.2,0.2
+0022500222,2025-11-12,185,14,3,8,21,Step Back Jump shot,2PT Field Goal,19,Mid-Range,Left Side Center(LC),16-24 ft.,-80,183,0,Missed Shot,-1,0.3333333333333333,0.2,0.2
+0022500222,2025-11-12,186,15,3,7,10,Fadeaway Jump Shot,2PT Field Goal,15,Mid-Range,Left Side(L),8-16 ft.,-152,0,1,Made Shot,-2,0.3333333333333333,0.2,0.2
+0022500222,2025-11-12,187,16,3,6,4,Step Back Jump shot,3PT Field Goal,24,Above the Break 3,Left Side Center(LC),24+ ft.,-107,225,0,Missed Shot,1,0.3333333333333333,0.4,0.3
+0022500222,2025-11-12,188,17,3,4,26,Pullup Jump shot,2PT Field Goal,17,Mid-Range,Left Side Center(LC),16-24 ft.,-80,153,0,Missed Shot,-1,0.3333333333333333,0.4,0.2
+0022500222,2025-11-12,189,18,3,3,28,Driving Layup Shot,2PT Field Goal,1,Restricted Area,Center(C),Less Than 8 ft.,11,10,1,Made Shot,-2,0.3333333333333333,0.2,0.2
+0022500222,2025-11-12,190,19,3,2,33,Driving Floating Jump Shot,2PT Field Goal,9,In The Paint (Non-RA),Right Side(R),8-16 ft.,61,72,1,Made Shot,1,0.3333333333333333,0.4,0.3
+0022500222,2025-11-12,191,20,3,1,23,Jump Shot,3PT Field Goal,29,Above the Break 3,Right Side Center(RC),24+ ft.,132,261,0,Missed Shot,2,0.6666666666666666,0.6,0.4
+0022500045,2025-11-14,192,1,1,11,38,Turnaround Fadeaway shot,2PT Field Goal,7,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-71,22,0,Missed Shot,-1,0.6666666666666666,0.4,0.4
+0022500045,2025-11-14,193,2,1,6,32,Pullup Jump shot,2PT Field Goal,20,Mid-Range,Center(C),16-24 ft.,58,199,0,Missed Shot,-2,0.3333333333333333,0.4,0.4
+0022500045,2025-11-14,194,3,1,3,7,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-141,208,0,Missed Shot,-3,0.0,0.4,0.3
+0022500045,2025-11-14,195,4,2,8,8,Jump Shot,3PT Field Goal,27,Above the Break 3,Center(C),24+ ft.,39,276,1,Made Shot,-4,0.0,0.2,0.3
+0022500045,2025-11-14,196,5,2,6,11,Pullup Jump shot,2PT Field Goal,9,Mid-Range,Right Side(R),8-16 ft.,92,-5,1,Made Shot,1,0.3333333333333333,0.2,0.4
+0022500045,2025-11-14,197,6,2,4,42,Running Pull-Up Jump Shot,3PT Field Goal,28,Above the Break 3,Right Side Center(RC),24+ ft.,108,262,1,Made Shot,2,0.6666666666666666,0.4,0.4
+0022500045,2025-11-14,198,7,2,2,17,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Right Side Center(RC),24+ ft.,183,209,1,Made Shot,3,1.0,0.6,0.5
+0022500045,2025-11-14,199,8,2,0,31,Step Back Jump shot,3PT Field Goal,24,Above the Break 3,Center(C),24+ ft.,44,241,0,Missed Shot,4,1.0,0.8,0.6
+0022500045,2025-11-14,200,9,3,8,25,Pullup Jump shot,3PT Field Goal,26,Above the Break 3,Center(C),24+ ft.,-15,265,0,Missed Shot,-1,0.6666666666666666,0.8,0.5
+0022500045,2025-11-14,201,10,3,7,1,Fadeaway Jump Shot,2PT Field Goal,12,Mid-Range,Right Side(R),8-16 ft.,109,58,1,Made Shot,-2,0.3333333333333333,0.6,0.4
+0022500045,2025-11-14,202,11,3,3,58,Pullup Jump shot,3PT Field Goal,28,Above the Break 3,Center(C),24+ ft.,66,274,0,Missed Shot,1,0.3333333333333333,0.6,0.5
+0022500045,2025-11-14,203,12,3,2,32,Driving Floating Jump Shot,2PT Field Goal,5,In The Paint (Non-RA),Center(C),Less Than 8 ft.,33,50,0,Missed Shot,-1,0.3333333333333333,0.4,0.5
+0022500045,2025-11-14,204,13,3,0,6,Pullup Jump shot,2PT Field Goal,16,Mid-Range,Center(C),16-24 ft.,0,163,0,Missed Shot,-2,0.3333333333333333,0.2,0.5
+0022500045,2025-11-14,205,14,4,1,37,Fadeaway Jump Shot,2PT Field Goal,12,In The Paint (Non-RA),Center(C),8-16 ft.,10,126,1,Made Shot,-3,0.0,0.2,0.5
+0022500045,2025-11-14,206,15,4,0,12,Layup Shot,2PT Field Goal,4,In The Paint (Non-RA),Center(C),Less Than 8 ft.,32,36,0,Missed Shot,1,0.3333333333333333,0.4,0.5
+0022500045,2025-11-14,207,16,4,0,3,Pullup Jump shot,3PT Field Goal,22,Left Corner 3,Left Side(L),24+ ft.,-227,-24,0,Missed Shot,-1,0.3333333333333333,0.2,0.4
+0022500231,2025-11-15,208,1,1,10,2,Fadeaway Jump Shot,2PT Field Goal,17,Mid-Range,Left Side Center(LC),16-24 ft.,-113,132,0,Missed Shot,-2,0.3333333333333333,0.2,0.3
+0022500231,2025-11-15,209,2,1,9,4,Step Back Jump shot,3PT Field Goal,29,Above the Break 3,Left Side Center(LC),24+ ft.,-180,231,0,Missed Shot,-3,0.0,0.2,0.2
+0022500231,2025-11-15,210,3,1,7,24,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Center(C),24+ ft.,-37,254,1,Made Shot,-4,0.0,0.2,0.2
+0022500231,2025-11-15,211,4,1,6,46,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-202,186,1,Made Shot,1,0.3333333333333333,0.2,0.3
+0022500231,2025-11-15,212,5,1,5,8,Running Pull-Up Jump Shot,2PT Field Goal,14,Mid-Range,Center(C),8-16 ft.,11,146,1,Made Shot,2,0.6666666666666666,0.4,0.3
+0022500231,2025-11-15,213,6,1,3,55,Driving Finger Roll Layup Shot,2PT Field Goal,8,In The Paint (Non-RA),Right Side(R),8-16 ft.,53,62,0,Missed Shot,3,1.0,0.6,0.4
+0022500231,2025-11-15,214,7,1,1,4,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Right Side Center(RC),24+ ft.,137,218,0,Missed Shot,-1,0.6666666666666666,0.6,0.4
+0022500231,2025-11-15,215,8,1,1,51,Driving Floating Jump Shot,2PT Field Goal,11,In The Paint (Non-RA),Center(C),8-16 ft.,-6,110,0,Missed Shot,-2,0.3333333333333333,0.6,0.4
+0022500231,2025-11-15,216,9,2,5,36,Turnaround Fadeaway shot,2PT Field Goal,11,Mid-Range,Left Side(L),8-16 ft.,-91,65,1,Made Shot,-3,0.0,0.4,0.3
+0022500231,2025-11-15,217,10,2,3,49,Driving Floating Jump Shot,2PT Field Goal,12,Mid-Range,Right Side(R),8-16 ft.,124,-5,0,Missed Shot,1,0.3333333333333333,0.4,0.4
+0022500231,2025-11-15,218,11,2,2,42,Step Back Jump shot,3PT Field Goal,28,Above the Break 3,Left Side Center(LC),24+ ft.,-157,235,1,Made Shot,-1,0.3333333333333333,0.2,0.4
+0022500231,2025-11-15,219,12,2,1,14,Turnaround Fadeaway shot,2PT Field Goal,21,Mid-Range,Left Side Center(LC),16-24 ft.,-116,178,1,Made Shot,1,0.6666666666666666,0.4,0.5
+0022500231,2025-11-15,220,13,2,0,3,Step Back Bank Jump Shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-197,194,0,Missed Shot,2,0.6666666666666666,0.6,0.6
+0022500231,2025-11-15,221,14,3,9,12,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Center(C),24+ ft.,-60,270,0,Missed Shot,-1,0.6666666666666666,0.6,0.5
+0022500231,2025-11-15,222,15,3,3,51,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-207,144,0,Missed Shot,-2,0.3333333333333333,0.4,0.4
+0022500231,2025-11-15,223,16,3,0,56,Step Back Jump shot,3PT Field Goal,29,Above the Break 3,Center(C),24+ ft.,27,289,1,Made Shot,-3,0.0,0.4,0.3
+0022500231,2025-11-15,224,17,3,0,30,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Center(C),24+ ft.,-6,266,1,Made Shot,1,0.3333333333333333,0.4,0.4
+0022500231,2025-11-15,225,18,3,0,2,Driving Floating Jump Shot,2PT Field Goal,10,Mid-Range,Right Side(R),8-16 ft.,88,52,1,Made Shot,2,0.6666666666666666,0.4,0.5
+0022500231,2025-11-15,226,19,4,11,46,Jump Shot,3PT Field Goal,26,Above the Break 3,Center(C),24+ ft.,-78,253,0,Missed Shot,3,1.0,0.6,0.6
+0022500253,2025-11-18,227,1,1,9,39,Fadeaway Jump Shot,2PT Field Goal,10,In The Paint (Non-RA),Center(C),8-16 ft.,-34,101,0,Missed Shot,-1,0.6666666666666666,0.6,0.5
+0022500253,2025-11-18,228,2,1,9,2,Jump Shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-136,232,0,Missed Shot,-2,0.3333333333333333,0.6,0.5
+0022500253,2025-11-18,229,3,1,7,24,Fadeaway Jump Shot,2PT Field Goal,12,In The Paint (Non-RA),Center(C),8-16 ft.,-58,111,1,Made Shot,-3,0.0,0.4,0.4
+0022500253,2025-11-18,230,4,1,6,45,Step Back Jump shot,3PT Field Goal,24,Right Corner 3,Right Side(R),24+ ft.,232,62,0,Missed Shot,1,0.3333333333333333,0.4,0.4
+0022500253,2025-11-18,231,5,1,5,54,Driving Floating Jump Shot,2PT Field Goal,8,In The Paint (Non-RA),Left Side(L),8-16 ft.,-67,60,1,Made Shot,-1,0.3333333333333333,0.2,0.4
+0022500253,2025-11-18,232,6,1,3,27,Driving Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,-9,26,1,Made Shot,1,0.6666666666666666,0.4,0.5
+0022500253,2025-11-18,233,7,1,3,5,Running Pull-Up Jump Shot,2PT Field Goal,12,In The Paint (Non-RA),Center(C),8-16 ft.,-25,123,0,Missed Shot,2,0.6666666666666666,0.6,0.6
+0022500253,2025-11-18,234,8,2,5,37,Jump Shot,3PT Field Goal,27,Above the Break 3,Right Side Center(RC),24+ ft.,147,237,0,Missed Shot,-1,0.6666666666666666,0.6,0.5
+0022500253,2025-11-18,235,9,2,4,37,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,118,241,0,Missed Shot,-2,0.3333333333333333,0.4,0.4
+0022500253,2025-11-18,236,10,2,3,45,Driving Floating Jump Shot,2PT Field Goal,8,In The Paint (Non-RA),Center(C),8-16 ft.,7,81,1,Made Shot,-3,0.0,0.4,0.3
+0022500253,2025-11-18,237,11,2,2,34,Jump Shot,3PT Field Goal,29,Above the Break 3,Left Side Center(LC),24+ ft.,-96,278,1,Made Shot,1,0.3333333333333333,0.4,0.4
+0022500253,2025-11-18,238,12,3,10,29,Driving Floating Jump Shot,2PT Field Goal,9,In The Paint (Non-RA),Right Side(R),8-16 ft.,55,74,1,Made Shot,2,0.6666666666666666,0.4,0.5
+0022500253,2025-11-18,239,13,3,9,28,Driving Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,1,22,1,Made Shot,3,1.0,0.6,0.6
+0022500253,2025-11-18,240,14,3,8,54,Pullup Jump shot,3PT Field Goal,26,Above the Break 3,Center(C),24+ ft.,-71,255,0,Missed Shot,4,1.0,0.8,0.6
+0022500253,2025-11-18,241,15,3,5,41,Driving Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,-18,21,1,Made Shot,-1,0.6666666666666666,0.8,0.6
+0022500253,2025-11-18,242,16,3,5,3,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-167,198,0,Missed Shot,1,0.6666666666666666,0.8,0.6
+0022500253,2025-11-18,243,17,3,3,36,Driving Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,-2,26,1,Made Shot,-1,0.3333333333333333,0.6,0.5
+0022500253,2025-11-18,244,18,3,3,4,Driving Floating Jump Shot,2PT Field Goal,8,In The Paint (Non-RA),Center(C),8-16 ft.,12,82,0,Missed Shot,1,0.6666666666666666,0.6,0.6
+0022500253,2025-11-18,245,19,3,1,50,Jump Shot,3PT Field Goal,23,Right Corner 3,Right Side(R),24+ ft.,230,8,1,Made Shot,-1,0.3333333333333333,0.4,0.6
+0022500253,2025-11-18,246,20,3,1,2,Driving Floating Jump Shot,2PT Field Goal,16,Mid-Range,Right Side(R),16-24 ft.,162,32,1,Made Shot,1,0.6666666666666666,0.6,0.7
+0022500253,2025-11-18,247,21,3,0,36,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Right Side Center(RC),24+ ft.,185,178,0,Missed Shot,2,0.6666666666666666,0.6,0.7
+0022500253,2025-11-18,248,22,4,3,58,Jump Shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,192,184,0,Missed Shot,-1,0.6666666666666666,0.6,0.6
+0022500282,2025-11-23,249,1,1,10,18,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-99,234,0,Missed Shot,-2,0.3333333333333333,0.4,0.5
+0022500282,2025-11-23,250,2,1,9,21,Jump Shot,3PT Field Goal,31,Above the Break 3,Left Side Center(LC),24+ ft.,-191,247,0,Missed Shot,-3,0.0,0.4,0.4
+0022500282,2025-11-23,251,3,1,8,53,Turnaround Jump Shot,2PT Field Goal,10,In The Paint (Non-RA),Left Side(L),8-16 ft.,-76,67,1,Made Shot,-4,0.0,0.2,0.4
+0022500282,2025-11-23,252,4,1,8,7,Fadeaway Jump Shot,2PT Field Goal,8,In The Paint (Non-RA),Right Side(R),8-16 ft.,43,73,1,Made Shot,1,0.3333333333333333,0.2,0.4
+0022500282,2025-11-23,253,5,1,7,31,Turnaround Bank shot,2PT Field Goal,5,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-15,53,1,Made Shot,2,0.6666666666666666,0.4,0.5
+0022500282,2025-11-23,254,6,1,6,43,Jump Bank Shot,2PT Field Goal,10,In The Paint (Non-RA),Left Side(L),8-16 ft.,-75,69,0,Missed Shot,3,1.0,0.6,0.5
+0022500282,2025-11-23,255,7,1,5,19,Step Back Jump shot,3PT Field Goal,24,Above the Break 3,Right Side Center(RC),24+ ft.,175,178,0,Missed Shot,-1,0.6666666666666666,0.6,0.5
+0022500282,2025-11-23,256,8,1,3,1,Driving Layup Shot,2PT Field Goal,5,In The Paint (Non-RA),Center(C),Less Than 8 ft.,43,41,1,Made Shot,-2,0.3333333333333333,0.6,0.4
+0022500282,2025-11-23,257,9,1,2,27,Jump Shot,3PT Field Goal,22,Left Corner 3,Left Side(L),24+ ft.,-225,9,0,Missed Shot,1,0.3333333333333333,0.6,0.4
+0022500282,2025-11-23,258,10,1,0,31,Pullup Jump shot,3PT Field Goal,26,Above the Break 3,Center(C),24+ ft.,20,268,1,Made Shot,-1,0.3333333333333333,0.4,0.4
+0022500282,2025-11-23,259,11,2,5,9,Pullup Jump shot,2PT Field Goal,11,In The Paint (Non-RA),Center(C),8-16 ft.,-55,104,1,Made Shot,1,0.6666666666666666,0.4,0.5
+0022500282,2025-11-23,260,12,2,4,3,Step Back Jump shot,2PT Field Goal,12,Mid-Range,Left Side(L),8-16 ft.,-125,11,0,Missed Shot,2,0.6666666666666666,0.6,0.6
+0022500282,2025-11-23,261,13,2,2,4,Running Pull-Up Jump Shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-145,204,0,Missed Shot,-1,0.6666666666666666,0.6,0.6
+0022500282,2025-11-23,262,14,2,1,8,Driving Floating Jump Shot,2PT Field Goal,9,In The Paint (Non-RA),Left Side(L),8-16 ft.,-74,53,0,Missed Shot,-2,0.3333333333333333,0.4,0.5
+0022500282,2025-11-23,263,15,3,11,7,Step Back Jump shot,2PT Field Goal,17,Mid-Range,Right Side Center(RC),16-24 ft.,91,152,1,Made Shot,-3,0.0,0.4,0.4
+0022500282,2025-11-23,264,16,3,8,54,Turnaround Jump Shot,2PT Field Goal,19,Mid-Range,Left Side(L),16-24 ft.,-163,99,0,Missed Shot,1,0.3333333333333333,0.4,0.4
+0022500282,2025-11-23,265,17,3,7,55,Pullup Jump shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-162,200,0,Missed Shot,-1,0.3333333333333333,0.2,0.4
+0022500282,2025-11-23,266,18,3,5,37,Jump Shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-222,121,0,Missed Shot,-2,0.3333333333333333,0.2,0.4
+0022500282,2025-11-23,267,19,3,3,1,Running Jump Shot,3PT Field Goal,25,Above the Break 3,Right Side Center(RC),24+ ft.,105,237,1,Made Shot,-3,0.0,0.2,0.3
+0022500282,2025-11-23,268,20,3,1,56,Pullup Jump shot,3PT Field Goal,25,Above the Break 3,Center(C),24+ ft.,61,246,0,Missed Shot,1,0.3333333333333333,0.4,0.4
+0022500282,2025-11-23,269,21,4,7,15,Turnaround Fadeaway shot,2PT Field Goal,10,In The Paint (Non-RA),Center(C),8-16 ft.,-9,105,1,Made Shot,-1,0.3333333333333333,0.2,0.3
+0022500282,2025-11-23,270,22,4,6,46,Fadeaway Jump Shot,2PT Field Goal,13,Mid-Range,Right Side(R),8-16 ft.,137,-4,0,Missed Shot,1,0.6666666666666666,0.4,0.3
+0022500282,2025-11-23,271,23,4,6,6,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Center(C),24+ ft.,36,252,1,Made Shot,-1,0.3333333333333333,0.4,0.3
+0022500282,2025-11-23,272,24,4,4,9,Step Back Jump shot,3PT Field Goal,29,Above the Break 3,Left Side Center(LC),24+ ft.,-213,201,0,Missed Shot,1,0.6666666666666666,0.6,0.4
+0022500059,2025-11-25,273,1,1,11,2,Driving Floating Jump Shot,2PT Field Goal,7,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-53,48,1,Made Shot,-1,0.3333333333333333,0.4,0.4
+0022500059,2025-11-25,274,2,1,10,26,Turnaround Fadeaway shot,2PT Field Goal,14,Mid-Range,Center(C),8-16 ft.,-37,143,0,Missed Shot,1,0.6666666666666666,0.6,0.4
+0022500059,2025-11-25,275,3,1,7,41,Jump Shot,3PT Field Goal,26,Above the Break 3,Center(C),24+ ft.,-47,259,1,Made Shot,-1,0.3333333333333333,0.4,0.4
+0022500059,2025-11-25,276,4,1,6,32,Driving Floating Jump Shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,34,7,1,Made Shot,1,0.6666666666666666,0.6,0.5
+0022500059,2025-11-25,277,5,1,5,50,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-123,227,1,Made Shot,2,0.6666666666666666,0.6,0.6
+0022500059,2025-11-25,278,6,1,5,18,Running Pull-Up Jump Shot,3PT Field Goal,31,Above the Break 3,Left Side Center(LC),24+ ft.,-173,269,1,Made Shot,3,1.0,0.8,0.6
+0022500059,2025-11-25,279,7,1,4,56,Pullup Jump shot,2PT Field Goal,7,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-75,17,0,Missed Shot,4,1.0,0.8,0.7
+0022500059,2025-11-25,280,8,1,4,23,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-87,263,1,Made Shot,-1,0.6666666666666666,0.8,0.6
+0022500059,2025-11-25,281,9,1,3,55,Jump Shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-205,179,1,Made Shot,1,0.6666666666666666,0.8,0.7
+0022500059,2025-11-25,282,10,1,3,32,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-224,152,0,Missed Shot,2,0.6666666666666666,0.8,0.7
+0022500059,2025-11-25,283,11,1,2,26,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Center(C),24+ ft.,-20,253,0,Missed Shot,-1,0.6666666666666666,0.6,0.7
+0022500059,2025-11-25,284,12,1,2,9,Running Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,20,12,1,Made Shot,-2,0.3333333333333333,0.4,0.6
+0022500059,2025-11-25,285,13,1,0,58,Driving Floating Jump Shot,2PT Field Goal,6,In The Paint (Non-RA),Center(C),Less Than 8 ft.,28,63,1,Made Shot,1,0.3333333333333333,0.6,0.7
+0022500059,2025-11-25,286,14,1,0,29,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Center(C),24+ ft.,-43,273,0,Missed Shot,2,0.6666666666666666,0.6,0.7
+0022500059,2025-11-25,287,15,2,6,16,Fadeaway Jump Shot,2PT Field Goal,10,In The Paint (Non-RA),Center(C),8-16 ft.,38,97,1,Made Shot,-1,0.6666666666666666,0.4,0.6
+0022500059,2025-11-25,288,16,2,4,32,Pullup Jump shot,3PT Field Goal,28,Above the Break 3,Left Side Center(LC),24+ ft.,-116,265,0,Missed Shot,1,0.6666666666666666,0.6,0.6
+0022500059,2025-11-25,289,17,2,0,46,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-143,226,1,Made Shot,-1,0.3333333333333333,0.6,0.5
+0022500059,2025-11-25,290,18,3,10,16,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Center(C),24+ ft.,2,252,1,Made Shot,1,0.6666666666666666,0.6,0.6
+0022500059,2025-11-25,291,19,3,7,1,Driving Floating Jump Shot,2PT Field Goal,11,In The Paint (Non-RA),Left Side(L),8-16 ft.,-69,92,0,Missed Shot,2,0.6666666666666666,0.6,0.6
+0022500059,2025-11-25,292,20,3,5,53,Turnaround Fadeaway shot,2PT Field Goal,13,Mid-Range,Left Side(L),8-16 ft.,-131,17,0,Missed Shot,-1,0.6666666666666666,0.6,0.5
+0022500059,2025-11-25,293,21,3,4,29,Fadeaway Jump Shot,2PT Field Goal,17,Mid-Range,Left Side Center(LC),16-24 ft.,-116,137,0,Missed Shot,-2,0.3333333333333333,0.4,0.5
+0022500059,2025-11-25,294,22,3,3,26,Pullup Jump shot,2PT Field Goal,17,Mid-Range,Center(C),16-24 ft.,-11,174,0,Missed Shot,-3,0.0,0.4,0.5
+0022500059,2025-11-25,295,23,3,3,3,Driving Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,-23,14,1,Made Shot,-4,0.0,0.2,0.4
+0022500059,2025-11-25,296,24,3,2,58,Driving Floating Jump Shot,2PT Field Goal,14,Mid-Range,Right Side(R),8-16 ft.,132,50,0,Missed Shot,1,0.3333333333333333,0.2,0.4
+0022500059,2025-11-25,297,25,3,1,49,Turnaround Jump Shot,2PT Field Goal,6,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-1,63,1,Made Shot,-1,0.3333333333333333,0.2,0.4
+0022500059,2025-11-25,298,26,3,1,15,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-151,206,0,Missed Shot,1,0.6666666666666666,0.4,0.4
+0022500059,2025-11-25,299,27,4,4,50,Fadeaway Jump Shot,2PT Field Goal,12,In The Paint (Non-RA),Center(C),8-16 ft.,-54,117,0,Missed Shot,-1,0.3333333333333333,0.4,0.4
+0022500059,2025-11-25,300,28,4,3,15,Driving Floating Jump Shot,2PT Field Goal,10,Mid-Range,Right Side(R),8-16 ft.,88,61,0,Missed Shot,-2,0.3333333333333333,0.4,0.3
+0022500078,2025-11-28,301,1,1,7,57,Jump Shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,105,248,1,Made Shot,-3,0.0,0.2,0.2
+0022500078,2025-11-28,302,2,1,4,57,Driving Layup Shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,21,31,1,Made Shot,1,0.3333333333333333,0.4,0.3
+0022500078,2025-11-28,303,3,1,3,35,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-229,140,0,Missed Shot,2,0.6666666666666666,0.4,0.4
+0022500078,2025-11-28,304,4,1,3,28,Turnaround Jump Shot,2PT Field Goal,15,Mid-Range,Right Side(R),8-16 ft.,104,115,0,Missed Shot,-1,0.6666666666666666,0.4,0.4
+0022500078,2025-11-28,305,5,1,1,7,Driving Layup Shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,10,34,1,Made Shot,-2,0.3333333333333333,0.4,0.4
+0022500078,2025-11-28,306,6,1,0,12,Pullup Jump shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-169,220,1,Made Shot,1,0.3333333333333333,0.6,0.4
+0022500078,2025-11-28,307,7,2,3,41,Pullup Jump shot,3PT Field Goal,34,Above the Break 3,Right Side Center(RC),24+ ft.,140,311,0,Missed Shot,2,0.6666666666666666,0.6,0.5
+0022500078,2025-11-28,308,8,2,3,1,Fadeaway Jump Shot,2PT Field Goal,12,In The Paint (Non-RA),Center(C),8-16 ft.,5,121,1,Made Shot,-1,0.6666666666666666,0.4,0.4
+0022500078,2025-11-28,309,9,3,10,51,Driving Layup Shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,9,29,1,Made Shot,1,0.6666666666666666,0.6,0.5
+0022500078,2025-11-28,310,10,3,10,24,Step Back Jump shot,3PT Field Goal,28,Above the Break 3,Left Side Center(LC),24+ ft.,-137,252,1,Made Shot,2,0.6666666666666666,0.8,0.6
+0022500078,2025-11-28,311,11,3,9,36,Pullup Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-172,202,0,Missed Shot,3,1.0,0.8,0.7
+0022500078,2025-11-28,312,12,3,5,41,Driving Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,-1,22,1,Made Shot,-1,0.6666666666666666,0.6,0.6
+0022500078,2025-11-28,313,13,3,4,30,Jump Shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,86,248,0,Missed Shot,1,0.6666666666666666,0.8,0.6
+0022500078,2025-11-28,314,14,3,2,50,Driving Layup Shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,-15,29,1,Made Shot,-1,0.3333333333333333,0.6,0.6
+0022500078,2025-11-28,315,15,3,1,26,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Center(C),24+ ft.,-11,258,1,Made Shot,1,0.6666666666666666,0.6,0.7
+0022500078,2025-11-28,316,16,4,8,16,Pullup Jump shot,2PT Field Goal,20,Mid-Range,Left Side Center(LC),16-24 ft.,-113,176,0,Missed Shot,2,0.6666666666666666,0.6,0.7
+0022500078,2025-11-28,317,17,4,3,36,Driving Floating Jump Shot,2PT Field Goal,9,In The Paint (Non-RA),Center(C),8-16 ft.,32,89,0,Missed Shot,-1,0.6666666666666666,0.6,0.6
+0022500078,2025-11-28,318,18,4,0,46,Step Back Jump shot,3PT Field Goal,28,Above the Break 3,Left Side Center(LC),24+ ft.,-194,214,0,Missed Shot,-2,0.3333333333333333,0.4,0.6
+0022500308,2025-11-30,319,1,1,11,14,Running Pull-Up Jump Shot,3PT Field Goal,25,Above the Break 3,Right Side Center(RC),24+ ft.,115,223,1,Made Shot,-3,0.0,0.4,0.5
+0022500308,2025-11-30,320,2,1,10,0,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Center(C),24+ ft.,34,251,1,Made Shot,1,0.3333333333333333,0.4,0.5
+0022500308,2025-11-30,321,3,1,9,36,Pullup Jump shot,3PT Field Goal,28,Above the Break 3,Center(C),24+ ft.,6,289,0,Missed Shot,2,0.6666666666666666,0.4,0.5
+0022500308,2025-11-30,322,4,1,8,38,Fadeaway Jump Shot,2PT Field Goal,15,Mid-Range,Left Side(L),8-16 ft.,-110,110,1,Made Shot,-1,0.6666666666666666,0.4,0.5
+0022500308,2025-11-30,323,5,1,7,20,Running Pull-Up Jump Shot,3PT Field Goal,24,Above the Break 3,Right Side Center(RC),24+ ft.,125,214,0,Missed Shot,1,0.6666666666666666,0.6,0.5
+0022500308,2025-11-30,324,6,1,3,53,Driving Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,28,7,1,Made Shot,-1,0.3333333333333333,0.6,0.5
+0022500308,2025-11-30,325,7,1,3,25,Step Back Jump shot,3PT Field Goal,23,Left Corner 3,Left Side(L),24+ ft.,-230,11,1,Made Shot,1,0.6666666666666666,0.6,0.5
+0022500308,2025-11-30,326,8,1,1,6,Driving Floating Jump Shot,2PT Field Goal,11,In The Paint (Non-RA),Center(C),8-16 ft.,38,107,0,Missed Shot,2,0.6666666666666666,0.6,0.5
+0022500308,2025-11-30,327,9,1,0,59,Driving Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,-28,8,1,Made Shot,-1,0.6666666666666666,0.6,0.5
+0022500308,2025-11-30,328,10,2,6,21,Pullup Jump shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-203,149,0,Missed Shot,1,0.6666666666666666,0.6,0.6
+0022500308,2025-11-30,329,11,3,11,26,Jump Shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-176,208,0,Missed Shot,-1,0.3333333333333333,0.6,0.6
+0022500308,2025-11-30,330,12,3,8,55,Driving Layup Shot,2PT Field Goal,1,Restricted Area,Center(C),Less Than 8 ft.,-11,-6,0,Missed Shot,-2,0.3333333333333333,0.4,0.5
+0022500308,2025-11-30,331,13,3,8,27,Jump Shot,3PT Field Goal,29,Above the Break 3,Right Side Center(RC),24+ ft.,184,229,0,Missed Shot,-3,0.0,0.2,0.4
+0022500308,2025-11-30,332,14,3,6,52,Driving Layup Shot,2PT Field Goal,4,In The Paint (Non-RA),Center(C),Less Than 8 ft.,42,13,0,Missed Shot,-4,0.0,0.2,0.4
+0022500308,2025-11-30,333,15,3,3,30,Pullup Jump shot,3PT Field Goal,30,Above the Break 3,Center(C),24+ ft.,29,301,0,Missed Shot,-5,0.0,0.0,0.3
+0022500308,2025-11-30,334,16,3,1,40,Pullup Jump shot,2PT Field Goal,14,Mid-Range,Center(C),8-16 ft.,-4,142,1,Made Shot,-6,0.0,0.0,0.3
+0022500308,2025-11-30,335,17,3,1,11,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Center(C),24+ ft.,-61,265,1,Made Shot,1,0.3333333333333333,0.2,0.3
+0022500308,2025-11-30,336,18,3,0,1,Fadeaway Jump Shot,3PT Field Goal,29,Above the Break 3,Right Side Center(RC),24+ ft.,176,239,0,Missed Shot,2,0.6666666666666666,0.4,0.3
+0022500308,2025-11-30,337,19,4,6,33,Driving Layup Shot,2PT Field Goal,5,In The Paint (Non-RA),Center(C),Less Than 8 ft.,20,47,0,Missed Shot,-1,0.6666666666666666,0.4,0.3
+0022500308,2025-11-30,338,20,4,4,16,Driving Floating Jump Shot,2PT Field Goal,9,Mid-Range,Right Side(R),8-16 ft.,91,19,0,Missed Shot,-2,0.3333333333333333,0.4,0.2
+0022500308,2025-11-30,339,21,4,4,14,Tip Layup Shot,2PT Field Goal,0,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,Made Shot,-3,0.0,0.4,0.2
+0022500308,2025-11-30,340,22,4,3,44,Pullup Jump shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-112,232,0,Missed Shot,1,0.3333333333333333,0.4,0.3
+0022500317,2025-12-01,341,1,1,11,30,Driving Floating Jump Shot,2PT Field Goal,11,In The Paint (Non-RA),Center(C),8-16 ft.,-37,111,1,Made Shot,-1,0.3333333333333333,0.2,0.3
+0022500317,2025-12-01,342,2,1,10,26,Driving Floating Jump Shot,2PT Field Goal,18,Mid-Range,Right Side Center(RC),16-24 ft.,108,148,1,Made Shot,1,0.6666666666666666,0.4,0.4
+0022500317,2025-12-01,343,3,1,9,55,Pullup Jump shot,3PT Field Goal,27,Above the Break 3,Center(C),24+ ft.,67,262,0,Missed Shot,2,0.6666666666666666,0.6,0.5
+0022500317,2025-12-01,344,4,1,7,3,Turnaround Fadeaway shot,2PT Field Goal,19,Mid-Range,Left Side(L),16-24 ft.,-190,43,1,Made Shot,-1,0.6666666666666666,0.6,0.5
+0022500317,2025-12-01,345,5,1,6,10,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-143,224,0,Missed Shot,1,0.6666666666666666,0.6,0.5
+0022500317,2025-12-01,346,6,1,4,50,Driving Floating Jump Shot,2PT Field Goal,8,In The Paint (Non-RA),Center(C),8-16 ft.,-9,85,1,Made Shot,-1,0.3333333333333333,0.6,0.4
+0022500317,2025-12-01,347,7,1,3,48,Fadeaway Jump Shot,2PT Field Goal,10,Mid-Range,Right Side(R),8-16 ft.,107,14,1,Made Shot,1,0.6666666666666666,0.6,0.5
+0022500317,2025-12-01,348,8,1,2,38,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-230,135,1,Made Shot,2,0.6666666666666666,0.6,0.6
+0022500317,2025-12-01,349,9,1,2,12,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Right Side Center(RC),24+ ft.,165,200,1,Made Shot,3,1.0,0.8,0.7
+0022500317,2025-12-01,350,10,1,1,22,Driving Floating Jump Shot,2PT Field Goal,4,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-1,43,1,Made Shot,4,1.0,0.8,0.7
+0022500317,2025-12-01,351,11,1,0,18,Jump Shot,3PT Field Goal,28,Above the Break 3,Right Side Center(RC),24+ ft.,174,226,0,Missed Shot,5,1.0,1.0,0.8
+0022500317,2025-12-01,352,12,2,6,13,Driving Floating Jump Shot,2PT Field Goal,12,In The Paint (Non-RA),Center(C),8-16 ft.,-54,109,0,Missed Shot,-1,0.6666666666666666,0.8,0.7
+0022500317,2025-12-01,353,13,2,5,23,Fadeaway Jump Shot,2PT Field Goal,13,In The Paint (Non-RA),Center(C),8-16 ft.,4,135,0,Missed Shot,-2,0.3333333333333333,0.6,0.6
+0022500317,2025-12-01,354,14,2,5,18,Driving Floating Jump Shot,2PT Field Goal,15,Mid-Range,Left Side(L),8-16 ft.,-130,75,0,Missed Shot,-3,0.0,0.4,0.6
+0022500317,2025-12-01,355,15,2,4,52,Floating Jump shot,2PT Field Goal,7,In The Paint (Non-RA),Center(C),Less Than 8 ft.,33,62,1,Made Shot,-4,0.0,0.2,0.5
+0022500317,2025-12-01,356,16,2,0,58,Driving Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,15,19,1,Made Shot,1,0.3333333333333333,0.2,0.6
+0022500317,2025-12-01,357,17,2,0,34,Driving Floating Jump Shot,2PT Field Goal,16,Mid-Range,Right Side Center(RC),16-24 ft.,80,142,0,Missed Shot,2,0.6666666666666666,0.4,0.6
+0022500317,2025-12-01,358,18,3,8,45,Floating Jump shot,2PT Field Goal,11,In The Paint (Non-RA),Center(C),8-16 ft.,-29,107,1,Made Shot,-1,0.6666666666666666,0.4,0.5
+0022500317,2025-12-01,359,19,3,7,56,Pullup Jump shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-199,186,1,Made Shot,1,0.6666666666666666,0.6,0.5
+0022500317,2025-12-01,360,20,3,6,59,Turnaround Jump Shot,2PT Field Goal,11,In The Paint (Non-RA),Center(C),8-16 ft.,49,100,0,Missed Shot,2,0.6666666666666666,0.8,0.5
+0022500317,2025-12-01,361,21,3,5,19,Driving Floating Jump Shot,2PT Field Goal,5,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-29,49,0,Missed Shot,-1,0.6666666666666666,0.6,0.4
+0022500317,2025-12-01,362,22,3,4,52,Floating Jump shot,2PT Field Goal,10,In The Paint (Non-RA),Center(C),8-16 ft.,-2,104,1,Made Shot,-2,0.3333333333333333,0.4,0.4
+0022500317,2025-12-01,363,23,3,3,33,Driving Floating Bank Jump Shot,2PT Field Goal,4,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-25,34,1,Made Shot,1,0.3333333333333333,0.6,0.5
+0022500317,2025-12-01,364,24,3,3,10,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-179,183,0,Missed Shot,2,0.6666666666666666,0.6,0.6
+0022500317,2025-12-01,365,25,3,2,6,Pullup Jump shot,2PT Field Goal,13,In The Paint (Non-RA),Center(C),8-16 ft.,-64,122,1,Made Shot,-1,0.6666666666666666,0.4,0.6
+0022500317,2025-12-01,366,26,3,1,28,Jump Shot,3PT Field Goal,24,Above the Break 3,Left Side Center(LC),24+ ft.,-233,90,0,Missed Shot,1,0.6666666666666666,0.6,0.6
+0022500362,2025-12-07,367,1,1,11,44,Step Back Jump shot,2PT Field Goal,17,Mid-Range,Center(C),16-24 ft.,39,174,1,Made Shot,-1,0.3333333333333333,0.6,0.5
+0022500362,2025-12-07,368,2,1,10,49,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-191,178,0,Missed Shot,1,0.6666666666666666,0.6,0.6
+0022500362,2025-12-07,369,3,1,9,59,Fadeaway Jump Shot,2PT Field Goal,9,Mid-Range,Right Side(R),8-16 ft.,89,-35,1,Made Shot,-1,0.3333333333333333,0.4,0.5
+0022500362,2025-12-07,370,4,1,9,26,Pullup Jump shot,2PT Field Goal,8,In The Paint (Non-RA),Right Side(R),8-16 ft.,74,31,0,Missed Shot,1,0.6666666666666666,0.6,0.5
+0022500362,2025-12-07,371,5,1,7,21,Turnaround Fadeaway shot,2PT Field Goal,17,Mid-Range,Left Side(L),16-24 ft.,-170,-8,0,Missed Shot,-1,0.3333333333333333,0.4,0.5
+0022500362,2025-12-07,372,6,1,5,31,Pullup Jump shot,2PT Field Goal,11,In The Paint (Non-RA),Center(C),8-16 ft.,-48,99,0,Missed Shot,-2,0.3333333333333333,0.4,0.5
+0022500362,2025-12-07,373,7,1,3,30,Step Back Jump shot,2PT Field Goal,13,In The Paint (Non-RA),Center(C),8-16 ft.,-34,128,0,Missed Shot,-3,0.0,0.2,0.4
+0022500362,2025-12-07,374,8,1,2,31,Jump Shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-207,155,1,Made Shot,-4,0.0,0.2,0.3
+0022500362,2025-12-07,375,9,2,6,58,Pullup Jump shot,3PT Field Goal,25,Above the Break 3,Right Side Center(RC),24+ ft.,168,195,0,Missed Shot,1,0.3333333333333333,0.2,0.4
+0022500362,2025-12-07,376,10,2,5,40,Driving Floating Jump Shot,2PT Field Goal,5,In The Paint (Non-RA),Center(C),Less Than 8 ft.,33,39,1,Made Shot,-1,0.3333333333333333,0.2,0.3
+0022500362,2025-12-07,377,11,2,2,24,Jump Bank Shot,2PT Field Goal,9,In The Paint (Non-RA),Right Side(R),8-16 ft.,66,69,0,Missed Shot,1,0.6666666666666666,0.4,0.4
+0022500362,2025-12-07,378,12,2,2,1,Driving Floating Jump Shot,2PT Field Goal,14,Mid-Range,Left Side(L),8-16 ft.,-107,101,1,Made Shot,-1,0.3333333333333333,0.4,0.3
+0022500362,2025-12-07,379,13,2,1,29,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,125,231,0,Missed Shot,1,0.6666666666666666,0.6,0.4
+0022500362,2025-12-07,380,14,2,0,30,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Right Side Center(RC),24+ ft.,91,243,1,Made Shot,-1,0.3333333333333333,0.4,0.3
+0022500362,2025-12-07,381,15,3,8,55,Turnaround Fadeaway shot,2PT Field Goal,16,Mid-Range,Left Side Center(LC),16-24 ft.,-89,136,0,Missed Shot,1,0.6666666666666666,0.6,0.4
+0022500362,2025-12-07,382,16,3,7,46,Driving Floating Jump Shot,2PT Field Goal,17,Mid-Range,Right Side Center(RC),16-24 ft.,81,155,1,Made Shot,-1,0.3333333333333333,0.4,0.4
+0022500362,2025-12-07,383,17,3,6,20,Turnaround Jump Shot,2PT Field Goal,13,Mid-Range,Left Side(L),8-16 ft.,-91,98,1,Made Shot,1,0.6666666666666666,0.6,0.5
+0022500362,2025-12-07,384,18,3,3,33,Pullup Jump shot,3PT Field Goal,25,Above the Break 3,Right Side Center(RC),24+ ft.,127,224,0,Missed Shot,2,0.6666666666666666,0.6,0.6
+0022500362,2025-12-07,385,19,3,3,19,Driving Floating Jump Shot,2PT Field Goal,11,In The Paint (Non-RA),Center(C),8-16 ft.,16,117,0,Missed Shot,-1,0.6666666666666666,0.6,0.5
+0022500362,2025-12-07,386,20,3,0,3,Pullup Jump shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,156,216,0,Missed Shot,-2,0.3333333333333333,0.4,0.5
+0022500362,2025-12-07,387,21,4,6,26,Turnaround Jump Shot,2PT Field Goal,12,In The Paint (Non-RA),Left Side(L),8-16 ft.,-76,94,0,Missed Shot,-3,0.0,0.4,0.4
+0022500362,2025-12-07,388,22,4,6,2,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Center(C),24+ ft.,-29,261,0,Missed Shot,-4,0.0,0.2,0.4
+0022500362,2025-12-07,389,23,4,5,14,Pullup Jump shot,2PT Field Goal,15,In The Paint (Non-RA),Right Side(R),8-16 ft.,80,138,1,Made Shot,-5,0.0,0.0,0.3
+0022500362,2025-12-07,390,24,4,2,7,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Center(C),24+ ft.,-27,261,0,Missed Shot,1,0.3333333333333333,0.2,0.4
+0022501204,2025-12-10,391,1,1,10,13,Pullup Jump shot,2PT Field Goal,12,In The Paint (Non-RA),Center(C),8-16 ft.,11,129,1,Made Shot,-1,0.3333333333333333,0.2,0.3
+0022501204,2025-12-10,392,2,1,9,22,Driving Floating Jump Shot,2PT Field Goal,11,In The Paint (Non-RA),Center(C),8-16 ft.,-23,110,1,Made Shot,1,0.6666666666666666,0.4,0.4
+0022501204,2025-12-10,393,3,1,6,58,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Right Side Center(RC),24+ ft.,96,262,0,Missed Shot,2,0.6666666666666666,0.6,0.4
+0022501204,2025-12-10,394,4,1,6,3,Fadeaway Jump Shot,2PT Field Goal,13,In The Paint (Non-RA),Center(C),8-16 ft.,12,134,0,Missed Shot,-1,0.6666666666666666,0.6,0.3
+0022501204,2025-12-10,395,5,1,4,51,Running Jump Shot,3PT Field Goal,27,Above the Break 3,Right Side Center(RC),24+ ft.,186,198,1,Made Shot,-2,0.3333333333333333,0.4,0.3
+0022501204,2025-12-10,396,6,1,4,23,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-117,239,0,Missed Shot,1,0.3333333333333333,0.6,0.4
+0022501204,2025-12-10,397,7,1,3,56,Step Back Jump shot,3PT Field Goal,28,Above the Break 3,Left Side Center(LC),24+ ft.,-97,264,1,Made Shot,-1,0.3333333333333333,0.4,0.4
+0022501204,2025-12-10,398,8,1,3,18,Alley Oop Layup shot,2PT Field Goal,4,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-2,47,0,Missed Shot,1,0.6666666666666666,0.4,0.5
+0022501204,2025-12-10,399,9,1,2,2,Turnaround Fadeaway shot,2PT Field Goal,7,In The Paint (Non-RA),Center(C),Less Than 8 ft.,44,62,0,Missed Shot,-1,0.3333333333333333,0.4,0.5
+0022501204,2025-12-10,400,10,1,0,54,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,201,180,0,Missed Shot,-2,0.3333333333333333,0.4,0.4
+0022501204,2025-12-10,401,11,2,7,52,Pullup Jump shot,2PT Field Goal,15,Mid-Range,Center(C),8-16 ft.,67,141,0,Missed Shot,-3,0.0,0.2,0.4
+0022501204,2025-12-10,402,12,2,7,5,Driving Floating Jump Shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,21,25,1,Made Shot,-4,0.0,0.2,0.3
+0022501204,2025-12-10,403,13,2,5,32,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Right Side Center(RC),24+ ft.,186,203,1,Made Shot,1,0.3333333333333333,0.2,0.3
+0022501204,2025-12-10,404,14,2,4,55,Driving Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,-16,16,1,Made Shot,2,0.6666666666666666,0.4,0.4
+0022501204,2025-12-10,405,15,2,4,33,Fadeaway Jump Shot,2PT Field Goal,9,In The Paint (Non-RA),Center(C),8-16 ft.,-25,92,0,Missed Shot,3,1.0,0.6,0.5
+0022501204,2025-12-10,406,16,2,2,16,Pullup Jump shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,162,205,0,Missed Shot,-1,0.6666666666666666,0.6,0.4
+0022501204,2025-12-10,407,17,2,1,51,Driving Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,22,16,1,Made Shot,-2,0.3333333333333333,0.6,0.4
+0022501204,2025-12-10,408,18,3,11,22,Pullup Jump shot,2PT Field Goal,16,Mid-Range,Right Side Center(RC),16-24 ft.,82,146,0,Missed Shot,1,0.3333333333333333,0.6,0.4
+0022501204,2025-12-10,409,19,3,4,47,Turnaround Fadeaway shot,2PT Field Goal,15,Mid-Range,Left Side(L),8-16 ft.,-146,48,0,Missed Shot,-1,0.3333333333333333,0.4,0.4
+0022501204,2025-12-10,410,20,3,3,58,Driving Floating Jump Shot,2PT Field Goal,6,In The Paint (Non-RA),Center(C),Less Than 8 ft.,20,67,1,Made Shot,-2,0.3333333333333333,0.2,0.4
+0022501204,2025-12-10,411,21,3,1,13,Turnaround Jump Shot,2PT Field Goal,11,In The Paint (Non-RA),Center(C),8-16 ft.,10,119,1,Made Shot,1,0.3333333333333333,0.4,0.5
+0022501204,2025-12-10,412,22,4,6,49,Driving Layup Shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,10,34,1,Made Shot,2,0.6666666666666666,0.6,0.6
+0022501204,2025-12-10,413,23,4,5,49,Driving Floating Jump Shot,2PT Field Goal,11,In The Paint (Non-RA),Center(C),8-16 ft.,36,111,0,Missed Shot,3,1.0,0.6,0.6
+0022501204,2025-12-10,414,24,4,1,24,Jump Shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-145,232,0,Missed Shot,-1,0.6666666666666666,0.6,0.5
+0022501228,2025-12-14,415,1,1,9,22,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-103,243,0,Missed Shot,-2,0.3333333333333333,0.6,0.4
+0022501228,2025-12-14,416,2,1,8,53,Pullup Jump shot,2PT Field Goal,10,Mid-Range,Left Side(L),8-16 ft.,-100,-18,1,Made Shot,-3,0.0,0.4,0.4
+0022501228,2025-12-14,417,3,1,8,4,Step Back Jump shot,3PT Field Goal,24,Above the Break 3,Left Side Center(LC),24+ ft.,-169,182,0,Missed Shot,1,0.3333333333333333,0.4,0.5
+0022501228,2025-12-14,418,4,1,7,49,Turnaround Fadeaway shot,2PT Field Goal,10,Mid-Range,Left Side(L),8-16 ft.,-103,-12,0,Missed Shot,-1,0.3333333333333333,0.2,0.4
+0022501228,2025-12-14,419,5,1,4,57,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Right Side Center(RC),24+ ft.,129,248,0,Missed Shot,-2,0.3333333333333333,0.2,0.4
+0022501228,2025-12-14,420,6,1,3,0,Step Back Jump shot,3PT Field Goal,24,Above the Break 3,Left Side Center(LC),24+ ft.,-105,222,1,Made Shot,-3,0.0,0.2,0.4
+0022501228,2025-12-14,421,7,1,2,1,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-131,221,0,Missed Shot,1,0.3333333333333333,0.4,0.4
+0022501228,2025-12-14,422,8,2,8,31,Fadeaway Jump Shot,2PT Field Goal,17,Mid-Range,Left Side(L),16-24 ft.,-179,-18,1,Made Shot,-1,0.3333333333333333,0.2,0.3
+0022501228,2025-12-14,423,9,2,5,48,Step Back Jump shot,2PT Field Goal,19,Mid-Range,Left Side Center(LC),16-24 ft.,-87,176,1,Made Shot,1,0.6666666666666666,0.4,0.3
+0022501228,2025-12-14,424,10,2,4,2,Step Back Jump shot,2PT Field Goal,11,Mid-Range,Left Side(L),8-16 ft.,-115,-8,0,Missed Shot,2,0.6666666666666666,0.6,0.4
+0022501228,2025-12-14,425,11,2,2,7,Driving Floating Jump Shot,2PT Field Goal,0,Restricted Area,Center(C),Less Than 8 ft.,-1,4,1,Made Shot,-1,0.6666666666666666,0.6,0.4
+0022501228,2025-12-14,426,12,2,0,16,Step Back Jump shot,3PT Field Goal,29,Above the Break 3,Right Side Center(RC),24+ ft.,113,268,0,Missed Shot,1,0.6666666666666666,0.6,0.5
+0022501228,2025-12-14,427,13,3,11,9,Driving Floating Jump Shot,2PT Field Goal,4,In The Paint (Non-RA),Center(C),Less Than 8 ft.,37,25,1,Made Shot,-1,0.3333333333333333,0.6,0.4
+0022501228,2025-12-14,428,14,3,8,57,Step Back Jump shot,3PT Field Goal,30,Above the Break 3,Center(C),24+ ft.,-16,301,0,Missed Shot,1,0.6666666666666666,0.6,0.5
+0022501228,2025-12-14,429,15,3,8,28,Driving Floating Bank Jump Shot,2PT Field Goal,8,Mid-Range,Left Side(L),8-16 ft.,-83,-1,0,Missed Shot,-1,0.3333333333333333,0.4,0.5
+0022501228,2025-12-14,430,16,3,8,5,Jump Shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-181,201,0,Missed Shot,-2,0.3333333333333333,0.4,0.5
+0022501228,2025-12-14,431,17,3,7,57,Floating Jump shot,2PT Field Goal,9,Mid-Range,Left Side(L),8-16 ft.,-92,29,0,Missed Shot,-3,0.0,0.2,0.4
+0022501228,2025-12-14,432,18,3,6,10,Driving Floating Jump Shot,2PT Field Goal,9,In The Paint (Non-RA),Center(C),8-16 ft.,-18,96,0,Missed Shot,-4,0.0,0.2,0.4
+0022501228,2025-12-14,433,19,3,4,55,Jump Shot,3PT Field Goal,28,Above the Break 3,Center(C),24+ ft.,74,280,0,Missed Shot,-5,0.0,0.0,0.3
+0022501228,2025-12-14,434,20,3,3,33,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-228,159,0,Missed Shot,-6,0.0,0.0,0.2
+0022501228,2025-12-14,435,21,3,3,19,Driving Floating Jump Shot,2PT Field Goal,12,Mid-Range,Left Side(L),8-16 ft.,-118,-38,0,Missed Shot,-7,0.0,0.0,0.2
+0022501228,2025-12-14,436,22,3,1,49,Step Back Jump shot,3PT Field Goal,28,Above the Break 3,Left Side Center(LC),24+ ft.,-164,237,0,Missed Shot,-8,0.0,0.0,0.1
+0022501228,2025-12-14,437,23,4,4,27,Pullup Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-210,165,1,Made Shot,-9,0.0,0.0,0.1
+0022501228,2025-12-14,438,24,4,4,0,Jump Shot,3PT Field Goal,28,Above the Break 3,Left Side Center(LC),24+ ft.,-88,268,0,Missed Shot,1,0.3333333333333333,0.2,0.1
+0022501228,2025-12-14,439,25,4,1,7,Step Back Jump shot,3PT Field Goal,31,Above the Break 3,Left Side Center(LC),24+ ft.,-169,262,0,Missed Shot,-1,0.3333333333333333,0.2,0.1
+0022500379,2025-12-18,440,1,1,11,8,Turnaround Fadeaway shot,2PT Field Goal,14,Mid-Range,Left Side(L),8-16 ft.,-147,10,1,Made Shot,-2,0.3333333333333333,0.2,0.1
+0022500379,2025-12-18,441,2,1,10,0,Jump Shot,3PT Field Goal,28,Above the Break 3,Center(C),24+ ft.,67,277,0,Missed Shot,1,0.3333333333333333,0.4,0.2
+0022500379,2025-12-18,442,3,1,7,38,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-100,235,1,Made Shot,-1,0.3333333333333333,0.4,0.2
+0022500379,2025-12-18,443,4,1,6,15,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Center(C),24+ ft.,-10,250,0,Missed Shot,1,0.6666666666666666,0.4,0.3
+0022500379,2025-12-18,444,5,1,5,53,Driving Floating Bank Jump Shot,2PT Field Goal,6,In The Paint (Non-RA),Center(C),Less Than 8 ft.,40,46,0,Missed Shot,-1,0.3333333333333333,0.4,0.3
+0022500379,2025-12-18,445,6,1,4,53,Driving Finger Roll Layup Shot,2PT Field Goal,6,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-28,56,1,Made Shot,-2,0.3333333333333333,0.4,0.3
+0022500379,2025-12-18,446,7,1,1,39,Driving Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,22,17,0,Missed Shot,1,0.3333333333333333,0.4,0.4
+0022500379,2025-12-18,447,8,1,1,4,Pullup Jump shot,3PT Field Goal,27,Above the Break 3,Right Side Center(RC),24+ ft.,110,253,0,Missed Shot,-1,0.3333333333333333,0.4,0.4
+0022500379,2025-12-18,448,9,1,0,34,Pullup Jump shot,3PT Field Goal,27,Above the Break 3,Right Side Center(RC),24+ ft.,135,242,0,Missed Shot,-2,0.3333333333333333,0.2,0.3
+0022500379,2025-12-18,449,10,2,5,32,Jump Shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-169,199,0,Missed Shot,-3,0.0,0.2,0.3
+0022500379,2025-12-18,450,11,2,4,34,Step Back Jump shot,2PT Field Goal,17,Mid-Range,Right Side Center(RC),16-24 ft.,54,166,1,Made Shot,-4,0.0,0.2,0.3
+0022500379,2025-12-18,451,12,2,3,46,Turnaround Jump Shot,2PT Field Goal,11,In The Paint (Non-RA),Center(C),8-16 ft.,49,105,1,Made Shot,1,0.3333333333333333,0.2,0.3
+0022500379,2025-12-18,452,13,2,2,11,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Right Side Center(RC),24+ ft.,174,180,0,Missed Shot,2,0.6666666666666666,0.4,0.4
+0022500379,2025-12-18,453,14,2,1,44,Running Pull-Up Jump Shot,2PT Field Goal,10,In The Paint (Non-RA),Right Side(R),8-16 ft.,69,82,1,Made Shot,-1,0.6666666666666666,0.4,0.3
+0022500379,2025-12-18,454,15,2,0,31,Driving Floating Jump Shot,2PT Field Goal,10,In The Paint (Non-RA),Center(C),8-16 ft.,38,93,0,Missed Shot,1,0.6666666666666666,0.6,0.4
+0022500379,2025-12-18,455,16,2,0,27,Floating Jump shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,28,13,1,Made Shot,-1,0.3333333333333333,0.6,0.4
+0022500379,2025-12-18,456,17,2,0,3,Driving Floating Jump Shot,2PT Field Goal,22,Mid-Range,Center(C),16-24 ft.,-70,216,1,Made Shot,1,0.6666666666666666,0.6,0.4
+0022500379,2025-12-18,457,18,3,7,48,Jump Shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-107,237,1,Made Shot,2,0.6666666666666666,0.6,0.5
+0022500379,2025-12-18,458,19,3,6,46,Jump Shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-212,169,0,Missed Shot,3,1.0,0.8,0.6
+0022500379,2025-12-18,459,20,3,5,52,Turnaround Jump Shot,2PT Field Goal,11,Mid-Range,Right Side(R),8-16 ft.,91,73,1,Made Shot,-1,0.6666666666666666,0.6,0.6
+0022500379,2025-12-18,460,21,3,4,59,Step Back Jump shot,2PT Field Goal,20,Mid-Range,Left Side Center(LC),16-24 ft.,-102,176,0,Missed Shot,1,0.6666666666666666,0.8,0.7
+0022500379,2025-12-18,461,22,3,3,48,Step Back Jump shot,2PT Field Goal,17,Mid-Range,Center(C),16-24 ft.,4,172,0,Missed Shot,-1,0.3333333333333333,0.6,0.6
+0022500379,2025-12-18,462,23,3,1,12,Driving Layup Shot,2PT Field Goal,9,In The Paint (Non-RA),Left Side(L),8-16 ft.,-71,60,1,Made Shot,-2,0.3333333333333333,0.4,0.5
+0022500379,2025-12-18,463,24,3,0,29,Step Back Jump shot,3PT Field Goal,29,Above the Break 3,Left Side Center(LC),24+ ft.,-200,215,0,Missed Shot,1,0.3333333333333333,0.4,0.6
+0022500379,2025-12-18,464,25,4,6,42,Turnaround Jump Shot,2PT Field Goal,6,In The Paint (Non-RA),Center(C),Less Than 8 ft.,29,63,0,Missed Shot,-1,0.3333333333333333,0.4,0.5
+0022500379,2025-12-18,465,26,4,6,26,Pullup Jump shot,2PT Field Goal,11,In The Paint (Non-RA),Center(C),8-16 ft.,-54,96,1,Made Shot,-2,0.3333333333333333,0.2,0.5
+0022500379,2025-12-18,466,27,4,4,48,Jump Shot,3PT Field Goal,28,Above the Break 3,Left Side Center(LC),24+ ft.,-218,186,1,Made Shot,1,0.3333333333333333,0.4,0.5
+0022500379,2025-12-18,467,28,4,4,23,Running Jump Shot,3PT Field Goal,31,Above the Break 3,Center(C),24+ ft.,-34,311,1,Made Shot,2,0.6666666666666666,0.6,0.5
+0022500395,2025-12-20,468,1,1,11,37,Step Back Jump shot,2PT Field Goal,15,Mid-Range,Center(C),8-16 ft.,67,141,0,Missed Shot,3,1.0,0.6,0.5
+0022500395,2025-12-20,469,2,1,8,40,Driving Floating Jump Shot,2PT Field Goal,16,Mid-Range,Right Side Center(RC),16-24 ft.,74,145,0,Missed Shot,-1,0.6666666666666666,0.6,0.5
+0022500395,2025-12-20,470,3,1,6,17,Fadeaway Jump Shot,2PT Field Goal,15,Mid-Range,Center(C),8-16 ft.,-51,150,0,Missed Shot,-2,0.3333333333333333,0.6,0.4
+0022500395,2025-12-20,471,4,1,5,40,Pullup Jump shot,2PT Field Goal,7,In The Paint (Non-RA),Center(C),Less Than 8 ft.,56,53,0,Missed Shot,-3,0.0,0.4,0.4
+0022500395,2025-12-20,472,5,1,4,20,Step Back Jump shot,3PT Field Goal,23,Right Corner 3,Right Side(R),24+ ft.,228,71,0,Missed Shot,-4,0.0,0.2,0.4
+0022500395,2025-12-20,473,6,1,3,12,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Right Side Center(RC),24+ ft.,156,205,0,Missed Shot,-5,0.0,0.0,0.3
+0022500395,2025-12-20,474,7,1,2,40,Driving Floating Jump Shot,2PT Field Goal,7,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,79,1,Made Shot,-6,0.0,0.0,0.3
+0022500395,2025-12-20,475,8,1,1,35,Step Back Jump shot,3PT Field Goal,24,Above the Break 3,Center(C),24+ ft.,-15,248,0,Missed Shot,1,0.3333333333333333,0.2,0.4
+0022500395,2025-12-20,476,9,1,0,49,Driving Floating Jump Shot,2PT Field Goal,15,Mid-Range,Center(C),8-16 ft.,-60,148,1,Made Shot,-1,0.3333333333333333,0.2,0.3
+0022500395,2025-12-20,477,10,1,0,9,Jump Shot,3PT Field Goal,31,Above the Break 3,Right Side Center(RC),24+ ft.,196,247,0,Missed Shot,1,0.6666666666666666,0.4,0.3
+0022500395,2025-12-20,478,11,2,6,15,Jump Shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,136,224,1,Made Shot,-1,0.3333333333333333,0.4,0.2
+0022500395,2025-12-20,479,12,2,4,47,Pullup Jump shot,3PT Field Goal,24,Above the Break 3,Left Side Center(LC),24+ ft.,-85,235,0,Missed Shot,1,0.6666666666666666,0.6,0.3
+0022500395,2025-12-20,480,13,2,3,21,Pullup Jump shot,2PT Field Goal,14,Mid-Range,Right Side(R),8-16 ft.,138,47,1,Made Shot,-1,0.3333333333333333,0.4,0.3
+0022500012,2025-12-25,481,1,1,4,14,Driving Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,21,13,1,Made Shot,1,0.6666666666666666,0.6,0.4
+0022500012,2025-12-25,482,2,1,2,33,Jump Shot,3PT Field Goal,29,Above the Break 3,Left Side Center(LC),24+ ft.,-100,274,0,Missed Shot,2,0.6666666666666666,0.6,0.5
+0022500012,2025-12-25,483,3,2,5,41,Pullup Jump shot,2PT Field Goal,12,In The Paint (Non-RA),Right Side(R),8-16 ft.,64,107,1,Made Shot,-1,0.6666666666666666,0.6,0.5
+0022500012,2025-12-25,484,4,2,4,59,Jump Shot,3PT Field Goal,26,Above the Break 3,Center(C),24+ ft.,-6,262,1,Made Shot,1,0.6666666666666666,0.6,0.6
+0022500012,2025-12-25,485,5,2,3,44,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Center(C),24+ ft.,25,259,0,Missed Shot,2,0.6666666666666666,0.8,0.6
+0022500012,2025-12-25,486,6,2,2,48,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-210,163,0,Missed Shot,-1,0.6666666666666666,0.6,0.6
+0022500012,2025-12-25,487,7,2,2,21,Fadeaway Bank shot,2PT Field Goal,10,Mid-Range,Right Side(R),8-16 ft.,81,59,1,Made Shot,-2,0.3333333333333333,0.4,0.5
+0022500012,2025-12-25,488,8,2,1,39,Jump Shot,3PT Field Goal,27,Above the Break 3,Right Side Center(RC),24+ ft.,123,242,0,Missed Shot,1,0.3333333333333333,0.6,0.6
+0022500012,2025-12-25,489,9,2,0,21,Driving Floating Jump Shot,2PT Field Goal,7,In The Paint (Non-RA),Center(C),Less Than 8 ft.,13,78,1,Made Shot,-1,0.3333333333333333,0.4,0.5
+0022500012,2025-12-25,490,10,3,10,8,Pullup Jump shot,3PT Field Goal,25,Above the Break 3,Center(C),24+ ft.,-7,255,1,Made Shot,1,0.6666666666666666,0.4,0.6
+0022500012,2025-12-25,491,11,3,8,49,Driving Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,22,16,1,Made Shot,2,0.6666666666666666,0.6,0.6
+0022500012,2025-12-25,492,12,3,4,14,Running Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,17,14,1,Made Shot,3,1.0,0.8,0.6
+0022500012,2025-12-25,493,13,3,2,2,Step Back Jump shot,3PT Field Goal,24,Above the Break 3,Left Side Center(LC),24+ ft.,-167,174,1,Made Shot,4,1.0,0.8,0.7
+0022500012,2025-12-25,494,14,3,1,26,Driving Floating Jump Shot,2PT Field Goal,11,In The Paint (Non-RA),Right Side(R),8-16 ft.,66,93,0,Missed Shot,5,1.0,1.0,0.7
+0022500012,2025-12-25,495,15,3,0,57,Turnaround Fadeaway shot,2PT Field Goal,12,Mid-Range,Left Side(L),8-16 ft.,-118,34,0,Missed Shot,-1,0.6666666666666666,0.8,0.6
+0022500012,2025-12-25,496,16,3,0,0,Step Back Jump shot,2PT Field Goal,22,Mid-Range,Center(C),16-24 ft.,-66,213,0,Missed Shot,-2,0.3333333333333333,0.6,0.6
+0022500012,2025-12-25,497,17,4,3,48,Jump Shot,3PT Field Goal,26,Above the Break 3,Center(C),24+ ft.,-55,262,0,Missed Shot,-3,0.0,0.4,0.6
+0022500446,2025-12-28,498,1,1,10,24,Driving Layup Shot,2PT Field Goal,1,Restricted Area,Center(C),Less Than 8 ft.,6,16,1,Made Shot,-4,0.0,0.2,0.5
+0022500446,2025-12-28,499,2,1,6,34,Jump Shot,3PT Field Goal,29,Above the Break 3,Center(C),24+ ft.,-77,282,0,Missed Shot,1,0.3333333333333333,0.2,0.6
+0022500446,2025-12-28,500,3,1,4,49,Pullup Jump shot,3PT Field Goal,27,Above the Break 3,Right Side Center(RC),24+ ft.,130,241,1,Made Shot,-1,0.3333333333333333,0.2,0.5
+0022500446,2025-12-28,501,4,1,4,23,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Right Side Center(RC),24+ ft.,86,257,0,Missed Shot,1,0.6666666666666666,0.4,0.5
+0022500446,2025-12-28,502,5,1,4,12,Turnaround Fadeaway shot,2PT Field Goal,18,Mid-Range,Right Side Center(RC),16-24 ft.,116,145,0,Missed Shot,-1,0.3333333333333333,0.4,0.4
+0022500446,2025-12-28,503,6,1,4,3,Jump Shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-218,145,0,Missed Shot,-2,0.3333333333333333,0.4,0.3
+0022500446,2025-12-28,504,7,2,8,7,Pullup Jump shot,3PT Field Goal,29,Above the Break 3,Center(C),24+ ft.,-81,279,1,Made Shot,-3,0.0,0.2,0.2
+0022500446,2025-12-28,505,8,2,5,59,Turnaround Fadeaway shot,2PT Field Goal,9,In The Paint (Non-RA),Left Side(L),8-16 ft.,-64,69,1,Made Shot,1,0.3333333333333333,0.4,0.3
+0022500446,2025-12-28,506,9,2,5,30,Driving Layup Shot,2PT Field Goal,1,Restricted Area,Center(C),Less Than 8 ft.,-4,13,1,Made Shot,2,0.6666666666666666,0.4,0.4
+0022500446,2025-12-28,507,10,2,5,2,Step Back Jump shot,3PT Field Goal,28,Above the Break 3,Center(C),24+ ft.,78,276,0,Missed Shot,3,1.0,0.6,0.5
+0022500446,2025-12-28,508,11,2,4,23,Jump Shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-116,239,0,Missed Shot,-1,0.6666666666666666,0.6,0.5
+0022500446,2025-12-28,509,12,2,3,0,Driving Layup Shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,13,32,1,Made Shot,-2,0.3333333333333333,0.6,0.4
+0022500446,2025-12-28,510,13,2,1,5,Pullup Jump shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,121,236,1,Made Shot,1,0.3333333333333333,0.6,0.5
+0022500446,2025-12-28,511,14,3,10,55,Jump Shot,3PT Field Goal,25,Above the Break 3,Right Side Center(RC),24+ ft.,200,152,1,Made Shot,2,0.6666666666666666,0.6,0.5
+0022500446,2025-12-28,512,15,3,8,47,Running Pull-Up Jump Shot,3PT Field Goal,25,Above the Break 3,Right Side Center(RC),24+ ft.,136,215,0,Missed Shot,3,1.0,0.6,0.6
+0022500446,2025-12-28,513,16,3,7,10,Pullup Jump shot,2PT Field Goal,19,Mid-Range,Right Side Center(RC),16-24 ft.,129,145,0,Missed Shot,-1,0.6666666666666666,0.6,0.6
+0022500446,2025-12-28,514,17,3,6,11,Driving Floating Jump Shot,2PT Field Goal,7,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-31,69,1,Made Shot,-2,0.3333333333333333,0.6,0.6
+0022500446,2025-12-28,515,18,3,5,16,Jump Shot,3PT Field Goal,27,Above the Break 3,Center(C),24+ ft.,6,274,0,Missed Shot,1,0.3333333333333333,0.6,0.6
+0022500446,2025-12-28,516,19,3,4,51,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-148,215,0,Missed Shot,-1,0.3333333333333333,0.4,0.5
+0022500446,2025-12-28,517,20,3,4,19,Driving Floating Bank Jump Shot,2PT Field Goal,8,In The Paint (Non-RA),Left Side(L),8-16 ft.,-49,69,1,Made Shot,-2,0.3333333333333333,0.2,0.4
+0022500446,2025-12-28,518,21,3,0,39,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-141,226,0,Missed Shot,1,0.3333333333333333,0.4,0.5
+0022500446,2025-12-28,519,22,3,0,13,Driving Floating Bank Jump Shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,21,27,0,Missed Shot,-1,0.3333333333333333,0.4,0.5
+0022500446,2025-12-28,520,23,4,4,58,Pullup Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-162,205,1,Made Shot,-2,0.3333333333333333,0.2,0.4
+0022500460,2025-12-30,521,1,1,10,34,Layup Shot,2PT Field Goal,5,In The Paint (Non-RA),Center(C),Less Than 8 ft.,48,35,0,Missed Shot,1,0.3333333333333333,0.4,0.4
+0022500460,2025-12-30,522,2,1,9,22,Jump Shot,3PT Field Goal,28,Above the Break 3,Left Side Center(LC),24+ ft.,-135,253,1,Made Shot,-1,0.3333333333333333,0.4,0.3
+0022500460,2025-12-30,523,3,1,8,2,Jump Shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-165,218,0,Missed Shot,1,0.6666666666666666,0.4,0.4
+0022500460,2025-12-30,524,4,1,7,34,Driving Floating Jump Shot,2PT Field Goal,7,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-65,41,0,Missed Shot,-1,0.3333333333333333,0.4,0.4
+0022500460,2025-12-30,525,5,1,6,12,Turnaround Jump Shot,2PT Field Goal,11,In The Paint (Non-RA),Left Side(L),8-16 ft.,-60,103,1,Made Shot,-2,0.3333333333333333,0.4,0.3
+0022500460,2025-12-30,526,6,1,5,44,Jump Shot,3PT Field Goal,31,Above the Break 3,Right Side Center(RC),24+ ft.,137,284,1,Made Shot,1,0.3333333333333333,0.4,0.4
+0022500460,2025-12-30,527,7,1,5,15,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-154,229,0,Missed Shot,2,0.6666666666666666,0.6,0.5
+0022500460,2025-12-30,528,8,1,3,4,Jump Shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-170,205,0,Missed Shot,-1,0.6666666666666666,0.4,0.4
+0022500460,2025-12-30,529,9,1,2,56,Driving Layup Shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,28,24,1,Made Shot,-2,0.3333333333333333,0.4,0.4
+0022500460,2025-12-30,530,10,2,8,42,Step Back Jump shot,2PT Field Goal,13,Mid-Range,Left Side(L),8-16 ft.,-130,32,1,Made Shot,1,0.3333333333333333,0.6,0.5
+0022500460,2025-12-30,531,11,2,6,58,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-164,205,0,Missed Shot,2,0.6666666666666666,0.6,0.5
+0022500460,2025-12-30,532,12,2,6,8,Step Back Jump shot,2PT Field Goal,13,Mid-Range,Left Side(L),8-16 ft.,-130,21,1,Made Shot,-1,0.6666666666666666,0.4,0.5
+0022500460,2025-12-30,533,13,3,10,37,Pullup Jump shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-206,152,0,Missed Shot,1,0.6666666666666666,0.6,0.5
+0022500460,2025-12-30,534,14,3,10,6,Turnaround Fadeaway shot,2PT Field Goal,9,In The Paint (Non-RA),Center(C),8-16 ft.,0,92,1,Made Shot,-1,0.3333333333333333,0.6,0.5
+0022500460,2025-12-30,535,15,3,7,8,Pullup Jump shot,3PT Field Goal,28,Above the Break 3,Left Side Center(LC),24+ ft.,-176,223,0,Missed Shot,1,0.6666666666666666,0.6,0.6
+0022500460,2025-12-30,536,16,3,6,4,Step Back Jump shot,2PT Field Goal,19,Mid-Range,Center(C),16-24 ft.,-23,193,0,Missed Shot,-1,0.3333333333333333,0.4,0.5
+0022500460,2025-12-30,537,17,3,5,47,Driving Floating Bank Jump Shot,2PT Field Goal,9,In The Paint (Non-RA),Left Side(L),8-16 ft.,-58,79,1,Made Shot,-2,0.3333333333333333,0.4,0.4
+0022500460,2025-12-30,538,18,3,2,56,Step Back Jump shot,3PT Field Goal,30,Above the Break 3,Left Side Center(LC),24+ ft.,-172,249,1,Made Shot,1,0.3333333333333333,0.4,0.5
+0022500460,2025-12-30,539,19,3,1,51,Driving Floating Bank Jump Shot,2PT Field Goal,8,In The Paint (Non-RA),Left Side(L),8-16 ft.,-59,62,0,Missed Shot,2,0.6666666666666666,0.6,0.6
+0022500460,2025-12-30,540,20,4,9,11,Jump Shot,3PT Field Goal,23,Left Corner 3,Left Side(L),24+ ft.,-237,32,0,Missed Shot,-1,0.6666666666666666,0.4,0.5
+0022500460,2025-12-30,541,21,4,5,19,Pullup Jump shot,2PT Field Goal,11,In The Paint (Non-RA),Center(C),8-16 ft.,-44,101,0,Missed Shot,-2,0.3333333333333333,0.4,0.4
+0022500460,2025-12-30,542,22,4,4,32,Step Back Jump shot,3PT Field Goal,23,Left Corner 3,Left Side(L),24+ ft.,-234,47,0,Missed Shot,-3,0.0,0.4,0.4
+0022500485,2026-01-02,543,1,1,10,12,Driving Floating Jump Shot,2PT Field Goal,7,In The Paint (Non-RA),Center(C),Less Than 8 ft.,27,67,1,Made Shot,-4,0.0,0.2,0.3
+0022500485,2026-01-02,544,2,1,9,44,Jump Shot,3PT Field Goal,30,Above the Break 3,Left Side Center(LC),24+ ft.,-119,278,0,Missed Shot,1,0.3333333333333333,0.2,0.4
+0022500485,2026-01-02,545,3,1,5,8,Driving Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,17,18,1,Made Shot,-1,0.3333333333333333,0.2,0.3
+0022500485,2026-01-02,546,4,1,3,42,Turnaround Fadeaway shot,2PT Field Goal,12,Mid-Range,Left Side(L),8-16 ft.,-126,20,0,Missed Shot,1,0.6666666666666666,0.4,0.4
+0022500485,2026-01-02,547,5,1,2,28,Jump Shot,3PT Field Goal,31,Above the Break 3,Right Side Center(RC),24+ ft.,113,299,0,Missed Shot,-1,0.3333333333333333,0.4,0.4
+0022500485,2026-01-02,548,6,2,6,4,Pullup Jump shot,3PT Field Goal,29,Above the Break 3,Center(C),24+ ft.,-32,294,0,Missed Shot,-2,0.3333333333333333,0.4,0.3
+0022500485,2026-01-02,549,7,2,2,23,Fadeaway Jump Shot,2PT Field Goal,7,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,78,0,Missed Shot,-3,0.0,0.2,0.2
+0022500485,2026-01-02,550,8,2,1,7,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,138,230,0,Missed Shot,-4,0.0,0.2,0.2
+0022500485,2026-01-02,551,9,3,10,22,Pullup Jump shot,2PT Field Goal,11,In The Paint (Non-RA),Center(C),8-16 ft.,10,117,1,Made Shot,-5,0.0,0.0,0.2
+0022500485,2026-01-02,552,10,3,8,54,Fadeaway Jump Shot,2PT Field Goal,8,In The Paint (Non-RA),Center(C),8-16 ft.,-22,83,0,Missed Shot,1,0.3333333333333333,0.2,0.3
+0022500485,2026-01-02,553,11,3,6,14,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-218,158,0,Missed Shot,-1,0.3333333333333333,0.2,0.3
+0022500485,2026-01-02,554,12,3,5,1,Driving Layup Shot,2PT Field Goal,1,Restricted Area,Center(C),Less Than 8 ft.,0,11,1,Made Shot,-2,0.3333333333333333,0.2,0.2
+0022500485,2026-01-02,555,13,3,4,10,Step Back Jump shot,3PT Field Goal,28,Above the Break 3,Left Side Center(LC),24+ ft.,-109,264,1,Made Shot,1,0.3333333333333333,0.4,0.3
+0022500485,2026-01-02,556,14,3,2,36,Cutting Layup Shot,2PT Field Goal,0,Restricted Area,Center(C),Less Than 8 ft.,-6,2,1,Made Shot,2,0.6666666666666666,0.6,0.3
+0022500485,2026-01-02,557,15,4,7,34,Step Back Jump shot,3PT Field Goal,24,Above the Break 3,Left Side Center(LC),24+ ft.,-229,91,0,Missed Shot,3,1.0,0.6,0.4
+0022500485,2026-01-02,558,16,4,6,53,Driving Floating Jump Shot,2PT Field Goal,5,In The Paint (Non-RA),Center(C),Less Than 8 ft.,16,48,1,Made Shot,-1,0.6666666666666666,0.6,0.4
+0022500485,2026-01-02,559,17,4,5,50,Fadeaway Jump Shot,2PT Field Goal,10,In The Paint (Non-RA),Left Side(L),8-16 ft.,-56,86,0,Missed Shot,1,0.6666666666666666,0.8,0.5
+0022500485,2026-01-02,560,18,4,4,46,Fadeaway Jump Shot,2PT Field Goal,8,In The Paint (Non-RA),Left Side(L),8-16 ft.,-62,63,1,Made Shot,-1,0.3333333333333333,0.6,0.5
+0022500501,2026-01-04,561,1,1,6,48,Fadeaway Jump Shot,2PT Field Goal,15,In The Paint (Non-RA),Center(C),8-16 ft.,-64,138,1,Made Shot,1,0.6666666666666666,0.6,0.6
+0022500501,2026-01-04,562,2,1,6,20,Step Back Jump shot,2PT Field Goal,18,Mid-Range,Center(C),16-24 ft.,29,184,1,Made Shot,2,0.6666666666666666,0.6,0.6
+0022500501,2026-01-04,563,3,1,5,49,Pullup Jump shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,159,206,0,Missed Shot,3,1.0,0.8,0.7
+0022500501,2026-01-04,564,4,1,4,38,Driving Floating Jump Shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,13,35,1,Made Shot,-1,0.6666666666666666,0.6,0.7
+0022500501,2026-01-04,565,5,1,2,49,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-168,208,1,Made Shot,1,0.6666666666666666,0.8,0.7
+0022500501,2026-01-04,566,6,1,1,14,Jump Shot,3PT Field Goal,27,Above the Break 3,Right Side Center(RC),24+ ft.,197,189,0,Missed Shot,2,0.6666666666666666,0.8,0.7
+0022500501,2026-01-04,567,7,1,0,15,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-129,242,0,Missed Shot,-1,0.6666666666666666,0.6,0.6
+0022500501,2026-01-04,568,8,2,3,3,Pullup Jump shot,3PT Field Goal,27,Above the Break 3,Right Side Center(RC),24+ ft.,126,241,0,Missed Shot,-2,0.3333333333333333,0.4,0.6
+0022500501,2026-01-04,569,9,2,2,59,Driving Floating Jump Shot,2PT Field Goal,7,In The Paint (Non-RA),Center(C),Less Than 8 ft.,0,72,1,Made Shot,-3,0.0,0.4,0.5
+0022500501,2026-01-04,570,10,2,2,35,Pullup Jump shot,2PT Field Goal,12,In The Paint (Non-RA),Center(C),8-16 ft.,10,126,0,Missed Shot,1,0.3333333333333333,0.4,0.6
+0022500501,2026-01-04,571,11,3,7,38,Driving Floating Jump Shot,2PT Field Goal,7,In The Paint (Non-RA),Center(C),Less Than 8 ft.,10,76,1,Made Shot,-1,0.3333333333333333,0.2,0.5
+0022500501,2026-01-04,572,12,3,6,58,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-126,233,0,Missed Shot,1,0.6666666666666666,0.4,0.5
+0022500501,2026-01-04,573,13,3,6,35,Fadeaway Jump Shot,2PT Field Goal,15,Mid-Range,Center(C),8-16 ft.,-15,154,0,Missed Shot,-1,0.3333333333333333,0.4,0.4
+0022500501,2026-01-04,574,14,3,4,4,Turnaround Jump Shot,2PT Field Goal,14,Mid-Range,Center(C),8-16 ft.,-20,148,0,Missed Shot,-2,0.3333333333333333,0.4,0.4
+0022500501,2026-01-04,575,15,3,1,47,Jump Shot,3PT Field Goal,31,Above the Break 3,Left Side Center(LC),24+ ft.,-145,281,1,Made Shot,-3,0.0,0.2,0.3
+0022500501,2026-01-04,576,16,3,0,8,Driving Finger Roll Layup Shot,2PT Field Goal,4,In The Paint (Non-RA),Center(C),Less Than 8 ft.,23,37,0,Missed Shot,1,0.3333333333333333,0.4,0.3
+0022500501,2026-01-04,577,17,4,5,12,Pullup Jump shot,2PT Field Goal,14,Mid-Range,Center(C),8-16 ft.,-7,141,1,Made Shot,-1,0.3333333333333333,0.2,0.3
+0022500501,2026-01-04,578,18,4,4,23,Jump Shot,3PT Field Goal,32,Above the Break 3,Center(C),24+ ft.,-66,319,0,Missed Shot,1,0.6666666666666666,0.4,0.4
+0022500501,2026-01-04,579,19,4,2,35,Jump Shot,3PT Field Goal,33,Above the Break 3,Center(C),24+ ft.,-98,317,1,Made Shot,-1,0.3333333333333333,0.4,0.4
+0022500501,2026-01-04,580,20,4,2,8,Pullup Jump shot,3PT Field Goal,25,Above the Break 3,Right Side Center(RC),24+ ft.,127,223,1,Made Shot,1,0.6666666666666666,0.6,0.4
+0022500514,2026-01-06,581,1,1,9,27,Driving Layup Shot,2PT Field Goal,4,In The Paint (Non-RA),Center(C),Less Than 8 ft.,27,32,0,Missed Shot,2,0.6666666666666666,0.6,0.5
+0022500514,2026-01-06,582,2,1,9,6,Jump Shot,3PT Field Goal,25,Above the Break 3,Right Side Center(RC),24+ ft.,184,174,0,Missed Shot,-1,0.6666666666666666,0.6,0.4
+0022500514,2026-01-06,583,3,1,8,49,Fadeaway Jump Shot,2PT Field Goal,14,Mid-Range,Left Side(L),8-16 ft.,-130,55,1,Made Shot,-2,0.3333333333333333,0.4,0.4
+0022500514,2026-01-06,584,4,1,7,59,Jump Shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-102,250,0,Missed Shot,1,0.3333333333333333,0.6,0.5
+0022500514,2026-01-06,585,5,1,5,33,Pullup Jump shot,2PT Field Goal,15,In The Paint (Non-RA),Center(C),8-16 ft.,71,137,1,Made Shot,-1,0.3333333333333333,0.4,0.5
+0022500514,2026-01-06,586,6,1,4,14,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Right Side Center(RC),24+ ft.,97,232,0,Missed Shot,1,0.6666666666666666,0.4,0.5
+0022500514,2026-01-06,587,7,1,3,50,Pullup Jump shot,2PT Field Goal,12,In The Paint (Non-RA),Right Side(R),8-16 ft.,70,98,1,Made Shot,-1,0.3333333333333333,0.4,0.5
+0022500514,2026-01-06,588,8,1,3,7,Driving Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,9,21,1,Made Shot,1,0.6666666666666666,0.6,0.5
+0022500514,2026-01-06,589,9,1,1,39,Running Layup Shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,22,27,1,Made Shot,2,0.6666666666666666,0.6,0.6
+0022500514,2026-01-06,590,10,1,1,9,Jump Shot,3PT Field Goal,29,Above the Break 3,Right Side Center(RC),24+ ft.,174,234,0,Missed Shot,3,1.0,0.8,0.6
+0022500514,2026-01-06,591,11,2,7,41,Driving Finger Roll Layup Shot,2PT Field Goal,9,In The Paint (Non-RA),Center(C),8-16 ft.,-12,92,1,Made Shot,-1,0.6666666666666666,0.6,0.5
+0022500514,2026-01-06,592,12,2,6,37,Fadeaway Jump Shot,2PT Field Goal,18,Mid-Range,Left Side Center(LC),16-24 ft.,-97,153,1,Made Shot,1,0.6666666666666666,0.8,0.6
+0022500514,2026-01-06,593,13,2,5,53,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-206,151,0,Missed Shot,2,0.6666666666666666,0.8,0.7
+0022500514,2026-01-06,594,14,2,1,13,Pullup Jump shot,2PT Field Goal,15,Mid-Range,Center(C),8-16 ft.,29,155,0,Missed Shot,-1,0.6666666666666666,0.6,0.6
+0022500514,2026-01-06,595,15,2,0,46,Jump Shot,3PT Field Goal,25,Above the Break 3,Center(C),24+ ft.,26,258,0,Missed Shot,-2,0.3333333333333333,0.4,0.6
+0022500514,2026-01-06,596,16,3,10,6,Fadeaway Jump Shot,2PT Field Goal,9,In The Paint (Non-RA),Left Side(L),8-16 ft.,-75,64,0,Missed Shot,-3,0.0,0.4,0.5
+0022500514,2026-01-06,597,17,3,9,22,Running Pull-Up Jump Shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,145,221,1,Made Shot,-4,0.0,0.2,0.5
+0022500514,2026-01-06,598,18,3,4,24,Driving Floating Jump Shot,2PT Field Goal,13,In The Paint (Non-RA),Center(C),8-16 ft.,-53,122,1,Made Shot,1,0.3333333333333333,0.2,0.5
+0022500514,2026-01-06,599,19,3,1,58,Pullup Jump shot,2PT Field Goal,4,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-36,25,0,Missed Shot,2,0.6666666666666666,0.4,0.5
+0022500514,2026-01-06,600,20,4,3,39,Jump Shot,3PT Field Goal,22,Right Corner 3,Right Side(R),24+ ft.,229,-9,1,Made Shot,-1,0.6666666666666666,0.4,0.4
+0022500514,2026-01-06,601,21,4,2,0,Pullup Jump shot,3PT Field Goal,31,Above the Break 3,Right Side Center(RC),24+ ft.,212,232,1,Made Shot,1,0.6666666666666666,0.6,0.5
+0022500514,2026-01-06,602,22,4,0,53,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-191,184,0,Missed Shot,2,0.6666666666666666,0.8,0.5
+0022500523,2026-01-07,603,1,1,11,5,Driving Floating Jump Shot,2PT Field Goal,13,Mid-Range,Left Side(L),8-16 ft.,-116,66,0,Missed Shot,-1,0.6666666666666666,0.6,0.4
+0022500523,2026-01-07,604,2,1,10,29,Driving Floating Jump Shot,2PT Field Goal,14,In The Paint (Non-RA),Right Side(R),8-16 ft.,75,129,1,Made Shot,-2,0.3333333333333333,0.4,0.4
+0022500523,2026-01-07,605,3,1,8,29,Driving Floating Jump Shot,2PT Field Goal,11,Mid-Range,Right Side(R),8-16 ft.,112,15,0,Missed Shot,1,0.3333333333333333,0.6,0.5
+0022500523,2026-01-07,606,4,1,8,5,Turnaround Fadeaway shot,2PT Field Goal,15,Mid-Range,Center(C),8-16 ft.,54,142,1,Made Shot,-1,0.3333333333333333,0.4,0.5
+0022500523,2026-01-07,607,5,1,4,23,Driving Layup Shot,2PT Field Goal,1,Restricted Area,Center(C),Less Than 8 ft.,16,11,0,Missed Shot,1,0.6666666666666666,0.4,0.6
+0022500523,2026-01-07,608,6,1,3,28,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-105,240,0,Missed Shot,-1,0.3333333333333333,0.4,0.5
+0022500523,2026-01-07,609,7,1,2,57,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-119,222,1,Made Shot,-2,0.3333333333333333,0.4,0.4
+0022500523,2026-01-07,610,8,1,1,48,Driving Floating Bank Jump Shot,2PT Field Goal,8,In The Paint (Non-RA),Right Side(R),8-16 ft.,71,50,1,Made Shot,1,0.3333333333333333,0.4,0.5
+0022500523,2026-01-07,611,9,2,8,35,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,103,240,0,Missed Shot,2,0.6666666666666666,0.6,0.5
+0022500523,2026-01-07,612,10,2,7,56,Jump Shot,3PT Field Goal,25,Above the Break 3,Center(C),24+ ft.,1,257,0,Missed Shot,-1,0.6666666666666666,0.4,0.4
+0022500523,2026-01-07,613,11,2,6,2,Driving Floating Jump Shot,2PT Field Goal,12,Mid-Range,Right Side(R),8-16 ft.,99,78,1,Made Shot,-2,0.3333333333333333,0.4,0.4
+0022500523,2026-01-07,614,12,2,5,29,Driving Finger Roll Layup Shot,2PT Field Goal,1,Restricted Area,Center(C),Less Than 8 ft.,9,16,1,Made Shot,1,0.3333333333333333,0.6,0.5
+0022500523,2026-01-07,615,13,2,1,20,Jump Shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-136,235,0,Missed Shot,2,0.6666666666666666,0.6,0.5
+0022500523,2026-01-07,616,14,2,0,33,Driving Finger Roll Layup Shot,2PT Field Goal,1,Restricted Area,Center(C),Less Than 8 ft.,18,3,1,Made Shot,-1,0.6666666666666666,0.4,0.5
+0022500523,2026-01-07,617,15,3,9,25,Running Pull-Up Jump Shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-87,265,1,Made Shot,1,0.6666666666666666,0.6,0.5
+0022500523,2026-01-07,618,16,3,7,31,Step Back Jump shot,3PT Field Goal,23,Left Corner 3,Left Side(L),24+ ft.,-232,-4,0,Missed Shot,2,0.6666666666666666,0.8,0.6
+0022500523,2026-01-07,619,17,3,6,36,Driving Floating Jump Shot,2PT Field Goal,9,In The Paint (Non-RA),Right Side(R),8-16 ft.,61,71,1,Made Shot,-1,0.6666666666666666,0.6,0.6
+0022500523,2026-01-07,620,18,3,4,37,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,115,239,0,Missed Shot,1,0.6666666666666666,0.6,0.6
+0022500523,2026-01-07,621,19,3,3,0,Driving Floating Bank Jump Shot,2PT Field Goal,9,Mid-Range,Left Side(L),8-16 ft.,-87,37,1,Made Shot,-1,0.3333333333333333,0.6,0.5
+0022500523,2026-01-07,622,20,3,2,7,Floating Jump shot,2PT Field Goal,8,Mid-Range,Right Side(R),8-16 ft.,86,-13,0,Missed Shot,1,0.6666666666666666,0.6,0.6
+0022500523,2026-01-07,623,21,3,1,46,Driving Floating Jump Shot,2PT Field Goal,14,In The Paint (Non-RA),Center(C),8-16 ft.,-58,132,1,Made Shot,-1,0.3333333333333333,0.4,0.6
+0022500523,2026-01-07,624,22,4,7,24,Step Back Jump shot,2PT Field Goal,20,Mid-Range,Left Side Center(LC),16-24 ft.,-97,176,0,Missed Shot,1,0.6666666666666666,0.6,0.6
+0022500523,2026-01-07,625,23,4,6,24,Fadeaway Jump Shot,2PT Field Goal,12,Mid-Range,Left Side(L),8-16 ft.,-121,46,1,Made Shot,-1,0.3333333333333333,0.4,0.5
+0022500523,2026-01-07,626,24,4,4,57,Driving Floating Jump Shot,2PT Field Goal,14,In The Paint (Non-RA),Center(C),8-16 ft.,-66,131,1,Made Shot,1,0.6666666666666666,0.6,0.6
+0022500523,2026-01-07,627,25,4,3,20,Pullup Jump shot,3PT Field Goal,28,Above the Break 3,Left Side Center(LC),24+ ft.,-157,236,0,Missed Shot,2,0.6666666666666666,0.6,0.6
+0022500523,2026-01-07,628,26,4,2,14,Driving Floating Bank Jump Shot,2PT Field Goal,11,Mid-Range,Left Side(L),8-16 ft.,-96,71,0,Missed Shot,-1,0.6666666666666666,0.6,0.5
+0022500541,2026-01-09,629,1,1,11,38,Jump Shot,3PT Field Goal,23,Left Corner 3,Left Side(L),24+ ft.,-232,40,1,Made Shot,-2,0.3333333333333333,0.4,0.5
+0022500541,2026-01-09,630,2,1,10,35,Jump Shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-172,205,1,Made Shot,1,0.3333333333333333,0.6,0.5
+0022500541,2026-01-09,631,3,1,9,34,Pullup Jump shot,3PT Field Goal,30,Above the Break 3,Center(C),24+ ft.,-59,300,0,Missed Shot,2,0.6666666666666666,0.6,0.6
+0022500541,2026-01-09,632,4,1,7,18,Driving Floating Jump Shot,2PT Field Goal,7,In The Paint (Non-RA),Center(C),Less Than 8 ft.,39,62,0,Missed Shot,-1,0.6666666666666666,0.4,0.5
+0022500541,2026-01-09,633,5,1,7,15,Fadeaway Jump Shot,2PT Field Goal,12,Mid-Range,Right Side(R),8-16 ft.,121,12,0,Missed Shot,-2,0.3333333333333333,0.4,0.5
+0022500541,2026-01-09,634,6,1,5,25,Driving Floating Jump Shot,2PT Field Goal,6,In The Paint (Non-RA),Center(C),Less Than 8 ft.,17,63,0,Missed Shot,-3,0.0,0.4,0.4
+0022500541,2026-01-09,635,7,1,5,8,Running Pull-Up Jump Shot,3PT Field Goal,26,Above the Break 3,Center(C),24+ ft.,-11,268,0,Missed Shot,-4,0.0,0.2,0.4
+0022500541,2026-01-09,636,8,1,4,39,Driving Floating Jump Shot,2PT Field Goal,7,In The Paint (Non-RA),Center(C),Less Than 8 ft.,36,71,0,Missed Shot,-5,0.0,0.0,0.3
+0022500541,2026-01-09,637,9,1,3,1,Driving Floating Bank Jump Shot,2PT Field Goal,5,In The Paint (Non-RA),Center(C),Less Than 8 ft.,56,21,0,Missed Shot,-6,0.0,0.0,0.2
+0022500541,2026-01-09,638,10,2,5,11,Driving Finger Roll Layup Shot,2PT Field Goal,6,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-16,66,1,Made Shot,-7,0.0,0.0,0.2
+0022500541,2026-01-09,639,11,2,3,8,Fadeaway Jump Shot,2PT Field Goal,9,Mid-Range,Left Side(L),8-16 ft.,-87,37,0,Missed Shot,1,0.3333333333333333,0.2,0.3
+0022500541,2026-01-09,640,12,2,2,8,Driving Floating Jump Shot,2PT Field Goal,11,Mid-Range,Right Side(R),8-16 ft.,91,66,0,Missed Shot,-1,0.3333333333333333,0.2,0.2
+0022500541,2026-01-09,641,13,3,9,33,Driving Layup Shot,2PT Field Goal,6,In The Paint (Non-RA),Center(C),Less Than 8 ft.,55,36,0,Missed Shot,-2,0.3333333333333333,0.2,0.1
+0022500541,2026-01-09,642,14,3,7,8,Driving Floating Jump Shot,2PT Field Goal,8,In The Paint (Non-RA),Right Side(R),8-16 ft.,65,55,1,Made Shot,-3,0.0,0.2,0.1
+0022500541,2026-01-09,643,15,3,4,42,Driving Floating Jump Shot,2PT Field Goal,6,In The Paint (Non-RA),Center(C),Less Than 8 ft.,67,8,0,Missed Shot,1,0.3333333333333333,0.4,0.2
+0022500541,2026-01-09,644,16,3,4,31,Step Back Jump shot,3PT Field Goal,23,Right Corner 3,Right Side(R),24+ ft.,229,22,1,Made Shot,-1,0.3333333333333333,0.2,0.2
+0022500541,2026-01-09,645,17,3,3,58,Driving Floating Jump Shot,2PT Field Goal,9,In The Paint (Non-RA),Center(C),8-16 ft.,-20,91,1,Made Shot,1,0.6666666666666666,0.4,0.3
+0022500541,2026-01-09,646,18,3,2,52,Running Pull-Up Jump Shot,2PT Field Goal,14,Mid-Range,Right Side(R),8-16 ft.,123,79,0,Missed Shot,2,0.6666666666666666,0.6,0.4
+0022500541,2026-01-09,647,19,3,0,36,Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,-10,28,0,Missed Shot,-1,0.6666666666666666,0.6,0.4
+0022500541,2026-01-09,648,20,3,0,34,Tip Layup Shot,2PT Field Goal,0,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,Missed Shot,-2,0.3333333333333333,0.4,0.4
+0022500541,2026-01-09,649,21,3,0,18,Jump Shot,3PT Field Goal,29,Above the Break 3,Center(C),24+ ft.,-62,291,1,Made Shot,-3,0.0,0.4,0.3
+0022500541,2026-01-09,650,22,4,5,9,Fadeaway Jump Shot,2PT Field Goal,7,In The Paint (Non-RA),Center(C),Less Than 8 ft.,69,37,1,Made Shot,1,0.3333333333333333,0.4,0.4
+0022500541,2026-01-09,651,23,4,4,31,Pullup Jump shot,2PT Field Goal,11,In The Paint (Non-RA),Center(C),8-16 ft.,5,110,0,Missed Shot,2,0.6666666666666666,0.4,0.5
+0022500541,2026-01-09,652,24,4,3,6,Fadeaway Jump Shot,2PT Field Goal,17,Mid-Range,Left Side Center(LC),16-24 ft.,-140,111,0,Missed Shot,-1,0.6666666666666666,0.4,0.5
+0022500541,2026-01-09,653,25,4,1,48,Driving Floating Jump Shot,2PT Field Goal,8,In The Paint (Non-RA),Center(C),8-16 ft.,39,80,0,Missed Shot,-2,0.3333333333333333,0.4,0.4
+0022500562,2026-01-12,654,1,1,9,51,Running Layup Shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,26,20,1,Made Shot,-3,0.0,0.4,0.4
+0022500562,2026-01-12,655,2,1,7,36,Jump Shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-154,210,0,Missed Shot,1,0.3333333333333333,0.4,0.4
+0022500562,2026-01-12,656,3,1,7,25,Driving Floating Jump Shot,2PT Field Goal,12,In The Paint (Non-RA),Center(C),8-16 ft.,-11,125,1,Made Shot,-1,0.3333333333333333,0.2,0.3
+0022500562,2026-01-12,657,4,1,6,51,Turnaround Fadeaway shot,2PT Field Goal,17,Mid-Range,Right Side Center(RC),16-24 ft.,119,122,1,Made Shot,1,0.6666666666666666,0.4,0.4
+0022500562,2026-01-12,658,5,1,6,24,Jump Shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-224,112,0,Missed Shot,2,0.6666666666666666,0.6,0.5
+0022500562,2026-01-12,659,6,1,6,7,Driving Floating Bank Jump Shot,2PT Field Goal,5,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-36,46,1,Made Shot,-1,0.6666666666666666,0.6,0.5
+0022500562,2026-01-12,660,7,1,4,29,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-158,215,1,Made Shot,1,0.6666666666666666,0.6,0.5
+0022500562,2026-01-12,661,8,2,7,49,Turnaround Jump Shot,2PT Field Goal,15,Mid-Range,Right Side(R),8-16 ft.,138,59,1,Made Shot,2,0.6666666666666666,0.8,0.5
+0022500562,2026-01-12,662,9,2,6,40,Driving Floating Jump Shot,2PT Field Goal,8,In The Paint (Non-RA),Right Side(R),8-16 ft.,80,17,0,Missed Shot,3,1.0,0.8,0.6
+0022500562,2026-01-12,663,10,2,6,11,Step Back Jump shot,2PT Field Goal,19,Mid-Range,Right Side Center(RC),16-24 ft.,64,183,1,Made Shot,-1,0.6666666666666666,0.6,0.6
+0022500562,2026-01-12,664,11,2,5,30,Driving Layup Shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,17,28,1,Made Shot,1,0.6666666666666666,0.8,0.7
+0022500562,2026-01-12,665,12,2,4,19,Running Pull-Up Jump Shot,3PT Field Goal,28,Above the Break 3,Right Side Center(RC),24+ ft.,114,256,0,Missed Shot,2,0.6666666666666666,0.8,0.7
+0022500562,2026-01-12,666,13,2,2,22,Putback Layup Shot,2PT Field Goal,8,In The Paint (Non-RA),Center(C),8-16 ft.,32,79,1,Made Shot,-1,0.6666666666666666,0.6,0.7
+0022500562,2026-01-12,667,14,2,0,0,Driving Floating Jump Shot,3PT Field Goal,26,Above the Break 3,Center(C),24+ ft.,-53,260,1,Made Shot,1,0.6666666666666666,0.6,0.7
+0022500562,2026-01-12,668,15,3,10,44,Step Back Jump shot,3PT Field Goal,24,Above the Break 3,Left Side Center(LC),24+ ft.,-159,188,0,Missed Shot,2,0.6666666666666666,0.8,0.7
+0022500562,2026-01-12,669,16,3,7,45,Driving Floating Jump Shot,2PT Field Goal,17,Mid-Range,Right Side Center(RC),16-24 ft.,129,113,1,Made Shot,-1,0.6666666666666666,0.6,0.7
+0022500562,2026-01-12,670,17,3,6,43,Driving Floating Jump Shot,2PT Field Goal,13,In The Paint (Non-RA),Right Side(R),8-16 ft.,69,116,1,Made Shot,1,0.6666666666666666,0.6,0.7
+0022500562,2026-01-12,671,18,3,5,15,Putback Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,-11,21,1,Made Shot,2,0.6666666666666666,0.8,0.7
+0022500562,2026-01-12,672,19,3,1,53,Turnaround Fadeaway shot,2PT Field Goal,11,In The Paint (Non-RA),Center(C),8-16 ft.,-4,114,1,Made Shot,3,1.0,0.8,0.7
+0022500562,2026-01-12,673,20,3,1,25,Driving Layup Shot,2PT Field Goal,5,In The Paint (Non-RA),Center(C),Less Than 8 ft.,47,22,1,Made Shot,4,1.0,0.8,0.8
+0022500562,2026-01-12,674,21,3,1,0,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Center(C),24+ ft.,-33,258,0,Missed Shot,5,1.0,1.0,0.8
+0022500562,2026-01-12,675,22,4,6,1,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-180,189,0,Missed Shot,-1,0.6666666666666666,0.8,0.7
+0022500562,2026-01-12,676,23,4,4,45,Driving Floating Jump Shot,2PT Field Goal,8,In The Paint (Non-RA),Right Side(R),8-16 ft.,80,30,0,Missed Shot,-2,0.3333333333333333,0.6,0.7
+0022500562,2026-01-12,677,24,4,3,9,Turnaround Fadeaway shot,2PT Field Goal,9,In The Paint (Non-RA),Center(C),8-16 ft.,22,94,1,Made Shot,-3,0.0,0.4,0.6
+0022500562,2026-01-12,678,25,4,2,14,Jump Shot,3PT Field Goal,29,Above the Break 3,Center(C),24+ ft.,-13,299,0,Missed Shot,1,0.3333333333333333,0.4,0.6
+0022500569,2026-01-13,679,1,1,11,40,Turnaround Fadeaway shot,2PT Field Goal,17,Mid-Range,Center(C),16-24 ft.,-28,172,0,Missed Shot,-1,0.3333333333333333,0.2,0.6
+0022500569,2026-01-13,680,2,1,9,24,Driving Floating Jump Shot,2PT Field Goal,6,In The Paint (Non-RA),Center(C),Less Than 8 ft.,44,52,0,Missed Shot,-2,0.3333333333333333,0.2,0.5
+0022500569,2026-01-13,681,3,1,8,1,Step Back Jump shot,2PT Field Goal,16,Mid-Range,Right Side Center(RC),16-24 ft.,86,138,0,Missed Shot,-3,0.0,0.2,0.4
+0022500569,2026-01-13,682,4,1,6,56,Running Jump Shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-207,158,1,Made Shot,-4,0.0,0.2,0.3
+0022500569,2026-01-13,683,5,1,6,35,Jump Shot,3PT Field Goal,32,Above the Break 3,Right Side Center(RC),24+ ft.,112,304,0,Missed Shot,1,0.3333333333333333,0.2,0.3
+0022500569,2026-01-13,684,6,1,3,34,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Center(C),24+ ft.,-1,279,1,Made Shot,-1,0.3333333333333333,0.2,0.2
+0022500569,2026-01-13,685,7,2,6,10,Jump Shot,3PT Field Goal,27,Above the Break 3,Center(C),24+ ft.,16,277,1,Made Shot,1,0.6666666666666666,0.4,0.3
+0022500569,2026-01-13,686,8,2,5,43,Jump Shot,3PT Field Goal,30,Above the Break 3,Right Side Center(RC),24+ ft.,176,255,1,Made Shot,2,0.6666666666666666,0.6,0.4
+0022500569,2026-01-13,687,9,2,5,20,Running Pull-Up Jump Shot,3PT Field Goal,28,Above the Break 3,Center(C),24+ ft.,-21,285,1,Made Shot,3,1.0,0.8,0.5
+0022500569,2026-01-13,688,10,2,1,1,Tip Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,25,10,0,Missed Shot,4,1.0,0.8,0.5
+0022500569,2026-01-13,689,11,3,9,10,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-199,158,0,Missed Shot,-1,0.6666666666666666,0.8,0.5
+0022500569,2026-01-13,690,12,3,7,2,Turnaround Jump Shot,2PT Field Goal,9,In The Paint (Non-RA),Left Side(L),8-16 ft.,-55,78,1,Made Shot,-2,0.3333333333333333,0.6,0.5
+0022500569,2026-01-13,691,13,3,6,21,Pullup Jump shot,3PT Field Goal,28,Above the Break 3,Left Side Center(LC),24+ ft.,-192,217,0,Missed Shot,1,0.3333333333333333,0.6,0.6
+0022500569,2026-01-13,692,14,4,7,39,Driving Floating Jump Shot,2PT Field Goal,7,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-2,75,1,Made Shot,-1,0.3333333333333333,0.4,0.6
+0022500569,2026-01-13,693,15,4,7,0,Jump Shot,3PT Field Goal,30,Above the Break 3,Left Side Center(LC),24+ ft.,-105,283,0,Missed Shot,1,0.6666666666666666,0.4,0.6
+0022500569,2026-01-13,694,16,4,6,31,Running Layup Shot,2PT Field Goal,1,Restricted Area,Center(C),Less Than 8 ft.,-1,17,0,Missed Shot,-1,0.3333333333333333,0.4,0.6
+0022500586,2026-01-15,695,1,1,11,44,Driving Floating Jump Shot,2PT Field Goal,13,In The Paint (Non-RA),Center(C),8-16 ft.,10,130,0,Missed Shot,-2,0.3333333333333333,0.4,0.5
+0022500586,2026-01-15,696,2,1,9,46,Pullup Jump shot,3PT Field Goal,28,Above the Break 3,Left Side Center(LC),24+ ft.,-136,256,1,Made Shot,-3,0.0,0.2,0.4
+0022500586,2026-01-15,697,3,1,9,28,Pullup Jump shot,2PT Field Goal,16,Mid-Range,Left Side Center(LC),16-24 ft.,-75,146,1,Made Shot,1,0.3333333333333333,0.4,0.4
+0022500586,2026-01-15,698,4,1,9,7,Pullup Jump shot,2PT Field Goal,5,In The Paint (Non-RA),Center(C),Less Than 8 ft.,49,17,0,Missed Shot,2,0.6666666666666666,0.4,0.4
+0022500586,2026-01-15,699,5,1,8,26,Driving Floating Jump Shot,2PT Field Goal,7,In The Paint (Non-RA),Center(C),Less Than 8 ft.,0,74,0,Missed Shot,-1,0.6666666666666666,0.4,0.4
+0022500586,2026-01-15,700,6,1,7,3,Driving Floating Jump Shot,2PT Field Goal,6,In The Paint (Non-RA),Center(C),Less Than 8 ft.,55,27,0,Missed Shot,-2,0.3333333333333333,0.4,0.4
+0022500586,2026-01-15,701,7,1,5,50,Driving Finger Roll Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,9,26,1,Made Shot,-3,0.0,0.4,0.3
+0022500586,2026-01-15,702,8,1,3,42,Driving Floating Jump Shot,2PT Field Goal,7,In The Paint (Non-RA),Center(C),Less Than 8 ft.,18,69,1,Made Shot,1,0.3333333333333333,0.4,0.4
+0022500586,2026-01-15,703,9,1,3,14,Driving Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,12,27,1,Made Shot,2,0.6666666666666666,0.4,0.4
+0022500586,2026-01-15,704,10,1,2,9,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-164,209,1,Made Shot,3,1.0,0.6,0.5
+0022500586,2026-01-15,705,11,1,1,11,Running Pull-Up Jump Shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-112,247,0,Missed Shot,4,1.0,0.8,0.6
+0022500586,2026-01-15,706,12,1,0,3,Pullup Jump shot,3PT Field Goal,32,Above the Break 3,Left Side Center(LC),24+ ft.,-162,283,1,Made Shot,-1,0.6666666666666666,0.8,0.6
+0022500586,2026-01-15,707,13,2,5,4,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Center(C),24+ ft.,-74,268,0,Missed Shot,1,0.6666666666666666,0.8,0.6
+0022500586,2026-01-15,708,14,3,10,58,Turnaround Jump Shot,2PT Field Goal,4,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-9,46,1,Made Shot,-1,0.3333333333333333,0.6,0.5
+0022500586,2026-01-15,709,15,3,10,32,Pullup Jump shot,2PT Field Goal,16,Mid-Range,Right Side Center(RC),16-24 ft.,91,136,0,Missed Shot,1,0.6666666666666666,0.6,0.6
+0022500586,2026-01-15,710,16,3,10,1,Step Back Jump shot,3PT Field Goal,28,Above the Break 3,Left Side Center(LC),24+ ft.,-112,260,0,Missed Shot,-1,0.3333333333333333,0.4,0.6
+0022500586,2026-01-15,711,17,3,9,50,Turnaround Hook Shot,2PT Field Goal,4,In The Paint (Non-RA),Center(C),Less Than 8 ft.,2,41,1,Made Shot,-2,0.3333333333333333,0.4,0.6
+0022500586,2026-01-15,712,18,3,7,53,Turnaround Jump Shot,2PT Field Goal,6,In The Paint (Non-RA),Center(C),Less Than 8 ft.,12,59,1,Made Shot,1,0.3333333333333333,0.4,0.6
+0022500586,2026-01-15,713,19,3,7,29,Jump Shot,3PT Field Goal,27,Above the Break 3,Center(C),24+ ft.,-17,272,1,Made Shot,2,0.6666666666666666,0.6,0.6
+0022500586,2026-01-15,714,20,3,6,18,Pullup Jump shot,2PT Field Goal,15,Mid-Range,Left Side(L),8-16 ft.,-126,87,1,Made Shot,3,1.0,0.6,0.6
+0022500586,2026-01-15,715,21,3,4,0,Pullup Jump shot,3PT Field Goal,25,Above the Break 3,Center(C),24+ ft.,21,255,1,Made Shot,4,1.0,0.8,0.6
+0022500586,2026-01-15,716,22,4,7,7,Pullup Jump shot,2PT Field Goal,12,In The Paint (Non-RA),Center(C),8-16 ft.,43,119,0,Missed Shot,5,1.0,1.0,0.7
+0022500586,2026-01-15,717,23,4,6,37,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,113,235,1,Made Shot,-1,0.6666666666666666,0.8,0.6
+0022500586,2026-01-15,718,24,4,5,45,Step Back Jump shot,3PT Field Goal,30,Above the Break 3,Right Side Center(RC),24+ ft.,145,264,0,Missed Shot,1,0.6666666666666666,0.8,0.7
+0022500586,2026-01-15,719,25,4,5,12,Driving Floating Jump Shot,2PT Field Goal,16,Mid-Range,Left Side Center(LC),16-24 ft.,-83,137,1,Made Shot,-1,0.3333333333333333,0.6,0.6
+0022500586,2026-01-15,720,26,4,3,45,Jump Shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-118,241,0,Missed Shot,1,0.6666666666666666,0.6,0.7
+0022500607,2026-01-18,721,1,1,11,42,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Right Side Center(RC),24+ ft.,102,251,0,Missed Shot,-1,0.3333333333333333,0.4,0.7
+0022500607,2026-01-18,722,2,1,10,8,Step Back Jump shot,3PT Field Goal,28,Above the Break 3,Left Side Center(LC),24+ ft.,-175,221,0,Missed Shot,-2,0.3333333333333333,0.4,0.6
+0022500607,2026-01-18,723,3,1,9,28,Driving Floating Jump Shot,2PT Field Goal,11,In The Paint (Non-RA),Center(C),8-16 ft.,-50,107,0,Missed Shot,-3,0.0,0.2,0.5
+0022500607,2026-01-18,724,4,1,8,12,Driving Finger Roll Layup Shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,5,37,0,Missed Shot,-4,0.0,0.2,0.4
+0022500607,2026-01-18,725,5,1,7,38,Driving Layup Shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,12,34,0,Missed Shot,-5,0.0,0.0,0.3
+0022500607,2026-01-18,726,6,1,3,35,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,142,221,1,Made Shot,-6,0.0,0.0,0.2
+0022500607,2026-01-18,727,7,1,2,35,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Center(C),24+ ft.,-46,274,1,Made Shot,1,0.3333333333333333,0.2,0.3
+0022500607,2026-01-18,728,8,1,2,20,Running Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,-10,18,1,Made Shot,2,0.6666666666666666,0.4,0.3
+0022500607,2026-01-18,729,9,2,5,53,Running Pull-Up Jump Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,-9,26,0,Missed Shot,3,1.0,0.6,0.4
+0022500607,2026-01-18,730,10,2,4,36,Pullup Jump shot,3PT Field Goal,29,Above the Break 3,Left Side Center(LC),24+ ft.,-167,241,0,Missed Shot,-1,0.6666666666666666,0.6,0.3
+0022500607,2026-01-18,731,11,2,3,31,Pullup Jump shot,2PT Field Goal,7,In The Paint (Non-RA),Center(C),Less Than 8 ft.,34,67,0,Missed Shot,-2,0.3333333333333333,0.6,0.3
+0022500607,2026-01-18,732,12,2,2,4,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-134,232,1,Made Shot,-3,0.0,0.4,0.3
+0022500607,2026-01-18,733,13,2,0,27,Pullup Jump shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,184,197,0,Missed Shot,1,0.3333333333333333,0.4,0.4
+0022500607,2026-01-18,734,14,2,0,2,Pullup Jump shot,3PT Field Goal,27,Above the Break 3,Center(C),24+ ft.,-12,270,1,Made Shot,-1,0.3333333333333333,0.2,0.4
+0022500607,2026-01-18,735,15,3,10,7,Driving Floating Jump Shot,2PT Field Goal,9,In The Paint (Non-RA),Center(C),8-16 ft.,36,88,1,Made Shot,1,0.6666666666666666,0.4,0.5
+0022500607,2026-01-18,736,16,3,8,38,Jump Shot,3PT Field Goal,28,Above the Break 3,Right Side Center(RC),24+ ft.,141,250,1,Made Shot,2,0.6666666666666666,0.6,0.6
+0022500607,2026-01-18,737,17,3,8,7,Pullup Jump shot,3PT Field Goal,28,Above the Break 3,Center(C),24+ ft.,-39,283,0,Missed Shot,3,1.0,0.8,0.6
+0022500607,2026-01-18,738,18,3,7,22,Driving Floating Jump Shot,2PT Field Goal,11,In The Paint (Non-RA),Center(C),8-16 ft.,-20,114,1,Made Shot,-1,0.6666666666666666,0.6,0.5
+0022500607,2026-01-18,739,19,3,5,21,Pullup Jump shot,2PT Field Goal,14,Mid-Range,Left Side(L),8-16 ft.,-83,113,0,Missed Shot,1,0.6666666666666666,0.8,0.5
+0022500607,2026-01-18,740,20,3,3,25,Jump Shot,3PT Field Goal,26,Above the Break 3,Center(C),24+ ft.,0,263,0,Missed Shot,-1,0.3333333333333333,0.6,0.5
+0022500607,2026-01-18,741,21,3,3,17,Fadeaway Jump Shot,2PT Field Goal,10,Mid-Range,Left Side(L),8-16 ft.,-108,1,0,Missed Shot,-2,0.3333333333333333,0.4,0.5
+0022500607,2026-01-18,742,22,4,5,38,Jump Shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-150,231,0,Missed Shot,-3,0.0,0.2,0.5
+0022500607,2026-01-18,743,23,4,3,36,Driving Floating Jump Shot,2PT Field Goal,6,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-11,60,0,Missed Shot,-4,0.0,0.2,0.4
+0022500617,2026-01-20,744,1,1,11,21,Driving Floating Jump Shot,2PT Field Goal,11,Mid-Range,Left Side(L),8-16 ft.,-93,74,1,Made Shot,-5,0.0,0.0,0.4
+0022500617,2026-01-20,745,2,1,9,46,Driving Floating Jump Shot,2PT Field Goal,9,Mid-Range,Right Side(R),8-16 ft.,96,0,1,Made Shot,1,0.3333333333333333,0.2,0.4
+0022500617,2026-01-20,746,3,1,9,15,Jump Shot,3PT Field Goal,25,Above the Break 3,Right Side Center(RC),24+ ft.,218,135,1,Made Shot,2,0.6666666666666666,0.4,0.4
+0022500617,2026-01-20,747,4,1,7,24,Driving Layup Shot,2PT Field Goal,4,In The Paint (Non-RA),Center(C),Less Than 8 ft.,37,29,1,Made Shot,3,1.0,0.6,0.4
+0022500617,2026-01-20,748,5,1,6,40,Jump Shot,3PT Field Goal,28,Above the Break 3,Right Side Center(RC),24+ ft.,200,197,1,Made Shot,4,1.0,0.8,0.5
+0022500617,2026-01-20,749,6,1,5,33,Driving Floating Jump Shot,2PT Field Goal,12,In The Paint (Non-RA),Center(C),8-16 ft.,51,110,1,Made Shot,5,1.0,1.0,0.5
+0022500617,2026-01-20,750,7,2,5,24,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Center(C),24+ ft.,-56,258,0,Missed Shot,6,1.0,1.0,0.6
+0022500617,2026-01-20,751,8,2,4,26,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Right Side Center(RC),24+ ft.,174,190,0,Missed Shot,-1,0.6666666666666666,0.8,0.6
+0022500617,2026-01-20,752,9,2,3,48,Driving Floating Jump Shot,2PT Field Goal,11,In The Paint (Non-RA),Center(C),8-16 ft.,47,100,0,Missed Shot,-2,0.3333333333333333,0.6,0.6
+0022500617,2026-01-20,753,10,2,2,6,Pullup Jump shot,2PT Field Goal,11,In The Paint (Non-RA),Center(C),8-16 ft.,-5,111,1,Made Shot,-3,0.0,0.4,0.6
+0022500617,2026-01-20,754,11,2,1,25,Driving Floating Jump Shot,2PT Field Goal,6,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-28,63,0,Missed Shot,1,0.3333333333333333,0.4,0.7
+0022500617,2026-01-20,755,12,2,1,3,Driving Floating Jump Shot,2PT Field Goal,6,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-55,31,0,Missed Shot,-1,0.3333333333333333,0.2,0.6
+0022500617,2026-01-20,756,13,2,0,52,Running Layup Shot,2PT Field Goal,1,Restricted Area,Center(C),Less Than 8 ft.,-9,13,1,Made Shot,-2,0.3333333333333333,0.2,0.5
+0022500617,2026-01-20,757,14,2,0,31,Pullup Jump shot,3PT Field Goal,26,Above the Break 3,Center(C),24+ ft.,-6,262,0,Missed Shot,1,0.3333333333333333,0.4,0.5
+0022500617,2026-01-20,758,15,3,7,18,Driving Floating Jump Shot,2PT Field Goal,11,In The Paint (Non-RA),Center(C),8-16 ft.,-6,110,1,Made Shot,-1,0.3333333333333333,0.4,0.4
+0022500617,2026-01-20,759,16,3,6,49,Running Jump Shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-146,231,1,Made Shot,1,0.6666666666666666,0.4,0.4
+0022500617,2026-01-20,760,17,3,5,1,Fadeaway Jump Shot,2PT Field Goal,12,Mid-Range,Left Side(L),8-16 ft.,-109,67,1,Made Shot,2,0.6666666666666666,0.6,0.4
+0022500617,2026-01-20,761,18,3,4,26,Jump Shot,3PT Field Goal,30,Above the Break 3,Left Side Center(LC),24+ ft.,-94,289,0,Missed Shot,3,1.0,0.8,0.5
+0022500617,2026-01-20,762,19,3,3,44,Pullup Jump shot,2PT Field Goal,6,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-15,62,1,Made Shot,-1,0.6666666666666666,0.6,0.5
+0022500617,2026-01-20,763,20,4,9,2,Jump Shot,3PT Field Goal,22,Left Corner 3,Left Side(L),24+ ft.,-225,-4,0,Missed Shot,1,0.6666666666666666,0.8,0.6
+0022500617,2026-01-20,764,21,4,4,13,Pullup Jump shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-224,116,0,Missed Shot,-1,0.3333333333333333,0.6,0.5
+0022500633,2026-01-22,765,1,1,11,10,Pullup Jump shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,145,225,0,Missed Shot,-2,0.3333333333333333,0.4,0.5
+0022500633,2026-01-22,766,2,1,9,30,Driving Floating Jump Shot,2PT Field Goal,8,Mid-Range,Right Side(R),8-16 ft.,89,-2,1,Made Shot,-3,0.0,0.2,0.5
+0022500633,2026-01-22,767,3,1,8,59,Jump Shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,162,214,0,Missed Shot,1,0.3333333333333333,0.4,0.5
+0022500633,2026-01-22,768,4,1,8,36,Driving Floating Jump Shot,2PT Field Goal,14,In The Paint (Non-RA),Center(C),8-16 ft.,-61,129,1,Made Shot,-1,0.3333333333333333,0.2,0.5
+0022500633,2026-01-22,769,5,1,7,30,Driving Floating Jump Shot,2PT Field Goal,8,In The Paint (Non-RA),Right Side(R),8-16 ft.,60,56,0,Missed Shot,1,0.6666666666666666,0.4,0.5
+0022500633,2026-01-22,770,6,1,7,1,Driving Floating Bank Jump Shot,2PT Field Goal,7,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-70,10,1,Made Shot,-1,0.3333333333333333,0.4,0.4
+0022500633,2026-01-22,771,7,1,4,33,Driving Floating Jump Shot,2PT Field Goal,10,In The Paint (Non-RA),Center(C),8-16 ft.,-6,100,1,Made Shot,1,0.6666666666666666,0.6,0.4
+0022500633,2026-01-22,772,8,1,4,5,Driving Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,10,19,0,Missed Shot,2,0.6666666666666666,0.6,0.5
+0022500633,2026-01-22,773,9,1,2,55,Pullup Jump shot,3PT Field Goal,25,Above the Break 3,Right Side Center(RC),24+ ft.,188,177,1,Made Shot,-1,0.6666666666666666,0.6,0.4
+0022500633,2026-01-22,774,10,1,2,3,Turnaround Fadeaway Bank Jump Shot,2PT Field Goal,5,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-44,34,1,Made Shot,1,0.6666666666666666,0.6,0.5
+0022500633,2026-01-22,775,11,1,0,33,Pullup Jump shot,2PT Field Goal,20,Mid-Range,Center(C),16-24 ft.,-47,200,0,Missed Shot,2,0.6666666666666666,0.8,0.6
+0022500633,2026-01-22,776,12,2,5,48,Fadeaway Jump Shot,2PT Field Goal,16,Mid-Range,Center(C),16-24 ft.,-49,156,1,Made Shot,-1,0.6666666666666666,0.6,0.6
+0022500633,2026-01-22,777,13,2,1,33,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-179,182,0,Missed Shot,1,0.6666666666666666,0.6,0.6
+0022500633,2026-01-22,778,14,2,0,55,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Center(C),24+ ft.,18,264,0,Missed Shot,-1,0.3333333333333333,0.6,0.6
+0022500633,2026-01-22,779,15,3,11,17,Step Back Jump shot,3PT Field Goal,28,Above the Break 3,Left Side Center(LC),24+ ft.,-131,248,0,Missed Shot,-2,0.3333333333333333,0.4,0.5
+0022500633,2026-01-22,780,16,3,6,15,Running Layup Shot,2PT Field Goal,4,In The Paint (Non-RA),Center(C),Less Than 8 ft.,13,48,0,Missed Shot,-3,0.0,0.2,0.5
+0022500633,2026-01-22,781,17,3,5,42,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-176,215,0,Missed Shot,-4,0.0,0.2,0.4
+0022500633,2026-01-22,782,18,3,5,3,Driving Floating Jump Shot,2PT Field Goal,20,Mid-Range,Left Side Center(LC),16-24 ft.,-124,159,0,Missed Shot,-5,0.0,0.0,0.3
+0022500633,2026-01-22,783,19,3,4,31,Driving Layup Shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,15,36,0,Missed Shot,-6,0.0,0.0,0.3
+0022500633,2026-01-22,784,20,3,3,55,Fadeaway Jump Shot,2PT Field Goal,16,Mid-Range,Center(C),16-24 ft.,-2,162,1,Made Shot,-7,0.0,0.0,0.2
+0022500633,2026-01-22,785,21,3,1,35,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-158,211,1,Made Shot,1,0.3333333333333333,0.2,0.2
+0022500633,2026-01-22,786,22,3,1,5,Running Pull-Up Jump Shot,3PT Field Goal,29,Above the Break 3,Left Side Center(LC),24+ ft.,-116,275,0,Missed Shot,2,0.6666666666666666,0.4,0.3
+0022500633,2026-01-22,787,23,3,0,1,Jump Shot,3PT Field Goal,39,Above the Break 3,Center(C),24+ ft.,-2,393,0,Missed Shot,-1,0.6666666666666666,0.4,0.2
+0022500633,2026-01-22,788,24,4,5,56,Fadeaway Jump Shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-145,230,1,Made Shot,-2,0.3333333333333333,0.4,0.2
+0022500633,2026-01-22,789,25,4,4,9,Step Back Jump shot,3PT Field Goal,28,Above the Break 3,Left Side Center(LC),24+ ft.,-230,169,0,Missed Shot,1,0.3333333333333333,0.6,0.3
+0022500633,2026-01-22,790,26,4,0,38,Driving Layup Shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,9,37,1,Made Shot,-1,0.3333333333333333,0.4,0.3
+0022500633,2026-01-22,791,27,4,0,23,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Center(C),24+ ft.,-44,263,0,Missed Shot,1,0.6666666666666666,0.4,0.4
+0022500648,2026-01-24,792,1,1,8,1,Jump Shot,3PT Field Goal,25,Above the Break 3,Center(C),24+ ft.,-23,258,0,Missed Shot,-1,0.3333333333333333,0.4,0.4
+0022500648,2026-01-24,793,2,1,5,30,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Center(C),24+ ft.,-11,277,1,Made Shot,-2,0.3333333333333333,0.4,0.4
+0022500648,2026-01-24,794,3,1,4,7,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-167,189,1,Made Shot,1,0.3333333333333333,0.4,0.5
+0022500648,2026-01-24,795,4,2,6,52,Driving Floating Jump Shot,2PT Field Goal,6,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-37,52,1,Made Shot,2,0.6666666666666666,0.6,0.5
+0022500648,2026-01-24,796,5,2,3,50,Driving Floating Bank Jump Shot,2PT Field Goal,11,In The Paint (Non-RA),Center(C),8-16 ft.,33,113,0,Missed Shot,3,1.0,0.6,0.5
+0022500648,2026-01-24,797,6,2,3,5,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Right Side Center(RC),24+ ft.,87,237,0,Missed Shot,-1,0.6666666666666666,0.6,0.5
+0022500648,2026-01-24,798,7,2,0,31,Jump Shot,3PT Field Goal,28,Above the Break 3,Left Side Center(LC),24+ ft.,-157,234,0,Missed Shot,-2,0.3333333333333333,0.6,0.5
+0022500648,2026-01-24,799,8,3,10,58,Driving Finger Roll Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,28,10,1,Made Shot,-3,0.0,0.4,0.4
+0022500648,2026-01-24,800,9,3,10,27,Pullup Jump shot,3PT Field Goal,26,Above the Break 3,Center(C),24+ ft.,50,258,0,Missed Shot,1,0.3333333333333333,0.4,0.5
+0022500648,2026-01-24,801,10,3,5,28,Driving Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,27,12,1,Made Shot,-1,0.3333333333333333,0.2,0.4
+0022500648,2026-01-24,802,11,3,5,5,Jump Shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-211,159,1,Made Shot,1,0.6666666666666666,0.4,0.5
+0022500648,2026-01-24,803,12,4,8,30,Fadeaway Jump Shot,2PT Field Goal,15,Mid-Range,Right Side(R),8-16 ft.,114,107,0,Missed Shot,2,0.6666666666666666,0.6,0.6
+0022500648,2026-01-24,804,13,4,3,17,Driving Layup Shot,2PT Field Goal,1,Restricted Area,Center(C),Less Than 8 ft.,9,13,1,Made Shot,-1,0.6666666666666666,0.6,0.5
+0022500648,2026-01-24,805,14,4,0,50,Driving Finger Roll Layup Shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,28,25,1,Made Shot,1,0.6666666666666666,0.6,0.5
+0022500648,2026-01-24,806,15,4,0,23,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Center(C),24+ ft.,85,265,0,Missed Shot,2,0.6666666666666666,0.8,0.5
+0022500661,2026-01-26,807,1,1,10,32,Driving Layup Shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,38,-5,1,Made Shot,-1,0.6666666666666666,0.6,0.5
+0022500661,2026-01-26,808,2,1,10,5,Turnaround Jump Shot,2PT Field Goal,6,In The Paint (Non-RA),Center(C),Less Than 8 ft.,56,29,0,Missed Shot,1,0.6666666666666666,0.6,0.6
+0022500661,2026-01-26,809,3,1,9,12,Step Back Jump shot,3PT Field Goal,24,Left Corner 3,Left Side(L),24+ ft.,-234,60,0,Missed Shot,-1,0.3333333333333333,0.6,0.6
+0022500661,2026-01-26,810,4,1,6,56,Driving Floating Jump Shot,2PT Field Goal,10,In The Paint (Non-RA),Center(C),8-16 ft.,34,97,1,Made Shot,-2,0.3333333333333333,0.4,0.5
+0022500661,2026-01-26,811,5,1,4,26,Jump Shot,3PT Field Goal,26,Above the Break 3,Center(C),24+ ft.,-69,259,1,Made Shot,1,0.3333333333333333,0.4,0.6
+0022500661,2026-01-26,812,6,1,2,48,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-145,218,0,Missed Shot,2,0.6666666666666666,0.6,0.6
+0022500661,2026-01-26,813,7,1,2,40,Jump Shot,3PT Field Goal,23,Left Corner 3,Left Side(L),24+ ft.,-232,-8,1,Made Shot,-1,0.6666666666666666,0.4,0.5
+0022500661,2026-01-26,814,8,1,0,22,Driving Floating Jump Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,6,23,1,Made Shot,1,0.6666666666666666,0.6,0.6
+0022500661,2026-01-26,815,9,2,4,16,Pullup Jump shot,2PT Field Goal,6,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-1,62,1,Made Shot,2,0.6666666666666666,0.8,0.6
+0022500661,2026-01-26,816,10,2,1,41,Step Back Jump shot,3PT Field Goal,28,Above the Break 3,Left Side Center(LC),24+ ft.,-194,209,0,Missed Shot,3,1.0,0.8,0.6
+0022500661,2026-01-26,817,11,3,11,4,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Right Side Center(RC),24+ ft.,138,234,1,Made Shot,-1,0.6666666666666666,0.6,0.6
+0022500661,2026-01-26,818,12,3,10,31,Driving Finger Roll Layup Shot,2PT Field Goal,1,Restricted Area,Center(C),Less Than 8 ft.,-17,4,1,Made Shot,1,0.6666666666666666,0.8,0.6
+0022500661,2026-01-26,819,13,3,9,7,Step Back Jump shot,3PT Field Goal,24,Above the Break 3,Center(C),24+ ft.,-76,236,1,Made Shot,2,0.6666666666666666,0.8,0.7
+0022500661,2026-01-26,820,14,3,8,2,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Right Side Center(RC),24+ ft.,130,218,1,Made Shot,3,1.0,0.8,0.8
+0022500661,2026-01-26,821,15,3,6,48,Pullup Jump shot,2PT Field Goal,8,In The Paint (Non-RA),Center(C),8-16 ft.,9,87,0,Missed Shot,4,1.0,0.8,0.8
+0022500661,2026-01-26,822,16,3,3,33,Driving Layup Shot,2PT Field Goal,0,Restricted Area,Center(C),Less Than 8 ft.,-1,3,1,Made Shot,-1,0.6666666666666666,0.8,0.7
+0022500661,2026-01-26,823,17,3,2,44,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-184,179,0,Missed Shot,1,0.6666666666666666,0.8,0.8
+0022500661,2026-01-26,824,18,3,0,55,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Right Side Center(RC),24+ ft.,205,146,1,Made Shot,-1,0.3333333333333333,0.6,0.7
+0022500661,2026-01-26,825,19,3,0,33,Running Pull-Up Jump Shot,3PT Field Goal,33,Above the Break 3,Center(C),24+ ft.,-72,331,0,Missed Shot,1,0.6666666666666666,0.6,0.7
+0022500661,2026-01-26,826,20,4,6,35,Fadeaway Jump Shot,2PT Field Goal,14,In The Paint (Non-RA),Center(C),8-16 ft.,-52,130,1,Made Shot,-1,0.3333333333333333,0.4,0.6
+0022500661,2026-01-26,827,21,4,5,11,Jump Shot,2PT Field Goal,20,Mid-Range,Left Side Center(LC),16-24 ft.,-161,128,0,Missed Shot,1,0.6666666666666666,0.6,0.7
+0022500661,2026-01-26,828,22,4,4,18,Step Back Jump shot,2PT Field Goal,20,Mid-Range,Center(C),16-24 ft.,-33,207,0,Missed Shot,-1,0.3333333333333333,0.4,0.6
+0022500661,2026-01-26,829,23,4,3,42,Jump Shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-188,180,1,Made Shot,-2,0.3333333333333333,0.4,0.5
+0022500661,2026-01-26,830,24,4,3,6,Jump Shot,3PT Field Goal,24,Above the Break 3,Left Side Center(LC),24+ ft.,-196,153,1,Made Shot,1,0.3333333333333333,0.4,0.5
+0022500661,2026-01-26,831,25,4,1,17,Jump Shot,3PT Field Goal,33,Above the Break 3,Center(C),24+ ft.,-53,326,0,Missed Shot,2,0.6666666666666666,0.6,0.5
+0022500671,2026-01-28,832,1,1,11,9,Step Back Jump shot,3PT Field Goal,28,Above the Break 3,Right Side Center(RC),24+ ft.,203,193,0,Missed Shot,-1,0.6666666666666666,0.4,0.5
+0022500671,2026-01-28,833,2,1,10,35,Driving Floating Jump Shot,2PT Field Goal,8,Mid-Range,Left Side(L),8-16 ft.,-89,-7,0,Missed Shot,-2,0.3333333333333333,0.4,0.4
+0022500671,2026-01-28,834,3,1,9,26,Floating Jump shot,2PT Field Goal,10,Mid-Range,Right Side(R),8-16 ft.,98,27,0,Missed Shot,-3,0.0,0.4,0.4
+0022500671,2026-01-28,835,4,1,7,58,Step Back Jump shot,3PT Field Goal,24,Left Corner 3,Left Side(L),24+ ft.,-234,82,0,Missed Shot,-4,0.0,0.2,0.3
+0022500671,2026-01-28,836,5,2,10,27,Fadeaway Jump Shot,2PT Field Goal,12,In The Paint (Non-RA),Left Side(L),8-16 ft.,-67,106,1,Made Shot,-5,0.0,0.0,0.3
+0022500671,2026-01-28,837,6,2,9,51,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-201,150,0,Missed Shot,1,0.3333333333333333,0.2,0.3
+0022500671,2026-01-28,838,7,2,8,3,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-162,200,1,Made Shot,-1,0.3333333333333333,0.2,0.3
+0022500671,2026-01-28,839,8,2,6,30,Driving Finger Roll Layup Shot,2PT Field Goal,0,Restricted Area,Center(C),Less Than 8 ft.,-7,6,1,Made Shot,1,0.6666666666666666,0.4,0.4
+0022500671,2026-01-28,840,9,2,4,38,Step Back Jump shot,2PT Field Goal,16,Mid-Range,Right Side Center(RC),16-24 ft.,96,129,1,Made Shot,2,0.6666666666666666,0.6,0.4
+0022500671,2026-01-28,841,10,2,1,29,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-196,166,0,Missed Shot,3,1.0,0.8,0.4
+0022500671,2026-01-28,842,11,2,0,38,Cutting Layup Shot,2PT Field Goal,1,Restricted Area,Center(C),Less Than 8 ft.,-12,9,1,Made Shot,-1,0.6666666666666666,0.6,0.4
+0022500671,2026-01-28,843,12,2,0,2,Pullup Jump shot,2PT Field Goal,7,In The Paint (Non-RA),Center(C),Less Than 8 ft.,76,17,1,Made Shot,1,0.6666666666666666,0.8,0.5
+0022500671,2026-01-28,844,13,3,10,57,Step Back Jump shot,2PT Field Goal,17,Mid-Range,Left Side Center(LC),16-24 ft.,-114,127,0,Missed Shot,2,0.6666666666666666,0.8,0.6
+0022500671,2026-01-28,845,14,3,9,47,Fadeaway Jump Shot,2PT Field Goal,10,In The Paint (Non-RA),Center(C),8-16 ft.,-21,100,1,Made Shot,-1,0.6666666666666666,0.6,0.6
+0022500671,2026-01-28,846,15,3,9,16,Turnaround Bank shot,2PT Field Goal,7,In The Paint (Non-RA),Center(C),Less Than 8 ft.,64,31,1,Made Shot,1,0.6666666666666666,0.6,0.7
+0022500671,2026-01-28,847,16,3,8,29,Fadeaway Jump Shot,2PT Field Goal,11,Mid-Range,Right Side(R),8-16 ft.,116,11,1,Made Shot,2,0.6666666666666666,0.8,0.7
+0022500671,2026-01-28,848,17,3,5,20,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-188,180,1,Made Shot,3,1.0,0.8,0.8
+0022500671,2026-01-28,849,18,3,2,57,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-224,160,0,Missed Shot,4,1.0,0.8,0.8
+0022500671,2026-01-28,850,19,3,1,19,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-205,173,1,Made Shot,-1,0.6666666666666666,0.8,0.7
+0022500671,2026-01-28,851,20,3,0,27,Driving Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,22,18,1,Made Shot,1,0.6666666666666666,0.8,0.7
+0022500688,2026-01-30,852,1,1,10,55,Pullup Jump shot,2PT Field Goal,9,In The Paint (Non-RA),Center(C),8-16 ft.,-2,95,1,Made Shot,2,0.6666666666666666,0.8,0.8
+0022500688,2026-01-30,853,2,1,9,37,Pullup Jump shot,2PT Field Goal,18,Mid-Range,Left Side Center(LC),16-24 ft.,-71,173,1,Made Shot,3,1.0,0.8,0.8
+0022500688,2026-01-30,854,3,1,7,52,Jump Shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-170,205,1,Made Shot,4,1.0,0.8,0.8
+0022500688,2026-01-30,855,4,1,7,29,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,174,204,1,Made Shot,5,1.0,1.0,0.9
+0022500688,2026-01-30,856,5,1,6,11,Jump Shot,3PT Field Goal,34,Above the Break 3,Right Side Center(RC),24+ ft.,192,288,0,Missed Shot,6,1.0,1.0,0.9
+0022500688,2026-01-30,857,6,1,3,52,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Center(C),24+ ft.,-45,262,1,Made Shot,-1,0.6666666666666666,0.8,0.8
+0022500688,2026-01-30,858,7,1,2,49,Driving Floating Bank Jump Shot,2PT Field Goal,8,In The Paint (Non-RA),Right Side(R),8-16 ft.,77,29,1,Made Shot,1,0.6666666666666666,0.8,0.8
+0022500688,2026-01-30,859,8,1,2,45,Jump Shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-98,247,0,Missed Shot,2,0.6666666666666666,0.8,0.8
+0022500688,2026-01-30,860,9,1,1,17,Running Jump Shot,3PT Field Goal,22,Left Corner 3,Left Side(L),24+ ft.,-228,-16,0,Missed Shot,-1,0.6666666666666666,0.6,0.8
+0022500688,2026-01-30,861,10,2,6,10,Turnaround Fadeaway shot,2PT Field Goal,13,In The Paint (Non-RA),Center(C),8-16 ft.,32,129,1,Made Shot,-2,0.3333333333333333,0.4,0.7
+0022500688,2026-01-30,862,11,2,2,59,Jump Shot,3PT Field Goal,25,Above the Break 3,Center(C),24+ ft.,-64,251,1,Made Shot,1,0.3333333333333333,0.6,0.7
+0022500688,2026-01-30,863,12,2,2,28,Pullup Jump shot,2PT Field Goal,17,Mid-Range,Right Side Center(RC),16-24 ft.,87,152,0,Missed Shot,2,0.6666666666666666,0.6,0.7
+0022500688,2026-01-30,864,13,2,1,12,Pullup Jump shot,3PT Field Goal,24,Above the Break 3,Left Side Center(LC),24+ ft.,-212,130,1,Made Shot,-1,0.6666666666666666,0.4,0.6
+0022500688,2026-01-30,865,14,3,10,25,Jump Shot,3PT Field Goal,28,Above the Break 3,Left Side Center(LC),24+ ft.,-123,254,0,Missed Shot,1,0.6666666666666666,0.6,0.6
+0022500688,2026-01-30,866,15,3,9,41,Step Back Jump shot,2PT Field Goal,18,Mid-Range,Left Side(L),16-24 ft.,-185,-3,1,Made Shot,-1,0.3333333333333333,0.6,0.5
+0022500688,2026-01-30,867,16,3,9,8,Fadeaway Jump Shot,2PT Field Goal,14,Mid-Range,Left Side(L),8-16 ft.,-142,16,1,Made Shot,1,0.6666666666666666,0.6,0.6
+0022500688,2026-01-30,868,17,3,8,13,Running Layup Shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,-37,-1,1,Made Shot,2,0.6666666666666666,0.6,0.6
+0022500688,2026-01-30,869,18,3,7,19,Running Jump Shot,3PT Field Goal,25,Above the Break 3,Right Side Center(RC),24+ ft.,181,184,1,Made Shot,3,1.0,0.8,0.6
+0022500688,2026-01-30,870,19,3,5,59,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-92,252,0,Missed Shot,4,1.0,0.8,0.7
+0022500688,2026-01-30,871,20,3,1,8,Pullup Jump shot,3PT Field Goal,28,Above the Break 3,Right Side Center(RC),24+ ft.,199,201,0,Missed Shot,-1,0.6666666666666666,0.8,0.7
+0022500688,2026-01-30,872,21,3,0,0,Pullup Jump shot,3PT Field Goal,26,Above the Break 3,Center(C),24+ ft.,51,260,0,Missed Shot,-2,0.3333333333333333,0.6,0.6
+0022500708,2026-02-01,873,1,1,11,31,Running Layup Shot,2PT Field Goal,0,Restricted Area,Center(C),Less Than 8 ft.,-2,9,1,Made Shot,-3,0.0,0.4,0.5
+0022500708,2026-02-01,874,2,1,11,3,Pullup Jump shot,3PT Field Goal,27,Above the Break 3,Right Side Center(RC),24+ ft.,88,261,0,Missed Shot,1,0.3333333333333333,0.4,0.6
+0022500708,2026-02-01,875,3,1,8,54,Driving Floating Jump Shot,2PT Field Goal,14,In The Paint (Non-RA),Center(C),8-16 ft.,72,127,0,Missed Shot,-1,0.3333333333333333,0.2,0.5
+0022500708,2026-02-01,876,4,1,7,6,Jump Shot,3PT Field Goal,24,Above the Break 3,Left Side Center(LC),24+ ft.,-120,216,0,Missed Shot,-2,0.3333333333333333,0.2,0.5
+0022500708,2026-02-01,877,5,1,5,30,Driving Floating Jump Shot,2PT Field Goal,4,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-43,19,0,Missed Shot,-3,0.0,0.2,0.4
+0022500708,2026-02-01,878,6,1,4,59,Step Back Jump shot,3PT Field Goal,24,Above the Break 3,Left Side Center(LC),24+ ft.,-134,206,1,Made Shot,-4,0.0,0.2,0.3
+0022500708,2026-02-01,879,7,1,3,48,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Center(C),24+ ft.,-71,242,1,Made Shot,1,0.3333333333333333,0.2,0.3
+0022500708,2026-02-01,880,8,2,8,33,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-183,176,1,Made Shot,2,0.6666666666666666,0.4,0.3
+0022500708,2026-02-01,881,9,2,6,28,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-181,174,0,Missed Shot,3,1.0,0.6,0.4
+0022500708,2026-02-01,882,10,2,5,2,Running Pull-Up Jump Shot,3PT Field Goal,27,Above the Break 3,Right Side Center(RC),24+ ft.,127,240,0,Missed Shot,-1,0.6666666666666666,0.6,0.4
+0022500708,2026-02-01,883,11,2,3,56,Driving Layup Shot,2PT Field Goal,1,Restricted Area,Center(C),Less Than 8 ft.,6,15,1,Made Shot,-2,0.3333333333333333,0.6,0.4
+0022500708,2026-02-01,884,12,2,2,28,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,141,221,0,Missed Shot,1,0.3333333333333333,0.6,0.4
+0022500708,2026-02-01,885,13,2,1,31,Driving Floating Bank Jump Shot,2PT Field Goal,6,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-51,40,1,Made Shot,-1,0.3333333333333333,0.4,0.4
+0022500708,2026-02-01,886,14,2,0,31,Jump Shot,3PT Field Goal,29,Above the Break 3,Left Side Center(LC),24+ ft.,-124,268,0,Missed Shot,1,0.6666666666666666,0.4,0.5
+0022500708,2026-02-01,887,15,3,11,44,Jump Shot,3PT Field Goal,25,Above the Break 3,Center(C),24+ ft.,38,251,0,Missed Shot,-1,0.3333333333333333,0.4,0.5
+0022500708,2026-02-01,888,16,3,10,38,Fadeaway Jump Shot,2PT Field Goal,12,Mid-Range,Right Side(R),8-16 ft.,121,43,1,Made Shot,-2,0.3333333333333333,0.4,0.5
+0022500708,2026-02-01,889,17,3,7,8,Driving Floating Jump Shot,2PT Field Goal,11,In The Paint (Non-RA),Center(C),8-16 ft.,-28,115,1,Made Shot,1,0.3333333333333333,0.4,0.5
+0022500708,2026-02-01,890,18,3,4,45,Driving Finger Roll Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,21,8,0,Missed Shot,2,0.6666666666666666,0.6,0.5
+0022500708,2026-02-01,891,19,3,3,45,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-123,227,1,Made Shot,-1,0.6666666666666666,0.4,0.4
+0022500708,2026-02-01,892,20,4,7,40,Driving Floating Jump Shot,2PT Field Goal,5,In The Paint (Non-RA),Center(C),Less Than 8 ft.,51,8,0,Missed Shot,1,0.6666666666666666,0.6,0.5
+0022500708,2026-02-01,893,21,4,6,28,Jump Shot,3PT Field Goal,27,Above the Break 3,Right Side Center(RC),24+ ft.,200,184,0,Missed Shot,-1,0.3333333333333333,0.6,0.5
+0022500708,2026-02-01,894,22,4,4,48,Step Back Jump shot,3PT Field Goal,24,Above the Break 3,Left Side Center(LC),24+ ft.,-229,92,1,Made Shot,-2,0.3333333333333333,0.4,0.4
+0022500708,2026-02-01,895,23,4,3,19,Pullup Jump shot,3PT Field Goal,28,Above the Break 3,Left Side Center(LC),24+ ft.,-223,176,0,Missed Shot,1,0.3333333333333333,0.4,0.5
+0022500719,2026-02-03,896,1,1,11,15,Fadeaway Jump Shot,2PT Field Goal,10,In The Paint (Non-RA),Center(C),8-16 ft.,-40,94,1,Made Shot,-1,0.3333333333333333,0.4,0.4
+0022500719,2026-02-03,897,2,1,8,50,Running Pull-Up Jump Shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,98,248,1,Made Shot,1,0.6666666666666666,0.4,0.5
+0022500719,2026-02-03,898,3,1,7,4,Pullup Jump shot,3PT Field Goal,24,Above the Break 3,Right Side Center(RC),24+ ft.,76,231,0,Missed Shot,2,0.6666666666666666,0.6,0.6
+0022500719,2026-02-03,899,4,1,5,23,Running Pull-Up Jump Shot,3PT Field Goal,24,Above the Break 3,Center(C),24+ ft.,-29,243,1,Made Shot,-1,0.6666666666666666,0.6,0.5
+0022500719,2026-02-03,900,5,1,2,50,Step Back Jump shot,3PT Field Goal,24,Above the Break 3,Center(C),24+ ft.,61,241,1,Made Shot,1,0.6666666666666666,0.6,0.5
+0022500719,2026-02-03,901,6,2,7,5,Running Pull-Up Jump Shot,3PT Field Goal,24,Above the Break 3,Right Side Center(RC),24+ ft.,88,230,0,Missed Shot,2,0.6666666666666666,0.8,0.6
+0022500719,2026-02-03,902,7,2,5,45,Pullup Jump shot,3PT Field Goal,35,Above the Break 3,Right Side Center(RC),24+ ft.,109,335,0,Missed Shot,-1,0.6666666666666666,0.6,0.5
+0022500719,2026-02-03,903,8,2,3,14,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,147,224,0,Missed Shot,-2,0.3333333333333333,0.4,0.5
+0022500719,2026-02-03,904,9,2,2,10,Driving Floating Jump Shot,2PT Field Goal,5,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-2,52,0,Missed Shot,-3,0.0,0.4,0.5
+0022500719,2026-02-03,905,10,2,1,35,Jump Shot,3PT Field Goal,23,Left Corner 3,Left Side(L),24+ ft.,-235,0,0,Missed Shot,-4,0.0,0.2,0.4
+0022500719,2026-02-03,906,11,3,9,40,Jump Shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,92,249,0,Missed Shot,-5,0.0,0.0,0.4
+0022500719,2026-02-03,907,12,3,8,8,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-138,225,1,Made Shot,-6,0.0,0.0,0.3
+0022500719,2026-02-03,908,13,3,7,2,Fadeaway Jump Shot,2PT Field Goal,13,In The Paint (Non-RA),Center(C),8-16 ft.,59,116,1,Made Shot,1,0.3333333333333333,0.2,0.3
+0022500719,2026-02-03,909,14,3,6,34,Turnaround Jump Shot,2PT Field Goal,13,Mid-Range,Left Side(L),8-16 ft.,-103,81,0,Missed Shot,2,0.6666666666666666,0.4,0.4
+0022500719,2026-02-03,910,15,3,5,12,Driving Floating Jump Shot,2PT Field Goal,12,In The Paint (Non-RA),Center(C),8-16 ft.,-26,125,0,Missed Shot,-1,0.6666666666666666,0.4,0.3
+0022500719,2026-02-03,911,16,3,4,6,Driving Finger Roll Layup Shot,2PT Field Goal,1,Restricted Area,Center(C),Less Than 8 ft.,17,1,1,Made Shot,-2,0.3333333333333333,0.4,0.2
+0022500719,2026-02-03,912,17,3,2,26,Driving Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,16,21,1,Made Shot,1,0.3333333333333333,0.6,0.3
+0022500719,2026-02-03,913,18,3,1,59,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Right Side Center(RC),24+ ft.,194,167,0,Missed Shot,2,0.6666666666666666,0.6,0.4
+0022500740,2026-02-05,914,1,1,11,25,Pullup Jump shot,2PT Field Goal,10,In The Paint (Non-RA),Center(C),8-16 ft.,-42,92,1,Made Shot,-1,0.6666666666666666,0.4,0.4
+0022500740,2026-02-05,915,2,1,8,31,Jump Shot,3PT Field Goal,28,Above the Break 3,Left Side Center(LC),24+ ft.,-134,257,0,Missed Shot,1,0.6666666666666666,0.6,0.5
+0022500740,2026-02-05,916,3,1,4,18,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-210,156,0,Missed Shot,-1,0.3333333333333333,0.6,0.5
+0022500740,2026-02-05,917,4,1,3,52,Driving Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,11,17,1,Made Shot,-2,0.3333333333333333,0.4,0.5
+0022500740,2026-02-05,918,5,1,3,25,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Center(C),24+ ft.,-76,258,0,Missed Shot,1,0.3333333333333333,0.4,0.5
+0022500740,2026-02-05,919,6,1,2,56,Running Dunk Shot,2PT Field Goal,1,Restricted Area,Center(C),Less Than 8 ft.,-5,19,1,Made Shot,-1,0.3333333333333333,0.4,0.4
+0022500740,2026-02-05,920,7,2,7,53,Floating Jump shot,2PT Field Goal,12,In The Paint (Non-RA),Center(C),8-16 ft.,-48,114,0,Missed Shot,1,0.6666666666666666,0.4,0.5
+0022500740,2026-02-05,921,8,2,6,36,Step Back Jump shot,2PT Field Goal,15,Mid-Range,Center(C),8-16 ft.,32,156,0,Missed Shot,-1,0.3333333333333333,0.4,0.5
+0022500740,2026-02-05,922,9,2,5,59,Driving Floating Jump Shot,2PT Field Goal,16,Mid-Range,Center(C),16-24 ft.,-4,163,0,Missed Shot,-2,0.3333333333333333,0.4,0.4
+0022500740,2026-02-05,923,10,2,5,16,Jump Shot,3PT Field Goal,30,Above the Break 3,Center(C),24+ ft.,92,289,0,Missed Shot,-3,0.0,0.2,0.3
+0022500809,2026-02-20,924,1,1,11,43,Driving Layup Shot,2PT Field Goal,1,Restricted Area,Center(C),Less Than 8 ft.,4,15,0,Missed Shot,-4,0.0,0.2,0.3
+0022500809,2026-02-20,925,2,1,10,49,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-148,226,0,Missed Shot,-5,0.0,0.0,0.2
+0022500809,2026-02-20,926,3,1,8,35,Pullup Jump shot,2PT Field Goal,9,In The Paint (Non-RA),Center(C),8-16 ft.,16,95,1,Made Shot,-6,0.0,0.0,0.2
+0022500809,2026-02-20,927,4,1,5,30,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-161,200,1,Made Shot,1,0.3333333333333333,0.2,0.3
+0022500809,2026-02-20,928,5,1,3,40,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Center(C),24+ ft.,-17,269,1,Made Shot,2,0.6666666666666666,0.4,0.3
+0022500809,2026-02-20,929,6,1,1,1,Running Pull-Up Jump Shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-188,179,1,Made Shot,3,1.0,0.6,0.4
+0022500809,2026-02-20,930,7,1,0,38,Running Pull-Up Jump Shot,3PT Field Goal,28,Above the Break 3,Center(C),24+ ft.,-87,268,1,Made Shot,4,1.0,0.8,0.4
+0022500809,2026-02-20,931,8,1,0,15,Cutting Layup Shot,2PT Field Goal,1,Restricted Area,Center(C),Less Than 8 ft.,-5,18,1,Made Shot,5,1.0,1.0,0.5
+0022500809,2026-02-20,932,9,2,5,20,Jump Shot,3PT Field Goal,25,Above the Break 3,Center(C),24+ ft.,-1,251,1,Made Shot,6,1.0,1.0,0.6
+0022500809,2026-02-20,933,10,2,4,49,Driving Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,10,21,0,Missed Shot,7,1.0,1.0,0.7
+0022500809,2026-02-20,934,11,2,3,37,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-147,204,0,Missed Shot,-1,0.6666666666666666,0.8,0.7
+0022500809,2026-02-20,935,12,2,0,53,Step Back Jump shot,3PT Field Goal,28,Above the Break 3,Left Side Center(LC),24+ ft.,-188,215,0,Missed Shot,-2,0.3333333333333333,0.6,0.7
+0022500809,2026-02-20,936,13,2,0,2,Pullup Jump shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-188,202,0,Missed Shot,-3,0.0,0.4,0.7
+0022500809,2026-02-20,937,14,3,10,41,Driving Floating Jump Shot,2PT Field Goal,11,In The Paint (Non-RA),Right Side(R),8-16 ft.,77,88,0,Missed Shot,-4,0.0,0.2,0.6
+0022500809,2026-02-20,938,15,3,9,23,Driving Layup Shot,2PT Field Goal,1,Restricted Area,Center(C),Less Than 8 ft.,-17,6,0,Missed Shot,-5,0.0,0.0,0.5
+0022500809,2026-02-20,939,16,3,4,47,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-189,187,0,Missed Shot,-6,0.0,0.0,0.4
+0022500809,2026-02-20,940,17,3,3,42,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Center(C),24+ ft.,-43,262,1,Made Shot,-7,0.0,0.0,0.3
+0022500809,2026-02-20,941,18,3,2,11,Driving Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,21,21,0,Missed Shot,1,0.3333333333333333,0.2,0.3
+0022500809,2026-02-20,942,19,3,1,59,Running Jump Shot,3PT Field Goal,23,Right Corner 3,Right Side(R),24+ ft.,232,38,0,Missed Shot,-1,0.3333333333333333,0.2,0.2
+0022500809,2026-02-20,943,20,4,8,32,Fadeaway Jump Shot,2PT Field Goal,13,In The Paint (Non-RA),Center(C),8-16 ft.,-67,119,0,Missed Shot,-2,0.3333333333333333,0.2,0.1
+0022500809,2026-02-20,944,21,4,7,16,Driving Layup Shot,2PT Field Goal,4,In The Paint (Non-RA),Center(C),Less Than 8 ft.,31,37,0,Missed Shot,-3,0.0,0.2,0.1
+0022500809,2026-02-20,945,22,4,5,11,Running Jump Shot,3PT Field Goal,25,Above the Break 3,Right Side Center(RC),24+ ft.,228,116,1,Made Shot,-4,0.0,0.2,0.1
+0022500809,2026-02-20,946,23,4,3,32,Pullup Jump shot,3PT Field Goal,25,Above the Break 3,Center(C),24+ ft.,10,250,1,Made Shot,1,0.3333333333333333,0.2,0.2
+0022500809,2026-02-20,947,24,4,1,56,Driving Floating Jump Shot,2PT Field Goal,6,In The Paint (Non-RA),Center(C),Less Than 8 ft.,56,24,0,Missed Shot,2,0.6666666666666666,0.4,0.3
+0022500809,2026-02-20,948,25,4,1,30,Pullup Jump shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,-7,30,1,Made Shot,-1,0.6666666666666666,0.4,0.3
+0022500823,2026-02-22,949,1,1,11,45,Step Back Jump shot,2PT Field Goal,17,Mid-Range,Left Side Center(LC),16-24 ft.,-109,137,0,Missed Shot,1,0.6666666666666666,0.6,0.4
+0022500823,2026-02-22,950,2,1,8,56,Fadeaway Jump Shot,2PT Field Goal,12,Mid-Range,Left Side(L),8-16 ft.,-123,-13,1,Made Shot,-1,0.3333333333333333,0.6,0.4
+0022500823,2026-02-22,951,3,1,8,10,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,105,243,1,Made Shot,1,0.6666666666666666,0.6,0.4
+0022500823,2026-02-22,952,4,1,6,38,Pullup Jump shot,2PT Field Goal,15,Mid-Range,Left Side(L),8-16 ft.,-98,126,0,Missed Shot,2,0.6666666666666666,0.6,0.5
+0022500823,2026-02-22,953,5,1,4,12,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-94,239,1,Made Shot,-1,0.6666666666666666,0.6,0.5
+0022500823,2026-02-22,954,6,1,3,15,Turnaround Jump Shot,2PT Field Goal,9,In The Paint (Non-RA),Center(C),8-16 ft.,-36,88,0,Missed Shot,1,0.6666666666666666,0.6,0.6
+0022500823,2026-02-22,955,7,1,2,31,Fadeaway Jump Shot,2PT Field Goal,9,Mid-Range,Left Side(L),8-16 ft.,-91,19,0,Missed Shot,-1,0.3333333333333333,0.6,0.6
+0022500823,2026-02-22,956,8,1,1,57,Turnaround Fadeaway shot,2PT Field Goal,13,Mid-Range,Right Side(R),8-16 ft.,120,51,0,Missed Shot,-2,0.3333333333333333,0.4,0.5
+0022500823,2026-02-22,957,9,2,6,37,Driving Floating Jump Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,11,26,1,Made Shot,-3,0.0,0.2,0.4
+0022500823,2026-02-22,958,10,2,6,6,Jump Shot,3PT Field Goal,28,Above the Break 3,Right Side Center(RC),24+ ft.,121,257,0,Missed Shot,1,0.3333333333333333,0.4,0.5
+0022500823,2026-02-22,959,11,2,4,55,Jump Shot,3PT Field Goal,26,Above the Break 3,Center(C),24+ ft.,-61,258,1,Made Shot,-1,0.3333333333333333,0.2,0.4
+0022500823,2026-02-22,960,12,2,4,35,Pullup Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-173,205,0,Missed Shot,1,0.6666666666666666,0.4,0.5
+0022500823,2026-02-22,961,13,2,3,13,Driving Finger Roll Layup Shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,15,37,1,Made Shot,-1,0.3333333333333333,0.4,0.4
+0022500823,2026-02-22,962,14,2,0,46,Driving Floating Jump Shot,2PT Field Goal,8,In The Paint (Non-RA),Center(C),8-16 ft.,-29,85,0,Missed Shot,1,0.6666666666666666,0.6,0.4
+0022500823,2026-02-22,963,15,3,8,35,Pullup Jump shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,162,209,1,Made Shot,-1,0.3333333333333333,0.4,0.4
+0022500823,2026-02-22,964,16,3,6,59,Turnaround Fadeaway shot,2PT Field Goal,13,Mid-Range,Left Side(L),8-16 ft.,-121,60,0,Missed Shot,1,0.6666666666666666,0.6,0.4
+0022500823,2026-02-22,965,17,3,5,59,Driving Floating Jump Shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,5,37,1,Made Shot,-1,0.3333333333333333,0.4,0.4
+0022500823,2026-02-22,966,18,3,4,13,Pullup Jump shot,2PT Field Goal,10,In The Paint (Non-RA),Center(C),8-16 ft.,47,93,0,Missed Shot,1,0.6666666666666666,0.6,0.5
+0022500823,2026-02-22,967,19,3,3,21,Driving Floating Bank Jump Shot,2PT Field Goal,5,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-40,42,0,Missed Shot,-1,0.3333333333333333,0.4,0.5
+0022500823,2026-02-22,968,20,3,2,5,Pullup Jump shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,134,223,0,Missed Shot,-2,0.3333333333333333,0.4,0.4
+0022500823,2026-02-22,969,21,4,6,3,Driving Floating Jump Shot,2PT Field Goal,8,In The Paint (Non-RA),Center(C),8-16 ft.,6,80,0,Missed Shot,-3,0.0,0.2,0.4
+0022500823,2026-02-22,970,22,4,5,38,Driving Layup Shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,-18,29,1,Made Shot,-4,0.0,0.2,0.3
+0022500840,2026-02-24,971,1,1,9,45,Pullup Jump shot,2PT Field Goal,12,In The Paint (Non-RA),Center(C),8-16 ft.,-47,111,0,Missed Shot,1,0.3333333333333333,0.2,0.4
+0022500840,2026-02-24,972,2,1,8,14,Driving Floating Jump Shot,2PT Field Goal,15,Mid-Range,Center(C),8-16 ft.,37,148,0,Missed Shot,-1,0.3333333333333333,0.2,0.3
+0022500840,2026-02-24,973,3,1,7,58,Running Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,25,8,0,Missed Shot,-2,0.3333333333333333,0.2,0.3
+0022500840,2026-02-24,974,4,1,6,24,Driving Floating Bank Jump Shot,2PT Field Goal,6,In The Paint (Non-RA),Center(C),Less Than 8 ft.,54,36,1,Made Shot,-3,0.0,0.2,0.2
+0022500840,2026-02-24,975,5,1,5,12,Fadeaway Jump Shot,2PT Field Goal,13,Mid-Range,Right Side(R),8-16 ft.,131,21,1,Made Shot,1,0.3333333333333333,0.4,0.3
+0022500840,2026-02-24,976,6,1,4,47,Jump Shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-185,193,0,Missed Shot,2,0.6666666666666666,0.4,0.3
+0022500840,2026-02-24,977,7,1,3,13,Driving Floating Jump Shot,2PT Field Goal,8,In The Paint (Non-RA),Center(C),8-16 ft.,1,89,1,Made Shot,-1,0.6666666666666666,0.4,0.3
+0022500840,2026-02-24,978,8,1,1,37,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-115,227,1,Made Shot,1,0.6666666666666666,0.6,0.4
+0022500840,2026-02-24,979,9,2,3,36,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,98,243,0,Missed Shot,2,0.6666666666666666,0.8,0.5
+0022500840,2026-02-24,980,10,2,0,1,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Right Side Center(RC),24+ ft.,115,255,0,Missed Shot,-1,0.6666666666666666,0.6,0.5
+0022500840,2026-02-24,981,11,3,8,38,Driving Floating Jump Shot,2PT Field Goal,7,In The Paint (Non-RA),Center(C),Less Than 8 ft.,50,50,0,Missed Shot,-2,0.3333333333333333,0.4,0.4
+0022500840,2026-02-24,982,12,3,7,54,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-87,249,0,Missed Shot,-3,0.0,0.4,0.4
+0022500840,2026-02-24,983,13,3,7,1,Fadeaway Jump Shot,2PT Field Goal,13,Mid-Range,Left Side(L),8-16 ft.,-131,25,0,Missed Shot,-4,0.0,0.2,0.4
+0022500840,2026-02-24,984,14,3,6,30,Jump Shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-152,230,0,Missed Shot,-5,0.0,0.0,0.4
+0022500840,2026-02-24,985,15,3,5,23,Fadeaway Jump Shot,2PT Field Goal,16,Mid-Range,Left Side Center(LC),16-24 ft.,-103,132,0,Missed Shot,-6,0.0,0.0,0.3
+0022500840,2026-02-24,986,16,3,4,26,Fadeaway Jump Shot,2PT Field Goal,9,Mid-Range,Left Side(L),8-16 ft.,-98,11,0,Missed Shot,-7,0.0,0.0,0.2
+0022500840,2026-02-24,987,17,3,3,37,Running Layup Shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,-28,20,1,Made Shot,-8,0.0,0.0,0.2
+0022500840,2026-02-24,988,18,3,3,1,Driving Layup Shot,2PT Field Goal,4,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-39,16,0,Missed Shot,1,0.3333333333333333,0.2,0.2
+0022500840,2026-02-24,989,19,3,0,35,Fadeaway Jump Shot,2PT Field Goal,7,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-69,28,1,Made Shot,-1,0.3333333333333333,0.2,0.1
+0022500840,2026-02-24,990,20,4,5,52,Jump Shot,3PT Field Goal,32,Above the Break 3,Center(C),24+ ft.,-12,328,0,Missed Shot,1,0.6666666666666666,0.4,0.2
+0022500840,2026-02-24,991,21,4,4,22,Step Back Jump shot,2PT Field Goal,22,Mid-Range,Right Side Center(RC),16-24 ft.,148,168,1,Made Shot,-1,0.3333333333333333,0.4,0.2
+0022500840,2026-02-24,992,22,4,3,29,Fadeaway Jump Shot,3PT Field Goal,23,Right Corner 3,Right Side(R),24+ ft.,228,54,1,Made Shot,1,0.6666666666666666,0.6,0.3
+0022500840,2026-02-24,993,23,4,2,58,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Center(C),24+ ft.,-42,252,0,Missed Shot,2,0.6666666666666666,0.6,0.4
+0022500840,2026-02-24,994,24,4,1,6,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-147,233,0,Missed Shot,-1,0.6666666666666666,0.6,0.4
+0022500855,2026-02-26,995,1,1,11,13,Fadeaway Jump Shot,2PT Field Goal,12,Mid-Range,Left Side(L),8-16 ft.,-99,82,1,Made Shot,-2,0.3333333333333333,0.4,0.4
+0022500855,2026-02-26,996,2,1,9,10,Floating Jump shot,2PT Field Goal,7,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-75,4,1,Made Shot,1,0.3333333333333333,0.6,0.5
+0022500855,2026-02-26,997,3,1,5,36,Step Back Jump shot,2PT Field Goal,15,Mid-Range,Center(C),8-16 ft.,-4,156,1,Made Shot,2,0.6666666666666666,0.6,0.6
+0022500855,2026-02-26,998,4,1,5,6,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Right Side Center(RC),24+ ft.,134,220,1,Made Shot,3,1.0,0.6,0.6
+0022500855,2026-02-26,999,5,1,3,30,Driving Floating Bank Jump Shot,2PT Field Goal,7,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-56,42,1,Made Shot,4,1.0,0.8,0.7
+0022500855,2026-02-26,1000,6,1,3,2,Running Pull-Up Jump Shot,2PT Field Goal,7,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-11,72,0,Missed Shot,5,1.0,1.0,0.7
+0022500855,2026-02-26,1001,7,1,2,18,Jump Shot,3PT Field Goal,22,Left Corner 3,Left Side(L),24+ ft.,-222,52,0,Missed Shot,-1,0.6666666666666666,0.8,0.7
+0022500855,2026-02-26,1002,8,2,8,19,Pullup Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-129,226,0,Missed Shot,-2,0.3333333333333333,0.6,0.6
+0022500855,2026-02-26,1003,9,2,6,43,Jump Shot,3PT Field Goal,25,Above the Break 3,Center(C),24+ ft.,-62,252,0,Missed Shot,-3,0.0,0.4,0.5
+0022500855,2026-02-26,1004,10,2,5,49,Driving Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,-21,19,0,Missed Shot,-4,0.0,0.2,0.5
+0022500855,2026-02-26,1005,11,2,5,9,Driving Floating Jump Shot,2PT Field Goal,5,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-29,51,0,Missed Shot,-5,0.0,0.0,0.5
+0022500855,2026-02-26,1006,12,2,1,8,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-150,218,1,Made Shot,-6,0.0,0.0,0.4
+0022500855,2026-02-26,1007,13,2,0,46,Running Jump Shot,2PT Field Goal,11,In The Paint (Non-RA),Center(C),8-16 ft.,17,113,0,Missed Shot,1,0.3333333333333333,0.2,0.4
+0022500855,2026-02-26,1008,14,3,11,42,Driving Floating Jump Shot,2PT Field Goal,7,In The Paint (Non-RA),Center(C),Less Than 8 ft.,26,65,1,Made Shot,-1,0.3333333333333333,0.2,0.3
+0022500855,2026-02-26,1009,15,3,9,45,Jump Shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-123,228,1,Made Shot,1,0.6666666666666666,0.4,0.3
+0022500855,2026-02-26,1010,16,3,4,45,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-228,154,0,Missed Shot,2,0.6666666666666666,0.6,0.3
+0022500855,2026-02-26,1011,17,3,2,0,Jump Shot,3PT Field Goal,27,Above the Break 3,Right Side Center(RC),24+ ft.,170,210,1,Made Shot,-1,0.6666666666666666,0.6,0.3
+0022500855,2026-02-26,1012,18,3,1,19,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-205,164,0,Missed Shot,1,0.6666666666666666,0.6,0.4
+0022500855,2026-02-26,1013,19,4,4,21,Turnaround Fadeaway Bank Jump Shot,2PT Field Goal,16,Mid-Range,Left Side Center(LC),16-24 ft.,-125,104,1,Made Shot,-1,0.3333333333333333,0.6,0.4
+0022500855,2026-02-26,1014,20,4,3,50,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,83,248,1,Made Shot,1,0.6666666666666666,0.6,0.5
+0022500855,2026-02-26,1015,21,4,2,57,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Right Side Center(RC),24+ ft.,186,178,1,Made Shot,2,0.6666666666666666,0.6,0.6
+0022500866,2026-02-28,1016,1,1,8,26,Running Pull-Up Jump Shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-181,176,0,Missed Shot,3,1.0,0.8,0.7
+0022500866,2026-02-28,1017,2,1,7,17,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Right Side Center(RC),24+ ft.,98,236,0,Missed Shot,-1,0.6666666666666666,0.6,0.6
+0022500866,2026-02-28,1018,3,1,7,1,Driving Floating Jump Shot,2PT Field Goal,7,In The Paint (Non-RA),Center(C),Less Than 8 ft.,36,66,1,Made Shot,-2,0.3333333333333333,0.6,0.6
+0022500866,2026-02-28,1019,4,1,3,2,Step Back Jump shot,3PT Field Goal,23,Left Corner 3,Left Side(L),24+ ft.,-229,53,0,Missed Shot,1,0.3333333333333333,0.6,0.6
+0022500866,2026-02-28,1020,5,2,6,43,Driving Layup Shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,-32,-10,1,Made Shot,-1,0.3333333333333333,0.4,0.5
+0022500866,2026-02-28,1021,6,2,5,36,Fadeaway Jump Shot,2PT Field Goal,13,Mid-Range,Left Side(L),8-16 ft.,-112,68,1,Made Shot,1,0.6666666666666666,0.4,0.6
+0022500866,2026-02-28,1022,7,2,5,10,Pullup Jump shot,2PT Field Goal,12,Mid-Range,Left Side(L),8-16 ft.,-98,77,0,Missed Shot,2,0.6666666666666666,0.6,0.6
+0022500866,2026-02-28,1023,8,2,4,32,Driving Floating Jump Shot,2PT Field Goal,5,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-53,24,0,Missed Shot,-1,0.6666666666666666,0.6,0.6
+0022500866,2026-02-28,1024,9,2,3,8,Driving Floating Jump Shot,2PT Field Goal,7,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-13,77,0,Missed Shot,-2,0.3333333333333333,0.4,0.5
+0022500866,2026-02-28,1025,10,2,1,0,Driving Layup Shot,2PT Field Goal,6,In The Paint (Non-RA),Center(C),Less Than 8 ft.,55,31,1,Made Shot,-3,0.0,0.4,0.4
+0022500866,2026-02-28,1026,11,3,11,43,Jump Shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-179,205,1,Made Shot,1,0.3333333333333333,0.4,0.4
+0022500866,2026-02-28,1027,12,3,11,15,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-235,110,1,Made Shot,2,0.6666666666666666,0.4,0.5
+0022500866,2026-02-28,1028,13,3,10,44,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-113,252,0,Missed Shot,3,1.0,0.6,0.6
+0022500866,2026-02-28,1029,14,3,8,12,Jump Shot,3PT Field Goal,32,Above the Break 3,Center(C),24+ ft.,-4,320,1,Made Shot,-1,0.6666666666666666,0.6,0.5
+0022500866,2026-02-28,1030,15,3,7,23,Jump Shot,3PT Field Goal,27,Above the Break 3,Right Side Center(RC),24+ ft.,211,184,1,Made Shot,1,0.6666666666666666,0.8,0.6
+0022500866,2026-02-28,1031,16,3,7,8,Running Jump Shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-183,196,0,Missed Shot,2,0.6666666666666666,0.8,0.6
+0022500866,2026-02-28,1032,17,3,1,13,Driving Finger Roll Layup Shot,2PT Field Goal,5,In The Paint (Non-RA),Center(C),Less Than 8 ft.,44,27,1,Made Shot,-1,0.6666666666666666,0.6,0.5
+0022500878,2026-03-01,1033,1,1,11,24,Jump Shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-168,215,0,Missed Shot,1,0.6666666666666666,0.6,0.6
+0022500878,2026-03-01,1034,2,1,7,31,Step Back Jump shot,2PT Field Goal,19,Mid-Range,Left Side Center(LC),16-24 ft.,-88,174,1,Made Shot,-1,0.3333333333333333,0.6,0.6
+0022500878,2026-03-01,1035,3,1,5,7,Driving Floating Jump Shot,2PT Field Goal,8,Mid-Range,Right Side(R),8-16 ft.,83,13,0,Missed Shot,1,0.6666666666666666,0.6,0.7
+0022500878,2026-03-01,1036,4,1,3,19,Pullup Jump shot,3PT Field Goal,25,Above the Break 3,Right Side Center(RC),24+ ft.,179,179,1,Made Shot,-1,0.3333333333333333,0.4,0.6
+0022500878,2026-03-01,1037,5,1,2,51,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-210,148,1,Made Shot,1,0.6666666666666666,0.6,0.6
+0022500878,2026-03-01,1038,6,1,2,27,Step Back Jump shot,3PT Field Goal,22,Left Corner 3,Left Side(L),24+ ft.,-228,13,0,Missed Shot,2,0.6666666666666666,0.6,0.6
+0022500878,2026-03-01,1039,7,1,1,16,Driving Floating Bank Jump Shot,2PT Field Goal,4,In The Paint (Non-RA),Center(C),Less Than 8 ft.,20,35,1,Made Shot,-1,0.6666666666666666,0.6,0.6
+0022500878,2026-03-01,1040,8,2,5,21,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-194,172,0,Missed Shot,1,0.6666666666666666,0.6,0.6
+0022500878,2026-03-01,1041,9,2,1,32,Jump Shot,3PT Field Goal,29,Above the Break 3,Center(C),24+ ft.,-50,295,1,Made Shot,-1,0.3333333333333333,0.6,0.5
+0022500878,2026-03-01,1042,10,3,11,42,Fadeaway Jump Shot,2PT Field Goal,12,Mid-Range,Left Side(L),8-16 ft.,-119,46,0,Missed Shot,1,0.6666666666666666,0.6,0.6
+0022500878,2026-03-01,1043,11,3,6,11,Driving Floating Bank Jump Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,-6,23,1,Made Shot,-1,0.3333333333333333,0.4,0.5
+0022500878,2026-03-01,1044,12,3,5,38,Driving Floating Jump Shot,2PT Field Goal,13,In The Paint (Non-RA),Center(C),8-16 ft.,62,116,1,Made Shot,1,0.6666666666666666,0.6,0.6
+0022500878,2026-03-01,1045,13,3,4,40,Running Layup Shot,2PT Field Goal,0,Restricted Area,Center(C),Less Than 8 ft.,-7,1,1,Made Shot,2,0.6666666666666666,0.6,0.6
+0022500878,2026-03-01,1046,14,3,3,38,Fadeaway Jump Shot,3PT Field Goal,25,Above the Break 3,Right Side Center(RC),24+ ft.,211,139,1,Made Shot,3,1.0,0.8,0.7
+0022500878,2026-03-01,1047,15,3,3,7,Step Back Jump shot,3PT Field Goal,29,Above the Break 3,Left Side Center(LC),24+ ft.,-123,264,0,Missed Shot,4,1.0,0.8,0.7
+0022500878,2026-03-01,1048,16,3,2,26,Fadeaway Jump Shot,2PT Field Goal,11,In The Paint (Non-RA),Center(C),8-16 ft.,-2,111,1,Made Shot,-1,0.6666666666666666,0.8,0.6
+0022500891,2026-03-03,1049,1,1,11,42,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Center(C),24+ ft.,-39,276,1,Made Shot,1,0.6666666666666666,0.8,0.7
+0022500891,2026-03-03,1050,2,1,11,5,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-159,216,0,Missed Shot,2,0.6666666666666666,0.8,0.7
+0022500891,2026-03-03,1051,3,1,9,16,Driving Floating Jump Shot,2PT Field Goal,13,In The Paint (Non-RA),Center(C),8-16 ft.,43,131,0,Missed Shot,-1,0.6666666666666666,0.6,0.7
+0022500891,2026-03-03,1052,4,1,8,54,Driving Floating Bank Jump Shot,2PT Field Goal,4,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-37,19,0,Missed Shot,-2,0.3333333333333333,0.4,0.6
+0022500891,2026-03-03,1053,5,1,7,19,Driving Floating Jump Shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,25,24,0,Missed Shot,-3,0.0,0.4,0.6
+0022500891,2026-03-03,1054,6,1,4,32,Driving Floating Jump Shot,2PT Field Goal,13,In The Paint (Non-RA),Center(C),8-16 ft.,-66,120,1,Made Shot,-4,0.0,0.2,0.5
+0022500891,2026-03-03,1055,7,1,2,15,Pullup Jump shot,2PT Field Goal,13,In The Paint (Non-RA),Center(C),8-16 ft.,-45,132,1,Made Shot,1,0.3333333333333333,0.2,0.5
+0022500891,2026-03-03,1056,8,2,7,36,Running Pull-Up Jump Shot,3PT Field Goal,25,Above the Break 3,Right Side Center(RC),24+ ft.,151,205,1,Made Shot,2,0.6666666666666666,0.4,0.5
+0022500891,2026-03-03,1057,9,2,5,53,Jump Shot,2PT Field Goal,16,Mid-Range,Right Side Center(RC),16-24 ft.,114,119,0,Missed Shot,3,1.0,0.6,0.5
+0022500891,2026-03-03,1058,10,2,5,29,Jump Shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-137,231,0,Missed Shot,-1,0.6666666666666666,0.6,0.5
+0022500891,2026-03-03,1059,11,2,3,52,Cutting Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,-2,21,1,Made Shot,-2,0.3333333333333333,0.6,0.4
+0022500891,2026-03-03,1060,12,2,2,44,Step Back Jump shot,3PT Field Goal,24,Left Corner 3,Left Side(L),24+ ft.,-227,87,0,Missed Shot,1,0.3333333333333333,0.6,0.4
+0022500891,2026-03-03,1061,13,2,0,53,Pullup Jump shot,2PT Field Goal,16,Mid-Range,Right Side Center(RC),16-24 ft.,104,124,1,Made Shot,-1,0.3333333333333333,0.4,0.4
+0022500891,2026-03-03,1062,14,3,9,39,Jump Shot,3PT Field Goal,27,Above the Break 3,Center(C),24+ ft.,58,273,0,Missed Shot,1,0.6666666666666666,0.4,0.5
+0022500891,2026-03-03,1063,15,3,8,49,Running Layup Shot,2PT Field Goal,1,Restricted Area,Center(C),Less Than 8 ft.,11,11,1,Made Shot,-1,0.3333333333333333,0.4,0.5
+0022500891,2026-03-03,1064,16,3,5,12,Turnaround Fadeaway shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,212,153,0,Missed Shot,1,0.6666666666666666,0.6,0.6
+0022500891,2026-03-03,1065,17,3,4,37,Driving Floating Jump Shot,2PT Field Goal,10,In The Paint (Non-RA),Center(C),8-16 ft.,-16,106,1,Made Shot,-1,0.3333333333333333,0.4,0.5
+0022500891,2026-03-03,1066,18,4,8,6,Step Back Jump shot,3PT Field Goal,28,Above the Break 3,Center(C),24+ ft.,64,274,0,Missed Shot,1,0.6666666666666666,0.6,0.5
+0022500891,2026-03-03,1067,19,4,4,29,Driving Floating Jump Shot,2PT Field Goal,6,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-2,63,1,Made Shot,-1,0.3333333333333333,0.4,0.4
+0022500891,2026-03-03,1068,20,4,3,55,Turnaround Fadeaway shot,2PT Field Goal,8,Mid-Range,Left Side(L),8-16 ft.,-83,33,0,Missed Shot,1,0.6666666666666666,0.6,0.5
+0022500891,2026-03-03,1069,21,4,3,25,Pullup Jump shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,88,246,0,Missed Shot,-1,0.3333333333333333,0.4,0.5
+0022500891,2026-03-03,1070,22,4,1,0,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,121,237,1,Made Shot,-2,0.3333333333333333,0.4,0.4
+0022500906,2026-03-05,1071,1,1,11,26,Jump Shot,3PT Field Goal,26,Above the Break 3,Center(C),24+ ft.,-10,268,0,Missed Shot,1,0.3333333333333333,0.4,0.5
+0022500906,2026-03-05,1072,2,1,6,3,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,206,166,0,Missed Shot,-1,0.3333333333333333,0.4,0.4
+0022500906,2026-03-05,1073,3,1,5,16,Pullup Jump shot,2PT Field Goal,13,Mid-Range,Left Side(L),8-16 ft.,-96,88,1,Made Shot,-2,0.3333333333333333,0.2,0.4
+0022500906,2026-03-05,1074,4,1,4,44,Driving Floating Jump Shot,2PT Field Goal,7,In The Paint (Non-RA),Center(C),Less Than 8 ft.,36,66,1,Made Shot,1,0.3333333333333333,0.4,0.4
+0022500906,2026-03-05,1075,5,1,2,16,Running Pull-Up Jump Shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-107,251,0,Missed Shot,2,0.6666666666666666,0.6,0.5
+0022500906,2026-03-05,1076,6,2,7,31,Fadeaway Jump Shot,2PT Field Goal,14,Mid-Range,Right Side(R),8-16 ft.,105,98,1,Made Shot,-1,0.6666666666666666,0.4,0.4
+0022500906,2026-03-05,1077,7,2,7,1,Pullup Jump shot,2PT Field Goal,9,In The Paint (Non-RA),Right Side(R),8-16 ft.,71,69,1,Made Shot,1,0.6666666666666666,0.6,0.5
+0022500906,2026-03-05,1078,8,2,5,52,Pullup Jump shot,2PT Field Goal,11,Mid-Range,Right Side(R),8-16 ft.,91,78,0,Missed Shot,2,0.6666666666666666,0.8,0.5
+0022500906,2026-03-05,1079,9,2,5,31,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Right Side Center(RC),24+ ft.,88,264,0,Missed Shot,-1,0.6666666666666666,0.6,0.5
+0022500906,2026-03-05,1080,10,2,4,11,Pullup Jump shot,2PT Field Goal,12,In The Paint (Non-RA),Center(C),8-16 ft.,31,126,1,Made Shot,-2,0.3333333333333333,0.4,0.5
+0022500906,2026-03-05,1081,11,2,2,49,Jump Shot,3PT Field Goal,27,Above the Break 3,Right Side Center(RC),24+ ft.,107,251,1,Made Shot,1,0.3333333333333333,0.6,0.5
+0022500906,2026-03-05,1082,12,2,0,32,Driving Layup Shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,-32,19,0,Missed Shot,2,0.6666666666666666,0.6,0.6
+0022500906,2026-03-05,1083,13,3,11,7,Driving Floating Jump Shot,2PT Field Goal,13,Mid-Range,Left Side(L),8-16 ft.,-105,91,0,Missed Shot,-1,0.6666666666666666,0.4,0.6
+0022500906,2026-03-05,1084,14,3,8,8,Driving Layup Shot,2PT Field Goal,4,In The Paint (Non-RA),Center(C),Less Than 8 ft.,38,17,0,Missed Shot,-2,0.3333333333333333,0.4,0.5
+0022500906,2026-03-05,1085,15,3,7,54,Putback Layup Shot,2PT Field Goal,0,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,Made Shot,-3,0.0,0.4,0.4
+0022500906,2026-03-05,1086,16,3,5,40,Running Layup Shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,31,20,1,Made Shot,1,0.3333333333333333,0.4,0.5
+0022500906,2026-03-05,1087,17,3,1,53,Driving Floating Jump Shot,2PT Field Goal,8,In The Paint (Non-RA),Center(C),8-16 ft.,33,80,1,Made Shot,2,0.6666666666666666,0.4,0.5
+0022500906,2026-03-05,1088,18,3,1,5,Jump Shot,3PT Field Goal,30,Above the Break 3,Left Side Center(LC),24+ ft.,-121,280,1,Made Shot,3,1.0,0.6,0.5
+0022500906,2026-03-05,1089,19,3,0,16,Fadeaway Bank shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-222,136,1,Made Shot,4,1.0,0.8,0.6
+0022500906,2026-03-05,1090,20,4,6,24,Fadeaway Jump Shot,2PT Field Goal,13,In The Paint (Non-RA),Center(C),8-16 ft.,-20,132,0,Missed Shot,5,1.0,1.0,0.7
+0022500906,2026-03-05,1091,21,4,5,21,Jump Shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-197,173,0,Missed Shot,-1,0.6666666666666666,0.8,0.6
+0022500906,2026-03-05,1092,22,4,2,29,Driving Floating Jump Shot,2PT Field Goal,16,Mid-Range,Left Side Center(LC),16-24 ft.,-62,155,0,Missed Shot,-2,0.3333333333333333,0.6,0.5
+0022500906,2026-03-05,1093,23,4,0,20,Jump Shot,3PT Field Goal,26,Above the Break 3,Center(C),24+ ft.,47,260,0,Missed Shot,-3,0.0,0.4,0.5
+0022500906,2026-03-05,1094,24,4,0,1,Pullup Jump shot,3PT Field Goal,30,Above the Break 3,Right Side Center(RC),24+ ft.,201,223,0,Missed Shot,-4,0.0,0.2,0.5
+0022500914,2026-03-06,1095,1,1,10,35,Jump Shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-197,181,1,Made Shot,-5,0.0,0.0,0.5
+0022500914,2026-03-06,1096,2,1,10,1,Step Back Jump shot,2PT Field Goal,16,Mid-Range,Center(C),16-24 ft.,33,164,0,Missed Shot,1,0.3333333333333333,0.2,0.5
+0022500914,2026-03-06,1097,3,1,7,48,Jump Shot,3PT Field Goal,29,Above the Break 3,Left Side Center(LC),24+ ft.,-194,227,1,Made Shot,-1,0.3333333333333333,0.2,0.4
+0022500914,2026-03-06,1098,4,1,6,41,Running Layup Shot,2PT Field Goal,0,Restricted Area,Center(C),Less Than 8 ft.,2,1,1,Made Shot,1,0.6666666666666666,0.4,0.4
+0022500914,2026-03-06,1099,5,1,4,50,Driving Layup Shot,2PT Field Goal,4,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-33,36,0,Missed Shot,2,0.6666666666666666,0.6,0.4
+0022500914,2026-03-06,1100,6,1,2,34,Running Pull-Up Jump Shot,3PT Field Goal,27,Above the Break 3,Center(C),24+ ft.,7,279,1,Made Shot,-1,0.6666666666666666,0.6,0.3
+0022500914,2026-03-06,1101,7,1,2,1,Pullup Jump shot,3PT Field Goal,29,Above the Break 3,Center(C),24+ ft.,-73,282,1,Made Shot,1,0.6666666666666666,0.6,0.4
+0022500914,2026-03-06,1102,8,1,0,43,Fadeaway Jump Shot,2PT Field Goal,13,In The Paint (Non-RA),Center(C),8-16 ft.,-60,117,1,Made Shot,2,0.6666666666666666,0.8,0.5
+0022500914,2026-03-06,1103,9,1,0,12,Step Back Jump shot,3PT Field Goal,30,Above the Break 3,Center(C),24+ ft.,22,305,1,Made Shot,3,1.0,0.8,0.6
+0022500914,2026-03-06,1104,10,2,7,21,Step Back Jump shot,3PT Field Goal,23,Left Corner 3,Left Side(L),24+ ft.,-235,-9,0,Missed Shot,4,1.0,0.8,0.7
+0022500914,2026-03-06,1105,11,2,6,40,Turnaround Fadeaway shot,2PT Field Goal,13,In The Paint (Non-RA),Center(C),8-16 ft.,13,130,1,Made Shot,-1,0.6666666666666666,0.8,0.7
+0022500914,2026-03-06,1106,12,2,5,41,Jump Shot,3PT Field Goal,28,Above the Break 3,Center(C),24+ ft.,-83,270,1,Made Shot,1,0.6666666666666666,0.8,0.7
+0022500914,2026-03-06,1107,13,2,5,5,Pullup Jump shot,3PT Field Goal,31,Above the Break 3,Center(C),24+ ft.,82,307,0,Missed Shot,2,0.6666666666666666,0.8,0.8
+0022500914,2026-03-06,1108,14,2,4,37,Jump Shot,3PT Field Goal,28,Above the Break 3,Left Side Center(LC),24+ ft.,-153,246,0,Missed Shot,-1,0.6666666666666666,0.6,0.7
+0022500914,2026-03-06,1109,15,2,1,8,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,163,211,0,Missed Shot,-2,0.3333333333333333,0.4,0.6
+0022500914,2026-03-06,1110,16,3,10,58,Pullup Jump shot,2PT Field Goal,15,Mid-Range,Right Side(R),8-16 ft.,103,119,1,Made Shot,-3,0.0,0.4,0.6
+0022500914,2026-03-06,1111,17,3,10,28,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,87,252,0,Missed Shot,1,0.3333333333333333,0.4,0.6
+0022500914,2026-03-06,1112,18,3,9,13,Turnaround Fadeaway Bank Jump Shot,2PT Field Goal,8,In The Paint (Non-RA),Right Side(R),8-16 ft.,72,37,0,Missed Shot,-1,0.3333333333333333,0.2,0.5
+0022500914,2026-03-06,1113,19,3,8,41,Step Back Jump shot,3PT Field Goal,30,Above the Break 3,Left Side Center(LC),24+ ft.,-109,287,0,Missed Shot,-2,0.3333333333333333,0.2,0.4
+0022500914,2026-03-06,1114,20,3,7,15,Driving Floating Jump Shot,2PT Field Goal,5,In The Paint (Non-RA),Center(C),Less Than 8 ft.,37,42,0,Missed Shot,-3,0.0,0.2,0.3
+0022500914,2026-03-06,1115,21,3,5,51,Jump Shot,3PT Field Goal,24,Right Corner 3,Right Side(R),24+ ft.,235,62,0,Missed Shot,-4,0.0,0.2,0.3
+0022500914,2026-03-06,1116,22,3,3,42,Driving Layup Shot,2PT Field Goal,4,In The Paint (Non-RA),Center(C),Less Than 8 ft.,32,24,1,Made Shot,-5,0.0,0.0,0.2
+0022500914,2026-03-06,1117,23,3,2,13,Pullup Jump shot,2PT Field Goal,8,In The Paint (Non-RA),Left Side(L),8-16 ft.,-42,71,1,Made Shot,1,0.3333333333333333,0.2,0.2
+0022500914,2026-03-06,1118,24,3,1,29,Driving Layup Shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,-16,35,1,Made Shot,2,0.6666666666666666,0.4,0.3
+0022500914,2026-03-06,1119,25,3,0,5,Step Back Bank Jump Shot,3PT Field Goal,29,Above the Break 3,Left Side Center(LC),24+ ft.,-199,214,1,Made Shot,3,1.0,0.6,0.4
+0022500922,2026-03-08,1120,1,1,11,7,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-85,260,0,Missed Shot,4,1.0,0.8,0.5
+0022500922,2026-03-08,1121,2,1,9,24,Driving Floating Jump Shot,2PT Field Goal,10,Mid-Range,Right Side(R),8-16 ft.,91,56,0,Missed Shot,-1,0.6666666666666666,0.8,0.4
+0022500922,2026-03-08,1122,3,1,8,57,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-176,185,0,Missed Shot,-2,0.3333333333333333,0.6,0.4
+0022500922,2026-03-08,1123,4,1,8,1,Running Jump Shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,150,224,1,Made Shot,-3,0.0,0.4,0.4
+0022500922,2026-03-08,1124,5,1,6,1,Pullup Jump shot,2PT Field Goal,13,In The Paint (Non-RA),Center(C),8-16 ft.,62,125,0,Missed Shot,1,0.3333333333333333,0.4,0.5
+0022500922,2026-03-08,1125,6,1,5,25,Turnaround Jump Shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,37,11,1,Made Shot,-1,0.3333333333333333,0.2,0.5
+0022500922,2026-03-08,1126,7,1,3,53,Driving Floating Jump Shot,2PT Field Goal,14,Mid-Range,Center(C),8-16 ft.,-1,148,1,Made Shot,1,0.6666666666666666,0.4,0.6
+0022500922,2026-03-08,1127,8,1,3,22,Jump Shot,3PT Field Goal,27,Above the Break 3,Right Side Center(RC),24+ ft.,158,229,0,Missed Shot,2,0.6666666666666666,0.6,0.6
+0022500922,2026-03-08,1128,9,2,1,22,Jump Shot,3PT Field Goal,28,Above the Break 3,Center(C),24+ ft.,67,278,0,Missed Shot,-1,0.6666666666666666,0.6,0.5
+0022500922,2026-03-08,1129,10,2,0,17,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,148,215,0,Missed Shot,-2,0.3333333333333333,0.4,0.4
+0022500922,2026-03-08,1130,11,3,10,48,Turnaround Fadeaway shot,2PT Field Goal,15,Mid-Range,Left Side(L),8-16 ft.,-156,31,1,Made Shot,-3,0.0,0.4,0.3
+0022500922,2026-03-08,1131,12,3,9,46,Pullup Jump shot,3PT Field Goal,26,Above the Break 3,Center(C),24+ ft.,-50,262,0,Missed Shot,1,0.3333333333333333,0.4,0.4
+0022500922,2026-03-08,1132,13,3,8,55,Fadeaway Jump Shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-172,217,1,Made Shot,-1,0.3333333333333333,0.2,0.4
+0022500922,2026-03-08,1133,14,3,8,33,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-183,207,0,Missed Shot,1,0.6666666666666666,0.4,0.5
+0022500922,2026-03-08,1134,15,3,4,9,Driving Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,-13,20,1,Made Shot,-1,0.3333333333333333,0.4,0.4
+0022500922,2026-03-08,1135,16,3,3,33,Step Back Jump shot,3PT Field Goal,24,Above the Break 3,Right Side Center(RC),24+ ft.,148,197,0,Missed Shot,1,0.6666666666666666,0.6,0.5
+0022500922,2026-03-08,1136,17,3,2,52,Jump Shot,3PT Field Goal,29,Above the Break 3,Left Side Center(LC),24+ ft.,-181,230,1,Made Shot,-1,0.3333333333333333,0.4,0.4
+0022500922,2026-03-08,1137,18,3,1,8,Fadeaway Jump Shot,2PT Field Goal,13,In The Paint (Non-RA),Center(C),8-16 ft.,-64,117,0,Missed Shot,1,0.6666666666666666,0.6,0.4
+0022500922,2026-03-08,1138,19,3,0,59,Fadeaway Jump Shot,3PT Field Goal,24,Left Corner 3,Left Side(L),24+ ft.,-241,53,0,Missed Shot,-1,0.3333333333333333,0.4,0.4
+0022500922,2026-03-08,1139,20,3,0,32,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Center(C),24+ ft.,-66,257,1,Made Shot,-2,0.3333333333333333,0.4,0.4
+0022500922,2026-03-08,1140,21,4,7,39,Step Back Jump shot,2PT Field Goal,12,Mid-Range,Right Side(R),8-16 ft.,115,48,1,Made Shot,1,0.3333333333333333,0.4,0.5
+0022500922,2026-03-08,1141,22,4,3,0,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Right Side Center(RC),24+ ft.,136,214,0,Missed Shot,2,0.6666666666666666,0.6,0.5
+0022500922,2026-03-08,1142,23,4,2,34,Driving Floating Bank Jump Shot,2PT Field Goal,4,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-6,44,1,Made Shot,-1,0.6666666666666666,0.4,0.5
+0022500922,2026-03-08,1143,24,4,1,55,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-213,147,0,Missed Shot,1,0.6666666666666666,0.6,0.5
+0022500922,2026-03-08,1144,25,4,1,5,Jump Shot,3PT Field Goal,29,Above the Break 3,Left Side Center(LC),24+ ft.,-180,230,1,Made Shot,-1,0.3333333333333333,0.6,0.5
+0022500946,2026-03-10,1145,1,1,11,42,Pullup Jump shot,2PT Field Goal,12,In The Paint (Non-RA),Center(C),8-16 ft.,-44,122,0,Missed Shot,1,0.6666666666666666,0.6,0.5
+0022500946,2026-03-10,1146,2,1,10,40,Step Back Jump shot,2PT Field Goal,19,Mid-Range,Left Side Center(LC),16-24 ft.,-74,176,0,Missed Shot,-1,0.3333333333333333,0.4,0.5
+0022500946,2026-03-10,1147,3,1,9,29,Step Back Jump shot,2PT Field Goal,14,Mid-Range,Center(C),8-16 ft.,-22,147,0,Missed Shot,-2,0.3333333333333333,0.4,0.4
+0022500946,2026-03-10,1148,4,1,8,33,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-137,218,0,Missed Shot,-3,0.0,0.2,0.4
+0022500946,2026-03-10,1149,5,1,6,38,Step Back Jump shot,2PT Field Goal,15,Mid-Range,Center(C),8-16 ft.,58,148,0,Missed Shot,-4,0.0,0.2,0.4
+0022500946,2026-03-10,1150,6,1,5,53,Driving Layup Shot,2PT Field Goal,2,Restricted Area,Center(C),Less Than 8 ft.,17,12,1,Made Shot,-5,0.0,0.0,0.3
+0022500946,2026-03-10,1151,7,1,3,52,Turnaround Hook Shot,2PT Field Goal,6,In The Paint (Non-RA),Center(C),Less Than 8 ft.,-20,57,0,Missed Shot,1,0.3333333333333333,0.2,0.3
+0022500946,2026-03-10,1152,8,1,3,46,Pullup Jump shot,3PT Field Goal,25,Above the Break 3,Right Side Center(RC),24+ ft.,114,226,0,Missed Shot,-1,0.3333333333333333,0.2,0.3
+0022500946,2026-03-10,1153,9,1,2,40,Driving Layup Shot,2PT Field Goal,1,Restricted Area,Center(C),Less Than 8 ft.,11,8,1,Made Shot,-2,0.3333333333333333,0.2,0.2
+0022500946,2026-03-10,1154,10,1,2,3,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Left Side Center(LC),24+ ft.,-223,118,0,Missed Shot,1,0.3333333333333333,0.4,0.3
+0022500946,2026-03-10,1155,11,2,6,6,Jump Shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-113,256,1,Made Shot,-1,0.3333333333333333,0.4,0.2
+0022500946,2026-03-10,1156,12,2,3,43,Step Back Jump shot,3PT Field Goal,26,Above the Break 3,Left Side Center(LC),24+ ft.,-186,189,0,Missed Shot,1,0.6666666666666666,0.4,0.3
+0022500946,2026-03-10,1157,13,2,2,10,Cutting Layup Shot,2PT Field Goal,3,Restricted Area,Center(C),Less Than 8 ft.,23,23,1,Made Shot,-1,0.3333333333333333,0.4,0.3
+0022500946,2026-03-10,1158,14,2,1,39,Step Back Jump shot,3PT Field Goal,27,Above the Break 3,Left Side Center(LC),24+ ft.,-151,233,1,Made Shot,1,0.6666666666666666,0.6,0.4
+0022500946,2026-03-10,1159,15,2,1,14,Pullup Jump shot,3PT Field Goal,28,Above the Break 3,Left Side Center(LC),24+ ft.,-206,201,0,Missed Shot,2,0.6666666666666666,0.6,0.5
+0022500946,2026-03-10,1160,16,3,11,29,Driving Layup Shot,2PT Field Goal,1,Restricted Area,Center(C),Less Than 8 ft.,-13,14,1,Made Shot,-1,0.6666666666666666,0.6,0.5
+0022500946,2026-03-10,1161,17,3,9,13,Step Back Bank Jump Shot,3PT Field Goal,22,Left Corner 3,Left Side(L),24+ ft.,-222,58,1,Made Shot,1,0.6666666666666666,0.6,0.5
+0022500946,2026-03-10,1162,18,3,8,37,Driving Floating Jump Shot,2PT Field Goal,11,Mid-Range,Left Side(L),8-16 ft.,-108,40,1,Made Shot,2,0.6666666666666666,0.8,0.6
+0022500946,2026-03-10,1163,19,3,8,11,Jump Shot,3PT Field Goal,28,Above the Break 3,Left Side Center(LC),24+ ft.,-200,200,0,Missed Shot,3,1.0,0.8,0.7
+0022500946,2026-03-10,1164,20,3,4,0,Driving Layup Shot,2PT Field Goal,4,In The Paint (Non-RA),Center(C),Less Than 8 ft.,33,32,1,Made Shot,-1,0.6666666666666666,0.6,0.6
+0022500946,2026-03-10,1165,21,3,2,13,Pullup Jump shot,3PT Field Goal,29,Above the Break 3,Center(C),24+ ft.,59,287,0,Missed Shot,1,0.6666666666666666,0.8,0.7
+0022500946,2026-03-10,1166,22,3,0,31,Step Back Jump shot,3PT Field Goal,25,Above the Break 3,Center(C),24+ ft.,-70,247,0,Missed Shot,-1,0.3333333333333333,0.6,0.6
+0022500946,2026-03-10,1167,23,4,6,30,Jump Shot,3PT Field Goal,26,Above the Break 3,Right Side Center(RC),24+ ft.,178,195,1,Made Shot,-2,0.3333333333333333,0.4,0.6
+0022500946,2026-03-10,1168,24,4,5,5,Step Back Jump shot,2PT Field Goal,14,Mid-Range,Left Side(L),8-16 ft.,-88,119,1,Made Shot,1,0.3333333333333333,0.4,0.6

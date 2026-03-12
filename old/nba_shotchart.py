@@ -21,14 +21,26 @@ def get_player_shotchartdetail(player_name, season_id):
 
     # player dictionary
     nba_players = players.get_players()
-    player_dict = [player for player in nba_players if player['full_name'] == player_name][0]
+    
+    # edit
+    # Use the search function which hits the live/updated list
+    search_results = players.find_players_by_full_name(player_name)
+
+    if not search_results:
+        raise ValueError(f"Could not find player: {player_name}")
+
+    # Get the first match
+    player_dict = search_results[0]
+
+    # edit to fit new players ------ 
+    # player_dict = [player for player in nba_players if player['full_name'] == player_name][0]
 
     # career dataframe
     career = playercareerstats.PlayerCareerStats(player_id=player_dict['id'])
     career_df = career.get_data_frames()[0]
 
     # team id during the season
-    team_id = career_df[career_df['SEASON_ID'] == season_id]['TEAM_ID']
+    team_id = career_df[career_df['SEASON_ID'] == season_id]['TEAM_ID'].iloc[0]
 
     # shotchartdetail endpoints
     shotchartlist = shotchartdetail.ShotChartDetail(team_id=int(team_id),
