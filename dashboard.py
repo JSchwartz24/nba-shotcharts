@@ -285,7 +285,8 @@ except FileNotFoundError:
     st.stop()
 
 df, overall_fg, total_fgm, total_fga = run_engines(
-    raw_df.to_json(), heuristic_strength, prior_anchor
+    raw_df.assign(game_date=raw_df['game_date'].dt.strftime('%Y-%m-%d')).to_json(),
+    heuristic_strength, prior_anchor
 )
 
 ci_low, ci_high = proportion_confint(total_fgm, total_fga, alpha=0.05, method='wilson')
@@ -326,9 +327,9 @@ for col, (val, label, cls) in zip([c1,c2,c3,c4,c5], metrics):
 # TABS
 # ══════════════════════════════════════════════════════════════════════════════
 
-tab1, tab2, tab3, tab4, tab5 = st.tabs([
+tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs([
     "📈 Belief Trace", "🎯 Game Explorer", "📊 Streak Analysis",
-    "🏀 Shot Chart", "🧠 Model Theory"
+    "🏀 Shot Chart", "🧠 Model Theory", "🧪 Heuristic Strength Test"
 ])
 
 
@@ -685,3 +686,356 @@ with tab5:
     st.info(f"**Heuristic Strength = {heuristic_strength}** → {current_strength_label}  \n"
             f"Mean season bias gap: **{mean_div*100:.2f} percentage points**  \n"
             f"Max bias gap: **{max_div*100:.2f} percentage points**")
+
+
+# ────────────────────────────────────────────────────────────────────────────
+# TAB 6 — HEURISTIC STRENGTH TEST
+# ────────────────────────────────────────────────────────────────────────────
+with tab6:
+    st.markdown('<div class="section-header">Heuristic Strength Test</div>', unsafe_allow_html=True)
+    st.markdown("""
+    <div class="theory-box">
+    Watch a real Luka game shot-by-shot. After each shot is revealed, predict whether the <b>next shot</b> will go in.
+    Before each guess you'll see the shot zone and Luka's season average from that area — the same information
+    a rational observer would use. When the game is over, your prediction pattern is fitted to the
+    Cognitive Engine to estimate your personal <b>heuristic strength</b>: how much your intuition was swayed
+    by recent makes and misses versus the statistical baseline.
+    </div>
+    """, unsafe_allow_html=True)
+
+    # Season averages for context cards (pre-computed once)
+    _zr_fg = raw_df.groupby('shot_zone_range')['shot_made'].mean().to_dict()
+    _st_fg = raw_df.groupby('shot_type')['shot_made'].mean().to_dict()
+
+    # ── Session state init ────────────────────────────────────────────────
+    if 'quiz' not in st.session_state:
+        st.session_state.quiz = {
+            'started':     False,
+            'game_df':     None,
+            'shot_idx':    1,
+            'predictions': [],
+            'complete':    False,
+        }
+    q = st.session_state.quiz
+
+    # ══════════════════════════════════════════════════════════════════════
+    # START SCREEN
+    # ══════════════════════════════════════════════════════════════════════
+    if not q['started']:
+        c_left, c_right = st.columns([3, 1])
+        with c_left:
+            st.markdown("""
+**How it works:**
+1. A random game from the 2025–26 season is selected
+2. Shot 1's outcome is revealed; you then predict Shot 2
+3. Each prediction shows the upcoming shot's **zone**, Luka's **season average from that zone**, and the **current streak**
+4. After every guess the actual result is revealed, then the next shot is queued
+5. At the end your predictions are fitted to the Cognitive Engine — your estimated heuristic strength is shown
+            """)
+        with c_right:
+            st.markdown("<br>", unsafe_allow_html=True)
+            if st.button("🎲 Pick a Random Game", type="primary", use_container_width=True):
+                _gid = np.random.choice(raw_df['game_id'].unique())
+                _gdf = (raw_df[raw_df['game_id'] == _gid]
+                        .sort_values('game_shot_number')
+                        .reset_index(drop=True))
+                st.session_state.quiz = {
+                    'started':     True,
+                    'game_df':     _gdf.to_dict('records'),
+                    'shot_idx':    1,
+                    'predictions': [],
+                    'complete':    False,
+                }
+                st.rerun()
+
+    # ══════════════════════════════════════════════════════════════════════
+    # ACTIVE QUIZ  /  RESULTS
+    # ══════════════════════════════════════════════════════════════════════
+    else:
+        _gdf      = pd.DataFrame(q['game_df'])
+        _n        = len(_gdf)
+        _preds    = q['predictions']
+        _shot_idx = q['shot_idx']
+        _total_p  = _n - 1
+        _date_str = pd.to_datetime(_gdf['game_date'].iloc[0]).strftime('%b %d, %Y')
+
+        # ── Top bar: game label + reset ───────────────────────────────────
+        _hcol, _rcol = st.columns([5, 1])
+        with _hcol:
+            st.markdown(f"**{_date_str}** — {_n} shots in this game — predicting shots 2 through {_n}")
+            if not q['complete']:
+                st.progress(len(_preds) / _total_p,
+                            text=f"{len(_preds)} of {_total_p} predictions made")
+        with _rcol:
+            if st.button("🔄 New Game", use_container_width=True):
+                st.session_state.quiz = {
+                    'started': False, 'game_df': None,
+                    'shot_idx': 1, 'predictions': [], 'complete': False,
+                }
+                st.rerun()
+
+        # ══════════════════════════════════════════════════════════════════
+        # ACTIVE: shot history + current prediction prompt
+        # ══════════════════════════════════════════════════════════════════
+        if not q['complete']:
+            st.markdown("---")
+
+            # Always show Shot 1 (never predicted)
+            _s0 = _gdf.iloc[0]
+            _r0 = "✅ **MADE**" if _s0['shot_made'] else "❌ **MISSED**"
+            st.markdown(f"**Shot 1:** {_r0} — {_s0['shot_zone_range']} ({_s0['shot_type']})")
+
+            # History of predictions already made
+            for _p in _preds:
+                _si   = _p['shot_idx']
+                _row  = _gdf.iloc[_si]
+                _ai   = "✅" if _row['shot_made'] else "❌"
+                _pi   = "✅" if _p['pred'] else "❌"
+                _ok   = _p['pred'] == _row['shot_made']
+                _clr  = "#22c55e" if _ok else "#ef4444"
+                _mark = "✓" if _ok else "✗"
+                st.markdown(
+                    f"**Shot {_si + 1}:** {_ai} {'MADE' if _row['shot_made'] else 'MISSED'} "
+                    f"— your guess: {_pi} "
+                    f'— <span style="color:{_clr};font-weight:700;">{_mark}</span>',
+                    unsafe_allow_html=True,
+                )
+
+            st.markdown("---")
+
+            # Current prediction prompt
+            _cur         = _gdf.iloc[_shot_idx]
+            _zone_range  = _cur['shot_zone_range']
+            _shot_type   = _cur['shot_type']
+            _zone_avg    = _zr_fg.get(_zone_range, overall_fg)
+            _cur_streak  = int(_cur.get('streak', 0))
+            _streak_str  = f"+{_cur_streak}" if _cur_streak > 0 else str(_cur_streak)
+            _streak_cls  = "green" if _cur_streak > 0 else ("red" if _cur_streak < 0 else "")
+
+            st.markdown(f"### Predict Shot {_shot_idx + 1} of {_n}")
+            _c1, _c2, _c3, _c4 = st.columns(4)
+            with _c1:
+                st.markdown(
+                    f'<div class="metric-card">'
+                    f'<div class="metric-val" style="font-size:1.3rem;line-height:1.2;">{_zone_range}</div>'
+                    f'<div class="metric-label">Shot Zone</div></div>',
+                    unsafe_allow_html=True,
+                )
+            with _c2:
+                st.markdown(
+                    f'<div class="metric-card">'
+                    f'<div class="metric-val green" style="font-size:1.3rem;">{_zone_avg*100:.1f}%</div>'
+                    f'<div class="metric-label">Season Avg — This Zone</div></div>',
+                    unsafe_allow_html=True,
+                )
+            with _c3:
+                st.markdown(
+                    f'<div class="metric-card">'
+                    f'<div class="metric-val {_streak_cls}" style="font-size:1.3rem;">{_streak_str}</div>'
+                    f'<div class="metric-label">Streak Entering Shot</div></div>',
+                    unsafe_allow_html=True,
+                )
+            with _c4:
+                st.markdown(
+                    f'<div class="metric-card">'
+                    f'<div class="metric-val gold" style="font-size:1.3rem;">{_shot_type}</div>'
+                    f'<div class="metric-label">Shot Type</div></div>',
+                    unsafe_allow_html=True,
+                )
+
+            st.markdown("")
+            _b1, _b2, _b3 = st.columns([1, 1, 2])
+            with _b1:
+                if st.button("✅  YES — Goes In", type="primary",
+                             use_container_width=True, key=f"yes_{_shot_idx}"):
+                    _new_preds = _preds + [{'shot_idx': _shot_idx, 'pred': 1}]
+                    _new_idx   = _shot_idx + 1
+                    st.session_state.quiz['predictions'] = _new_preds
+                    if _new_idx >= _n:
+                        st.session_state.quiz['complete'] = True
+                    else:
+                        st.session_state.quiz['shot_idx'] = _new_idx
+                    st.rerun()
+            with _b2:
+                if st.button("❌  NO — Misses",
+                             use_container_width=True, key=f"no_{_shot_idx}"):
+                    _new_preds = _preds + [{'shot_idx': _shot_idx, 'pred': 0}]
+                    _new_idx   = _shot_idx + 1
+                    st.session_state.quiz['predictions'] = _new_preds
+                    if _new_idx >= _n:
+                        st.session_state.quiz['complete'] = True
+                    else:
+                        st.session_state.quiz['shot_idx'] = _new_idx
+                    st.rerun()
+
+        # ══════════════════════════════════════════════════════════════════
+        # RESULTS
+        # ══════════════════════════════════════════════════════════════════
+        else:
+            _preds = q['predictions']
+
+            # ── Accuracy ─────────────────────────────────────────────────
+            _correct  = sum(1 for p in _preds
+                            if p['pred'] == _gdf.iloc[p['shot_idx']]['shot_made'])
+            _accuracy = _correct / len(_preds) if _preds else 0
+
+            # ── Fit heuristic strength via log-likelihood ─────────────────
+            _strengths = np.arange(0.0, 1.01, 0.05)
+            _best_ll   = -np.inf
+            _best_s    = 0.0
+            _ll_curve  = []
+
+            for _s in _strengths:
+                _eng = CognitiveEngine(
+                    prior_fg_pct=overall_fg,
+                    heuristic_strength=float(_s),
+                    prior_anchor=prior_anchor,
+                )
+                _eng.new_game()
+                _beliefs = []
+                for _rn, (_, _r) in enumerate(_gdf.iterrows()):
+                    if _rn >= 1:
+                        _beliefs.append(_eng.current_belief)
+                    _eng.update(int(_r['shot_made']))
+
+                _ll = 0.0
+                for _k, _p in enumerate(_preds):
+                    _prob = np.clip(_beliefs[_k], 1e-6, 1 - 1e-6)
+                    _ll  += _p['pred'] * np.log(_prob) + (1 - _p['pred']) * np.log(1 - _prob)
+                _ll_curve.append(_ll)
+                if _ll > _best_ll:
+                    _best_ll = _ll
+                    _best_s  = float(_s)
+
+            # ── Interpretation label ──────────────────────────────────────
+            if _best_s < 0.3:
+                _interp = "near-rational — your predictions closely tracked the statistical baseline"
+                _scls   = "green"
+            elif _best_s < 0.55:
+                _interp = "mildly biased — slight sensitivity to recent streaks"
+                _scls   = ""
+            elif _best_s < 0.75:
+                _interp = "moderately biased — typical Hot Hand believer"
+                _scls   = "gold"
+            else:
+                _interp = "strongly biased — heavily swayed by recent makes and misses"
+                _scls   = "red"
+
+            # ── Summary metrics ───────────────────────────────────────────
+            st.markdown("## Your Results")
+            _naive_acc = max(overall_fg, 1 - overall_fg)
+            _rm1, _rm2, _rm3, _rm4 = st.columns(4)
+            with _rm1:
+                st.markdown(
+                    f'<div class="metric-card"><div class="metric-val green">{_correct}/{len(_preds)}</div>'
+                    f'<div class="metric-label">Correct Predictions</div></div>',
+                    unsafe_allow_html=True,
+                )
+            with _rm2:
+                st.markdown(
+                    f'<div class="metric-card"><div class="metric-val">{_accuracy*100:.0f}%</div>'
+                    f'<div class="metric-label">Your Accuracy</div></div>',
+                    unsafe_allow_html=True,
+                )
+            with _rm3:
+                st.markdown(
+                    f'<div class="metric-card"><div class="metric-val {_scls}">{_best_s:.2f}</div>'
+                    f'<div class="metric-label">Your Heuristic Strength</div></div>',
+                    unsafe_allow_html=True,
+                )
+            with _rm4:
+                st.markdown(
+                    f'<div class="metric-card"><div class="metric-val">{_naive_acc*100:.0f}%</div>'
+                    f'<div class="metric-label">Naive Baseline (always guess majority)</div></div>',
+                    unsafe_allow_html=True,
+                )
+
+            st.info(
+                f"**Interpretation:** Your prediction pattern best matches a Cognitive Engine "
+                f"with heuristic strength **{_best_s:.2f}** — {_interp}."
+            )
+
+            # ── Charts ────────────────────────────────────────────────────
+            # Rebuild beliefs for the fitted engine and rational engine
+            _fit_eng = CognitiveEngine(
+                prior_fg_pct=overall_fg, heuristic_strength=_best_s, prior_anchor=prior_anchor
+            )
+            _fit_eng.new_game()
+            _rat_eng = RationalEngine(prior_makes=total_fgm, prior_misses=total_fga - total_fgm)
+            _rat_eng.new_game()
+
+            _fit_beliefs = []
+            _rat_beliefs = []
+            for _rn, (_, _r) in enumerate(_gdf.iterrows()):
+                if _rn >= 1:
+                    _fit_beliefs.append(_fit_eng.current_belief)
+                    _rat_beliefs.append(_rat_eng.current_belief)
+                _fit_eng.update(int(_r['shot_made']))
+                _rat_eng.update(int(_r['shot_made']))
+
+            _shot_nums   = list(range(2, _n + 1))
+            _user_pred_v = [p['pred'] for p in _preds]
+
+            fig_r, (ax_ll, ax_tr) = plt.subplots(1, 2, figsize=(14, 4))
+
+            # Left: log-likelihood curve
+            ax_ll.plot(_strengths, _ll_curve, color=COGNITIVE_COLOR, lw=2.5, marker='o', ms=4)
+            ax_ll.axvline(_best_s, color=GOLD_COLOR, lw=2, ls='--',
+                          label=f'Your fit: {_best_s:.2f}')
+            ax_ll.axvline(heuristic_strength, color=RATIONAL_COLOR, lw=1.5, ls=':',
+                          alpha=0.7, label=f'Dashboard setting: {heuristic_strength}')
+            ax_ll.set_xlabel('Heuristic Strength')
+            ax_ll.set_ylabel('Log-Likelihood')
+            ax_ll.set_title('Prediction Fit vs Heuristic Strength', fontsize=11)
+            ax_ll.legend(fontsize=9)
+            ax_ll.grid(True, alpha=0.3)
+
+            # Right: belief traces + user predictions
+            ax_tr.plot(_shot_nums, [b * 100 for b in _rat_beliefs],
+                       color=RATIONAL_COLOR, lw=2, label='Rational (Bayesian)', zorder=3)
+            ax_tr.plot(_shot_nums, [b * 100 for b in _fit_beliefs],
+                       color=COGNITIVE_COLOR, lw=2, ls='--',
+                       label=f'Cognitive (fitted s={_best_s:.2f})', zorder=3)
+            ax_tr.axhline(overall_fg * 100, color=GOLD_COLOR, lw=1, ls=':', alpha=0.7,
+                          label=f'Season FG% ({overall_fg*100:.1f}%)')
+
+            for _k, (_sn, _up) in enumerate(zip(_shot_nums, _user_pred_v)):
+                _actual = _gdf.iloc[_k + 1]['shot_made']
+                _marker = '^' if _up == 1 else 'v'
+                _clr    = MAKE_COLOR if _up == _actual else MISS_COLOR
+                ax_tr.scatter(_sn, 50, marker=_marker, color=_clr, s=70, zorder=5, alpha=0.85)
+
+            ax_tr.set_ylim(20, 80)
+            ax_tr.yaxis.set_major_formatter(mtick.PercentFormatter())
+            ax_tr.set_xlabel('Shot Number in Game')
+            ax_tr.set_ylabel('FG Probability (%)')
+            ax_tr.set_title(
+                'Your Predictions vs Engine Beliefs\n'
+                '(▲ = predicted make, ▼ = predicted miss;  green = correct, red = wrong)',
+                fontsize=10,
+            )
+            ax_tr.legend(fontsize=8)
+            ax_tr.grid(True, alpha=0.3)
+
+            plt.tight_layout()
+            st.pyplot(fig_r)
+            plt.close()
+
+            # ── Full prediction breakdown ─────────────────────────────────
+            with st.expander("View full prediction breakdown"):
+                _rows = []
+                for _p in _preds:
+                    _si  = _p['shot_idx']
+                    _r   = _gdf.iloc[_si]
+                    _ok  = _p['pred'] == _r['shot_made']
+                    _rows.append({
+                        'Shot #':          _si + 1,
+                        'Zone':            _r['shot_zone_range'],
+                        'Type':            _r['shot_type'],
+                        'Streak':          int(_r.get('streak', 0)),
+                        'Zone Season Avg': f"{_zr_fg.get(_r['shot_zone_range'], overall_fg)*100:.1f}%",
+                        'Your Prediction': '✅ Make' if _p['pred'] else '❌ Miss',
+                        'Actual':          '✅ Made' if _r['shot_made'] else '❌ Missed',
+                        'Correct':         '✓' if _ok else '✗',
+                    })
+                st.dataframe(pd.DataFrame(_rows), use_container_width=True, hide_index=True)

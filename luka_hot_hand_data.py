@@ -2,10 +2,10 @@
 Hot Hand Fallacy - Data Collection Pipeline
 CS6795 Term Project | Jason Schwartz | Georgia Tech OMSCS
 
-Collects every field goal attempt by Luka Doncic in the 2024-25 season,
+Collects every field goal attempt by Luka Doncic in the 2025-26 season,
 preserving game order and shot sequence for Hot Hand analysis.
 
-Output: luka_2024_25_shots.csv
+Output: luka_2025_26_shots.csv
 """
 
 import time
