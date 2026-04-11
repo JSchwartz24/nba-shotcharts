@@ -1,47 +1,58 @@
-# NBA Shot Charts (Inspired by FlightReacts)
+# Hot Hand Fallacy — Luka Doncic Shot Analysis
 
-This is my kind of project. I'll get this done by June.
-All jokes aside, this is a my attempt to create a shot chart, hexmap, and heatmap.
-All complete functions are contained in the jupyter notebook.
+**CS6795 Term Project | Jason Schwartz | Georgia Tech OMSCS**
 
-Here's a link to the youtube tutorial:
-https://youtu.be/a3u-3gEYvxM
+An interactive investigation into the Hot Hand Fallacy using Luka Doncic's 2025-26 shot chart data. The project models two competing observers — a rational Bayesian and a cognitively biased human — and compares their shot probability estimates across a full NBA season.
+
+## Project Overview
+
+The [Hot Hand Fallacy](https://en.wikipedia.org/wiki/Hot-hand_fallacy) refers to the belief that a player who has made several shots in a row is more likely to make the next one. Gilovich, Vallone & Tversky (1985) argued this is a cognitive bias; more recent work has complicated that finding. This project explores it empirically using real shot-by-shot data.
+
+### Components
+
+| File | Description |
+|------|-------------|
+| [luka_hot_hand_data.py](luka_hot_hand_data.py) | Data pipeline — pulls shot chart from NBA API, builds chronological shot sequence with streaks and rolling FG% |
+| [rational_engine.py](rational_engine.py) | Type 2 system: Bayesian Beta-Binomial observer that updates belief rationally after each shot |
+| [cognitive_engine.py](cognitive_engine.py) | Type 1 system: Biased observer using exponentially decaying recency weights (models representativeness heuristic) |
+| [dashboard.py](dashboard.py) | Streamlit dashboard for interactive visualization and parameter exploration |
+| [hot_hand_analysis.ipynb](hot_hand_analysis.ipynb) | Exploratory analysis notebook |
 
 ## Getting Started
 
-First, clone the repository.
-
-``` 
-git clone https://github.com/hkair/nba-shotcharts.git
-```
-
 ### Prerequisites
 
-```
-cd .. into repository
+- Python 3.8+
+- A virtual environment (recommended)
+
+### Setup
+
+```bash
+git clone <your-repo-url>
+cd nba-shotcharts
+python -m venv venv_new
+source venv_new/bin/activate
+pip install -r requirements.txt
 ```
 
-### Installing
+### Collect Data
 
-A step by step series of examples that tell you how to get a development env running
-
-1. Activate the environment
-```
-source env/bin/activate
+```bash
+python luka_hot_hand_data.py
 ```
 
-2. Install dependencies.
-```
-pip install requirements.txt 
+This pulls Luka's shot chart from the NBA API and writes `luka_2025_26_shots.csv` with per-shot streak and rolling FG% columns.
+
+### Run the Dashboard
+
+```bash
+streamlit run dashboard.py
 ```
 
-3. Run nba_shotcharts.py
-``` 
-python nba_shotcharts.py "Michael Jordan" "1997-98"
-```
+The dashboard requires `luka_2025_26_shots.csv` to be present.
 
 ## Acknowledgments
 
-* https://github.com/savvastj for the draw_court function.
-* https://github.com/swar for the nba_api.
-* Inspired by FlightsReact, Youtube's best Basketball Player
+- [hkair/nba-shotcharts](https://github.com/hkair/nba-shotcharts) — initial reference for working with the NBA API and drawing the shot chart court
+- [swar/nba_api](https://github.com/swar/nba_api) — the Python client for stats.nba.com
+- Gilovich, T., Vallone, R., & Tversky, A. (1985). *The hot hand in basketball: On the misperception of random sequences.*
